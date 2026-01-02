@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "hafta10_q1",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 1,
+    "question": "What did the famous Miller-Urey experiment of 1952 successfully synthesize?",
+    "options": {
+      "A": "Living cells",
+      "B": "Amino acids",
+      "C": "DNA",
+      "D": "Prokaryotes"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q2",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 2,
+    "question": "What is the \"faint young Sun paradox\"?",
+    "options": {
+      "A": "The early Sun was hotter, but Earth was frozen.",
+      "B": "The early Sun was only 70% as luminous, yet Earth had liquid water and was not frozen.",
+      "C": "The early Sun had no sunspots.",
+      "D": "The early Sun was much larger than it is today."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q3",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 3,
+    "question": "The dramatic rise of oxygen in Earth's atmosphere, caused by photosynthetic cyanobacteria, is known as the:",
+    "options": {
+      "A": "Cambrian Explosion",
+      "B": "Late Heavy Bombardment",
+      "C": "Great Oxygenation Event",
+      "D": "Huronian Glaciation"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q4",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 4,
+    "question": "What is the defining structural difference between prokaryotic and eukaryotic cells?",
+    "options": {
+      "A": "Eukaryotes have a cell wall, while prokaryotes do not.",
+      "B": "Prokaryotes are much larger than eukaryotes.",
+      "C": "Eukaryotes have a nucleus to contain their DNA, while prokaryotes do not.",
+      "D": "Prokaryotes use oxygen, while eukaryotes do not."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q5",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 5,
+    "question": "What geological formations, consisting of layers of iron oxides, are the primary evidence for the Great Oxygenation Event?",
+    "options": {
+      "A": "Stromatolites",
+      "B": "Banded Iron Formations (BIFs)",
+      "C": "Glacial dropstones",
+      "D": "Pillow lavas"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q6",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 6,
+    "question": "Which of the following is NOT one of the four essential components of life discussed in the lecture?",
+    "options": {
+      "A": "The ability to replicate",
+      "B": "The ability to move",
+      "C": "The ability to generate energy (metabolize)",
+      "D": "Separation from the external environment (a membrane)"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q7",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 7,
+    "question": "The hypothesis that complex eukaryotic cells formed from a symbiotic relationship between prokaryotic cells is called:",
+    "options": {
+      "A": "Panspermia",
+      "B": "Abiogenesis",
+      "C": "The Endosymbiotic Hypothesis",
+      "D": "The Gaia Hypothesis"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q8",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 8,
+    "question": "The first \"Snowball Earth\" event, the Huronian Glaciation, was triggered by the reduction of which potent greenhouse gas?",
+    "options": {
+      "A": "Carbon Dioxide",
+      "B": "Water Vapor",
+      "C": "Methane",
+      "D": "Ozone"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q9",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 9,
+    "question": "The idea that life originated elsewhere and was seeded on Earth is known as:",
+    "options": {
+      "A": "Abiogenesis",
+      "B": "Panspermia",
+      "C": "Spontaneous Generation",
+      "D": "The RNA World"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q10",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 10,
+    "question": "Layered sedimentary structures formed by mats of cyanobacteria, which are some of the oldest fossils, are called:",
+    "options": {
+      "A": "Tillites",
+      "B": "BIFs",
+      "C": "Ediacarans",
+      "D": "Stromatolites"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q11",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 11,
+    "question": "Which molecule is central to the \"RNA world\" hypothesis because it can both store information and catalyze reactions?",
+    "options": {
+      "A": "DNA",
+      "B": "ATP",
+      "C": "RNA",
+      "D": "Protein"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q12",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 12,
+    "question": "The period of intense meteorite impacts on Earth from about 4.1 to 3.8 billion years ago is known as the:",
+    "options": {
+      "A": "Archean Eon",
+      "B": "Phanerozoic Eon",
+      "C": "Late Heavy Bombardment",
+      "D": "Great Oxygenation Event"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q13",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 13,
+    "question": "Simple, single-celled organisms that lack a nucleus, such as bacteria, are known as:",
+    "options": {
+      "A": "Eukaryotes",
+      "B": "Prokaryotes",
+      "C": "Metazoans",
+      "D": "Fungi"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q14",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 14,
+    "question": "How did Earth eventually escape from the \"Snowball Earth\" glaciations?",
+    "options": {
+      "A": "The Sun suddenly became much hotter.",
+      "B": "Volcanoes continued to release CO2, which built up in the atmosphere over millions of years, creating a massive greenhouse effect.",
+      "C": "An asteroid impact melted all the ice.",
+      "D": "Photosynthesis stopped, allowing methane to build up again."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q15",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 15,
+    "question": "The Murchison meteorite is famous for containing what building blocks of life?",
+    "options": {
+      "A": "Fossilized cells",
+      "B": "Amino acids",
+      "C": "Liquid water",
+      "D": "Fragments of DNA"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q16",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 16,
+    "question": "Oxygen was highly toxic to the earliest life forms because they had evolved in an:",
+    "options": {
+      "A": "Oxygen-rich world",
+      "B": "Oxygen-free world",
+      "C": "Extremely hot world",
+      "D": "Extremely cold world"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q17",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 17,
+    "question": "What is the name for the group of primitive organisms, many of which are \"extremophiles\" and methanogens, that are thought to be among the earliest life on Earth?",
+    "options": {
+      "A": "Eukaryotes",
+      "B": "Fungi",
+      "C": "Archaea",
+      "D": "Plants"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q18",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 18,
+    "question": "The first animal eukaryote was likely a single-celled organism that closely resembled cells found in what primitive multicellular animal?",
+    "options": {
+      "A": "Jellyfish",
+      "B": "Sponges",
+      "C": "Worms",
+      "D": "Algae"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q19",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 19,
+    "question": "The geological period that immediately precedes the Cambrian, named after the unique soft-bodied fauna found in Australia, is the:",
+    "options": {
+      "A": "Devonian",
+      "B": "Ordovician",
+      "C": "Ediacaran",
+      "D": "Precambrian"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q20",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 20,
+    "question": "Which of the following is an evolutionary advantage of growing to a larger, multicellular size?",
+    "options": {
+      "A": "Being able to reproduce more quickly.",
+      "B": "Requiring less energy to survive.",
+      "C": "Being less complex.",
+      "D": "Being able to better control interaction with the environment and replace damaged cells."
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q21",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 21,
+    "question": "What is a \"glacial dropstone\"?",
+    "options": {
+      "A": "A type of gemstone formed in ice.",
+      "B": "A large rock found in fine-grained marine sediment, dropped there by a melting iceberg.",
+      "C": "A fossil from a glacial period.",
+      "D": "The smallest particle of glacial ice."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q22",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 22,
+    "question": "The presence of pillow lavas in the 3.8-billion-year-old Isua formation in Greenland is direct evidence for what?",
+    "options": {
+      "A": "The first continents",
+      "B": "The existence of liquid water",
+      "C": "The first atmosphere",
+      "D": "The first ice age"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q23",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 23,
+    "question": "According to the lecture, what color was the sky during the early methane-rich atmosphere?",
+    "options": {
+      "A": "Blue",
+      "B": "Pink",
+      "C": "Green",
+      "D": "Deep black"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q24",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 24,
+    "question": "What crucial role does collagen play for animals, and what does it require high levels of to form?",
+    "options": {
+      "A": "It carries genetic information; it requires nitrogen.",
+      "B": "It acts as a structural protein (scaffolding); it requires oxygen.",
+      "C": "It digests food; it requires carbon.",
+      "D": "It produces energy; it requires methane."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q25",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 25,
+    "question": "The first evidence of multicellularity with differentiated cells is the fossil Bangiomorpha, which is a type of:",
+    "options": {
+      "A": "Fungus",
+      "B": "Animal",
+      "C": "Red alga",
+      "D": "Sponge"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q26",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 26,
+    "question": "Explain the process by which the Great Oxygenation Event led to the formation of Banded Iron Formations.",
+    "options": {
+      "A": "Oxygen rusted iron on land, which then washed into the sea.",
+      "B": "Photosynthetic oxygen in the oceans combined with dissolved ferrous iron (Fe2+), causing it to precipitate as insoluble iron oxides (like Fe3+), which then settled on the seafloor.",
+      "C": "Iron particles from space were oxidized as they entered the atmosphere and fell into the ocean.",
+      "D": "Volcanoes erupted alternating layers of iron and silica."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q27",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 27,
+    "question": "How did the rise of oxygen directly cause the Huronian Glaciation, Earth's first \"Snowball\" state?",
+    "options": {
+      "A": "Oxygen is a \"cold gas\" that chilled the planet.",
+      "B": "Oxygen reacted with and destroyed the powerful greenhouse gas methane, replacing it with the much weaker greenhouse gas carbon dioxide, causing global temperatures to plummet.",
+      "C": "Oxygen blocked sunlight from reaching the Earth's surface.",
+      "D": "The extra oxygen in the atmosphere created massive clouds that reflected sunlight."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q28",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 28,
+    "question": "The \"endosymbiotic hypothesis\" explains the origin of eukaryotes. What is the proposed mechanism?",
+    "options": {
+      "A": "A prokaryotic cell's DNA spontaneously formed a nucleus around itself.",
+      "B": "Two prokaryotes merged completely, blending their DNA.",
+      "C": "One prokaryote engulfed another, and instead of being digested, the engulfed cell became a functional organelle (like a mitochondrion) inside the host cell.",
+      "D": "Eukaryotes were delivered to Earth from another planet."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q29",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 29,
+    "question": "How did life likely survive the \"Snowball Earth\" glaciations when the entire surface was supposedly covered in ice?",
+    "options": {
+      "A": "All life went extinct and had to restart after the ice melted.",
+      "B": "In \"oases\" of light near tension cracks in the ice, in subglacial lakes, or in areas of thin, clear ice that allowed sunlight to penetrate.",
+      "C": "Life migrated to volcanoes to stay warm.",
+      "D": "Life hibernated deep in the Earth's mantle."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q30",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 30,
+    "question": "What is the \"sulfidic ocean\" hypothesis, and how does it explain the long delay in the evolution of complex life after the first rise of oxygen?",
+    "options": {
+      "A": "The oceans became too salty for life to evolve.",
+      "B": "The oceans became acidic, dissolving all early organisms.",
+      "C": "Oxygen in the atmosphere weathered pyrite, washing sulfate into the oceans. Bacteria converted this to hydrogen sulfide, which made the deep ocean toxic and locked up essential metals like copper, stalling evolution.",
+      "D": "The oceans were filled with sulfur-based life forms that outcompeted everything else."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q31",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 31,
+    "question": "What is the significance of Joseph Kirschvink's paleomagnetic study of glacial dropstones?",
+    "options": {
+      "A": "He proved that the Earth's magnetic field has always been stable.",
+      "B": "He dated the dropstones to the time of the dinosaurs.",
+      "C": "His data showed that some glacial deposits formed at the equator, providing strong evidence for a global \"Snowball Earth\" glaciation.",
+      "D": "He discovered that the dropstones were not from glaciers at all."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q32",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 32,
+    "question": "After a \"Snowball Earth\" event, why did massive limestone (\"cap carbonate\") layers form directly on top of glacial deposits?",
+    "options": {
+      "A": "The melting glaciers dropped carbonate rocks they had been carrying.",
+      "B": "The intense, post-snowball greenhouse effect led to hyper-hurricanes and torrential acid rain, which rapidly weathered continents, washing calcium ions into the oceans where they combined with immense amounts of CO2 to form carbonates.",
+      "C": "Life forms that survived the snowball evolved to have carbonate shells and all died at once.",
+      "D": "The weight of the ice compressed the underlying rock into limestone."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q33",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 33,
+    "question": "The Ediacaran fauna are enigmatic. What is one of the main reasons their relationship to modern animals is so heavily debated?",
+    "options": {
+      "A": "They were clearly reptiles, but appeared too early in the fossil record.",
+      "B": "They had a unique \"quilted\" body plan, lacked evidence of guts or skeletons, and are preserved in coarse sandstone, which is unusual for soft-bodied organisms.",
+      "C": "All Ediacaran fossils were proven to be forgeries.",
+      "D": "They were microscopic, making them difficult to study."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q34",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 34,
+    "question": "How do \"molecular clocks\" work to estimate when different animal groups diverged?",
+    "options": {
+      "A": "By measuring the radioactive decay of fossils.",
+      "B": "By assuming that genetic mutations (e.g., in hemoglobin or DNA) accumulate at a relatively constant rate, the number of differences between two species can be used to estimate how long ago they shared a common ancestor.",
+      "C": "By counting the growth rings in ancient fossilized trees.",
+      "D": "By analyzing the position of fossils in different rock layers."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q35",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 35,
+    "question": "What was the primary advantage that multicellularity offered over being a single-celled organism?",
+    "options": {
+      "A": "It allowed for faster reproduction.",
+      "B": "It allowed for cell specialization, where different cells perform different functions (e.g., feeding, support, reproduction), leading to more complex and capable organisms.",
+      "C": "It required less energy to survive.",
+      "D": "It made organisms invisible to predators."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q36",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 36,
+    "question": "The evolution of life and the evolution of the Earth's systems are deeply intertwined. How did the biosphere (life) fundamentally alter the geosphere (rocks)?",
+    "options": {
+      "A": "Early animals burrowing through the sediment changed the texture of the seafloor.",
+      "B": "The rise of oxygen, a biological product, led to the oxidation of minerals like iron, creating entirely new rock types like Banded Iron Formations.",
+      "C": "Continents were moved by the collective force of swimming organisms.",
+      "D": "Life had no effect on the geosphere."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q37",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 37,
+    "question": "How did the end of the final \"Snowball Earth\" event help to \"release the deadlock on evolution\"?",
+    "options": {
+      "A": "The melting ice released ancient viruses that caused rapid mutations.",
+      "B": "The massive influx of nutrients from weathering led to a bloom of photosynthetic algae, a further rise in oxygen, and an end to the sulfidic ocean, making key metals available for complex biological processes.",
+      "C": "The cold temperatures of the ice age preserved DNA perfectly.",
+      "D": "The entire planet became a shallow ocean, which is the only place life can evolve."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q38",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 38,
+    "question": "What is the key difference between a simple association of cells (like in a stromatolite) and true multicellularity (like in Bangiomorpha)?",
+    "options": {
+      "A": "The number of cells involved.",
+      "B": "True multicellularity involves the differentiation of cells into specialized functions, such as the \"holdfast\" cells in Bangiomorpha.",
+      "C": "The color of the organism.",
+      "D": "The environment in which they live."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q39",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 39,
+    "question": "What caused the end of the Ediacaran fauna?",
+    "options": {
+      "A": "A massive asteroid impact.",
+      "B": "The theory is uncertain, but possibilities include a mass extinction or simply the end of their unique preservation conditions and being outcompeted by newer, more complex Cambrian animals.",
+      "C": "They all evolved into trilobites.",
+      "D": "They were wiped out by a \"Snowball Earth\" event."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q40",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 40,
+    "question": "Why would the evolution of the ozone layer be a critical step for the expansion of life into shallower waters?",
+    "options": {
+      "A": "It warmed the shallow water to a comfortable temperature.",
+      "B": "It blocked harmful ultraviolet (UV) radiation, which is most intense in shallow water, making those food-rich environments more habitable.",
+      "C": "It provided a new source of oxygen for breathing.",
+      "D": "It turned the water from fresh to salt."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q41",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 41,
+    "question": "What is the significance of the carbon-12 signature found in 3.7-billion-year-old rocks in Isua, Greenland?",
+    "options": {
+      "A": "It proves that the rocks are made of diamond.",
+      "B": "It indicates a volcanic origin.",
+      "C": "Photosynthetic life preferentially uses the lighter carbon-12 isotope, so an enrichment of this isotope is considered potential evidence for very early life.",
+      "D": "It shows that the rocks have been contaminated by modern carbon."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q42",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 42,
+    "question": "The theory that Ediacarans were preserved in coarse sand because they had a \"super-tough\" body plan was proposed by Adolf Seilacher. What is the alternative explanation?",
+    "options": {
+      "A": "They had hard shells that have since dissolved.",
+      "B": "The sand was unusually fine-grained at the time.",
+      "C": "They lived in environments rich in microbial mats (biofilms) that covered and protected them upon death, aiding fossilization.",
+      "D": "The fossils are not actually of the animals but of the burrows they made."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q43",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 43,
+    "question": "Why is the evolution of a nucleus considered such a major leap in complexity for a cell?",
+    "options": {
+      "A": "It allows the cell to move faster.",
+      "B": "It protects the DNA from damage and allows for more complex regulation of genes, enabling the development of more sophisticated organisms.",
+      "C": "It generates all the energy for the cell.",
+      "D": "It is the primary means of reproduction."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q44",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 44,
+    "question": "What is the link between the fragmentation of the supercontinent Rodinia and the later \"Snowball Earth\" events?",
+    "options": {
+      "A": "The fragmentation created one single continent at the south pole.",
+      "B": "The resulting smaller continents clustered around the warm, wet equator, leading to increased rainfall and silicate weathering, which drew down atmospheric CO2 and caused global cooling.",
+      "C": "The breakup caused massive volcanic eruptions that blocked out the sun.",
+      "D": "There is no link between the two events."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q45",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 45,
+    "question": "What is the main advantage of being a larger organism in terms of environmental interaction?",
+    "options": {
+      "A": "Larger organisms can hide more easily.",
+      "B": "Larger organisms are less at the mercy of environmental forces like water currents and can physically alter their environment.",
+      "C": "Larger organisms need less food.",
+      "D": "Larger organisms are simpler and less prone to disease."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q46",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 46,
+    "question": "What is the \"positive feedback loop\" that could theoretically lock Earth into a permanent Snowball state?",
+    "options": {
+      "A": "Ice is dark and absorbs sunlight, melting more ice.",
+      "B": "Ice is highly reflective (high albedo); more ice reflects more sunlight, leading to more cooling and more ice formation.",
+      "C": "Volcanic eruptions create ash clouds that melt glaciers.",
+      "D": "The freezing of the oceans releases greenhouse gases."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q47",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 47,
+    "question": "What is the name of the earliest known multicellular fossil showing differentiated cells?",
+    "options": {
+      "A": "Charnia",
+      "B": "Dickinsonia",
+      "C": "Bangiomorpha",
+      "D": "Choanoflagellate"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q48",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 48,
+    "question": "If the \"human revolution\" theory is incorrect, what is the alternative explanation for the emergence of art and complex culture?",
+    "options": {
+      "A": "It was taught to humans by an alien species.",
+      "B": "It developed slowly and incrementally over a long period, and we have simply not yet found the earlier, simpler examples.",
+      "C": "It was not art, but simply accidental markings on cave walls.",
+      "D": "Art has always existed, even before humans."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q49",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 49,
+    "question": "How did the proliferation of cyanobacteria after the final Snowball Earth help resume evolution?",
+    "options": {
+      "A": "They consumed all the toxic metals in the ocean.",
+      "B": "They produced a massive burst of oxygen that ended the anoxic, sulfidic state of the deep ocean.",
+      "C": "They served as the primary food source for the first large animals.",
+      "D": "They physically warmed the oceans."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q50",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 50,
+    "question": "What is the key difference in the DNA structure between prokaryotes and eukaryotes?",
+    "options": {
+      "A": "Prokaryotes have DNA, eukaryotes have RNA.",
+      "B": "Prokaryotes have their DNA in a single circular chromosome, while eukaryotes have linear chromosomes inside a nucleus.",
+      "C": "Eukaryotic DNA is much simpler.",
+      "D": "Prokaryotic DNA cannot replicate."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q51",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 51,
+    "question": "Trace the interconnected chain of events from the evolution of cyanobacteria to the first major leap in biological complexity (eukaryotes), incorporating the role of the Great Oxygenation Event and the Huronian Glaciation.",
+    "options": {
+      "A": "Cyanobacteria -> Methane production -> Warming -> Eukaryotes.",
+      "B": "Cyanobacteria -> Oxygen production (GOE) -> Oxidation of methane -> Global cooling (Huronian Glaciation) -> Environmental stress -> Rise of eukaryotes post-glaciation.",
+      "C": "Huronian Glaciation -> Evolution of Cyanobacteria -> Methane rise -> Eukaryotes.",
+      "D": "Eukaryotes -> Oxygen production -> Cooling -> Cyanobacteria."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q52",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 52,
+    "question": "Explain the \"Evolution is Stalled\" hypothesis. How did the very biological innovation that created an oxygenated atmosphere (photosynthesis) indirectly inhibit the evolution of complex life for nearly a billion years?",
+    "options": {
+      "A": "The oxygen was so toxic that nothing could evolve at all.",
+      "B": "Increased oxygen in the atmosphere led to the weathering of pyrite, creating a sulfidic deep ocean. This condition sequestered essential trace metals (like molybdenum and copper) needed for complex biological functions, thus putting a brake on eukaryotic diversification.",
+      "C": "The early eukaryotes consumed all the oxygen, preventing other life forms from evolving.",
+      "D": "The planet became too cold for evolution to proceed after the Huronian glaciation."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q53",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 53,
+    "question": "Contrast the proposed primary triggers for the Huronian glaciation with the triggers for the later Neoproterozoic \"Snowball Earth\" events.",
+    "options": {
+      "A": "Both were triggered by the same mechanism: a drop in methane.",
+      "B": "The Huronian was triggered by a biological event (oxidation of methane), while the later snowballs were triggered by a geological/geochemical event (enhanced silicate weathering on equatorial continents drawing down CO2).",
+      "C": "The Huronian was caused by an asteroid impact, while the later ones were caused by volcanoes.",
+      "D": "The Huronian was a minor cooling, while the later events were true \"Snowball Earths.\""
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q54",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 54,
+    "question": "A geologist finds a rock sequence showing glacial tillites, immediately overlain by a thick layer of \"cap carbonates.\" Without any other information, what catastrophic environmental sequence does this pairing strongly imply?",
+    "options": {
+      "A": "A gradual transition from a polar to a tropical environment over millions of years.",
+      "B": "A rapid, dramatic swing from a deep-freeze \"Snowball Earth\" condition to an extreme \"hothouse Earth\" with high CO2 levels and acid rain.",
+      "C": "The formation of a coral reef on top of a glacier.",
+      "D": "A massive volcanic eruption followed by a long period of quiet."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q55",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 55,
+    "question": "If life on Earth did originate through Panspermia from an earlier, life-bearing Mars, what would this imply about the fundamental requirements and timeline for abiogenesis?",
+    "options": {
+      "A": "It would imply that abiogenesis is an extremely rare event, happening only once in our solar system, and that Mars had conditions suitable for it to occur much earlier than Earth did.",
+      "B": "It would prove that life can only originate on red planets.",
+      "C": "It would mean that abiogenesis is a simple and fast process that happens on all planets.",
+      "D": "It would invalidate the Miller-Urey experiment completely."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q56",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 56,
+    "question": "The Snowball Earth hypothesis faced a major theoretical challenge: once frozen, the high albedo of the ice should keep Earth frozen forever. What is the currently accepted resolution to this feedback loop problem?",
+    "options": {
+      "A": "The Earth's orbit moved closer to the Sun.",
+      "B": "The theory was wrong; Earth never fully froze.",
+      "C": "The steady, unabated outgassing of CO2 from volcanoes, which was no longer being removed by silicate weathering, slowly built up in the atmosphere to a super-greenhouse level over millions of years.",
+      "D": "The friction of the moving ice sheets melted the planet from the ground up."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q57",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 57,
+    "question": "The end of the sulfidic ocean state was critical for the rise of complex animals. Why would the lack of trace metals like molybdenum and copper be so detrimental to evolutionary advancement?",
+    "options": {
+      "A": "These metals are required to build hard shells.",
+      "B": "These metals are essential components of enzymes and proteins required for complex metabolic pathways, including those involving nitrogen, and their absence would limit biological potential.",
+      "C": "These metals are the primary source of energy for all eukaryotes.",
+      "D": "These metals protect organisms from UV radiation."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q58",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 58,
+    "question": "Why is the distinction between prokaryotes and eukaryotes more profound than the distinction between plants and animals?",
+    "options": {
+      "A": "Plants and animals are both eukaryotes, sharing the same fundamental complex cell structure, whereas the prokaryote/eukaryote divide represents a much more fundamental difference in cellular organization and evolutionary history.",
+      "B": "Prokaryotes are more evolutionarily advanced than both plants and animals.",
+      "C": "Plants and animals do not share any common ancestors.",
+      "D": "The distinction is not more profound; it is less important."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q59",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 59,
+    "question": "Imagine a scenario where the Great Oxygenation Event never happened. Which of the following would be the most likely state of Earth today?",
+    "options": {
+      "A": "Identical to today, but with different animals.",
+      "B": "A planet with a pink, methane-rich sky, a much colder surface (without methane's greenhouse effect), and a biosphere dominated by simple, anaerobic prokaryotic life.",
+      "C": "A barren, lifeless rock similar to Mars.",
+      "D": "A planet completely covered by a deep, warm ocean with no continents."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q60",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 60,
+    "question": "Some researchers propose a \"Slushball Earth\" rather than a \"Hard Snowball Earth.\" What is the main difference, and what problem is it intended to solve?",
+    "options": {
+      "A": "A \"Slushball\" was warmer; it solves the problem of how Earth froze in the first place.",
+      "B": "A \"Slushball\" implies the ice was melting faster; it solves the problem of CO2 buildup.",
+      "C": "A \"Slushball\" suggests a band of open water remained at the equator; it more easily explains the survival of photosynthetic life that would have been extinguished by a global, miles-thick ice sheet.",
+      "D": "A \"Slushball\" is made of frozen methane, not water ice."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q61",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 61,
+    "question": "The fossil Bangiomorpha is evidence of early multicellularity and also what other major biological innovation?",
+    "options": {
+      "A": "The first evidence of walking.",
+      "B": "The first evidence of predation.",
+      "C": "It shows differentiated cells that suggest it is the first known organism to exhibit sexual reproduction.",
+      "D": "It is the first known vertebrate."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q62",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 62,
+    "question": "The processes described in the lectures demonstrate that Earth's systems are interconnected. Trace the feedback loop that begins with the biosphere and ends with stalling the biosphere's evolution.",
+    "options": {
+      "A": "Life produces CO2 -> warming -> evolution stops.",
+      "B": "Life (cyanobacteria) produces O2 -> O2 alters geosphere (pyrite weathering) -> Geosphere alters hydrosphere (sulfidic ocean) -> Hydrosphere stalls biosphere evolution (metal sequestration).",
+      "C": "Volcanoes erupt -> dust blocks sun -> life dies -> evolution stops.",
+      "D": "Asteroid impact -> cooling -> life hibernates -> evolution stops."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q63",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 63,
+    "question": "The discovery of Precambrian fossils like Charnia was controversial and took a long time to be accepted. Why was the scientific mindset of the time so resistant to this idea?",
+    "options": {
+      "A": "The fossils were found by amateur geologists, who were not trusted.",
+      "B": "The geological timescale was fixed, with the \"Azoic\" (without life) eon established as being completely barren, making the existence of large, complex Precambrian fossils seem impossible by definition.",
+      "C": "The theory of evolution had not yet been proposed.",
+      "D": "The fossils were clearly fakes made by carving patterns into rocks."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q64",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 64,
+    "question": "What is the significance of the \"negative carbon-13 anomaly\" found in rocks at the end of the Ediacaran period?",
+    "options": {
+      "A": "It indicates a massive increase in volcanic activity.",
+      "B": "It suggests a sudden and massive die-off of photosynthetic life, which preferentially removes carbon-12 and leaves the ocean enriched in carbon-13. A drop in carbon-13 implies photosynthesis has ceased.",
+      "C": "It is evidence of an asteroid impact.",
+      "D": "It marks the beginning of the first ice age."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q65",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 65,
+    "question": "Why isn't the simple self-assembly of amino acids and sugars in an experiment considered \"life\"?",
+    "options": {
+      "A": "Because it happens too quickly.",
+      "B": "Because it doesn't involve DNA.",
+      "C": "Because these simple molecules, while being building blocks, lack the essential life-defining properties of metabolism, membranes, and most importantly, self-replication.",
+      "D": "Because life cannot be created in a laboratory."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q66",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 66,
+    "question": "Oxygen is essential for large, active animals today. Why was it considered a \"toxic gas\" to the early biosphere?",
+    "options": {
+      "A": "It is a highly reactive, corrosive molecule that breaks down the complex organic molecules of anaerobic life, which had evolved without any defenses against it.",
+      "B": "It smells bad, which repelled early organisms.",
+      "C": "It is heavier than other atmospheric gases and smothered life on the surface.",
+      "D": "The term \"toxic\" is used metaphorically; it was not actually harmful."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q67",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 67,
+    "question": "How does the concept of \"all Earth's systems are related\" explain the end of the Snowball Earth?",
+    "options": {
+      "A": "The biosphere adapted to the cold and melted the ice from within.",
+      "B": "The hydrosphere (frozen ocean) stopped interacting with the atmosphere, allowing the geosphere (volcanoes) to slowly change the atmosphere (build up CO2) until it melted the hydrosphere.",
+      "C": "The atmosphere spontaneously generated heat to melt the ice.",
+      "D": "The geosphere stopped moving (plate tectonics ceased), which caused the ice to melt."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q68",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 68,
+    "question": "The Ediacaran fauna lacked shells, bones, and teeth. In the context of the \"Light Switch Theory\" for the Cambrian Explosion, what innovation would have made the Ediacaran lifestyle rapidly obsolete?",
+    "options": {
+      "A": "The evolution of photosynthesis.",
+      "B": "The evolution of sexual reproduction.",
+      "C": "The evolution of vision and active predation, which would favor prey with protective hard parts and render the soft-bodied, passive Ediacarans vulnerable.",
+      "D": "The ability to live on land."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q69",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 69,
+    "question": "Why is the period from about 1.8 billion to 800 million years ago sometimes called the \"boring billion\"?",
+    "options": {
+      "A": "No geological events happened during this time.",
+      "B": "The fossil record shows a long period of evolutionary stasis, with little innovation beyond simple eukaryotes, possibly due to the chemistry of the sulfidic ocean.",
+      "C": "The Earth's climate was perfectly stable and unchanging.",
+      "D": "The rocks from this period are all a uniform, boring grey color."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q70",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 70,
+    "question": "What is the fundamental flaw in using the ALH 84001 meteorite as definitive proof of life on Mars?",
+    "options": {
+      "A": "The meteorite was proven to have originated from Earth.",
+      "B": "All the \"fossil-like\" structures and chemical signatures found within it can also be explained by non-biological (inorganic) processes.",
+      "C": "The meteorite was heavily contaminated by modern microbes after it landed in Antarctica.",
+      "D": "The structures found were too large to be fossilized bacteria."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q71",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 71,
+    "question": "How does the process of silicate weathering act as Earth's long-term thermostat?",
+    "options": {
+      "A": "It has no effect on temperature.",
+      "B": "In a feedback loop, higher temperatures lead to more rain and faster weathering, which removes CO2 from the atmosphere, causing cooling. Lower temperatures slow weathering, allowing volcanic CO2 to build up, causing warming.",
+      "C": "Silicate rocks reflect sunlight, directly cooling the planet.",
+      "D": "The process releases heat, warming the planet."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q72",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 72,
+    "question": "What is the most likely reason oxygen levels rose from ~1% to ~10% of modern levels after the final Neoproterozoic Snowball Earth?",
+    "options": {
+      "A": "A decrease in the number of animals breathing oxygen.",
+      "B": "A massive, nutrient-fueled bloom of photosynthetic algae (cyanobacteria) in the newly melted, warm oceans.",
+      "C": "Oxygen was released from the melting ice itself.",
+      "D": "Volcanoes began emitting pure oxygen instead of CO2."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q73",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 73,
+    "question": "The transition from a methane-rich (pink sky) to an oxygen/nitrogen-rich (blue sky) atmosphere had a profound climatic consequence. This is a prime example of:",
+    "options": {
+      "A": "How life can fundamentally alter the planetary environment in which it exists.",
+      "B": "The stability of Earth's climate system over time.",
+      "C": "The insignificant role life plays in planetary processes.",
+      "D": "How the sky's color has no relationship to atmospheric composition."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q74",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 74,
+    "question": "The fossil Bangiomorpha is significant because it shows differentiated \"holdfast\" cells. What does this specialization imply about the organism's lifestyle and evolutionary pressures?",
+    "options": {
+      "A": "It was a free-floating planktonic organism.",
+      "B": "It was a burrowing animal.",
+      "C": "It was an anchored, stationary organism living in a current, where staying in one place (likely in the photic zone) provided a selective advantage.",
+      "D": "It was a predator that used the holdfasts to grab prey."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q75",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 75,
+    "question": "Why would a \"positive feedback loop\" related to ice albedo be so dangerous for planetary climate stability?",
+    "options": {
+      "A": "It is a self-correcting mechanism.",
+      "B": "It is a self-reinforcing cycle, meaning a small initial change (more ice) is amplified (more cooling), pushing the system further to an extreme state rather than returning it to equilibrium.",
+      "C": "It only affects the poles and has no global impact.",
+      "D": "It increases the amount of greenhouse gas in the atmosphere."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q76",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 76,
+    "question": "What did the famous Miller-Urey experiment of 1952 successfully synthesize?",
+    "options": {
+      "A": "Living cells",
+      "B": "Amino acids",
+      "C": "DNA",
+      "D": "Prokaryotes"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q77",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 77,
+    "question": "What is the defining structural difference between prokaryotic and eukaryotic cells?",
+    "options": {
+      "A": "Eukaryotes have a cell wall, while prokaryotes do not.",
+      "B": "Prokaryotes are much larger than eukaryotes.",
+      "C": "Eukaryotes have a nucleus to contain their DNA, while prokaryotes do not.",
+      "D": "Prokaryotes use oxygen, while eukaryotes do not."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q78",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 78,
+    "question": "The dramatic rise of oxygen in Earth's atmosphere, caused by photosynthetic cyanobacteria, is known as the:",
+    "options": {
+      "A": "Cambrian Explosion",
+      "B": "Late Heavy Bombardment",
+      "C": "Great Oxygenation Event",
+      "D": "Huronian Glaciation"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q79",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 79,
+    "question": "What is the \"faint young Sun paradox\"?",
+    "options": {
+      "A": "The early Sun was hotter, but Earth was frozen.",
+      "B": "The early Sun was only 70% as luminous, yet Earth had liquid water and was not frozen.",
+      "C": "The early Sun had no sunspots.",
+      "D": "The early Sun was much larger than it is today."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q80",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 80,
+    "question": "How did the rise of oxygen directly cause the Huronian Glaciation, Earth's first \"Snowball\" state?",
+    "options": {
+      "A": "Oxygen is a \"cold gas\" that chilled the planet.",
+      "B": "Oxygen reacted with and destroyed the powerful greenhouse gas methane, replacing it with the much weaker greenhouse gas carbon dioxide, causing global temperatures to plummet.",
+      "C": "Oxygen blocked sunlight from reaching the Earth's surface.",
+      "D": "The extra oxygen in the atmosphere created massive clouds that reflected sunlight."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q81",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 81,
+    "question": "Which molecule is central to the \"RNA world\" hypothesis because it can both store information and catalyze reactions?",
+    "options": {
+      "A": "DNA",
+      "B": "ATP",
+      "C": "RNA",
+      "D": "Protein"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q82",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 82,
+    "question": "Explain the process by which the Great Oxygenation Event led to the formation of Banded Iron Formations.",
+    "options": {
+      "A": "Oxygen rusted iron on land, which then washed into the sea.",
+      "B": "Photosynthetic oxygen in the oceans combined with dissolved ferrous iron (Fe2+), causing it to precipitate as insoluble iron oxides (like Fe3+), which then settled on the seafloor.",
+      "C": "Iron particles from space were oxidized as they entered the atmosphere and fell into the ocean.",
+      "D": "Volcanoes erupted alternating layers of iron and silica."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q83",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 83,
+    "question": "The hypothesis that complex eukaryotic cells formed from a symbiotic relationship between prokaryotic cells is called:",
+    "options": {
+      "A": "Panspermia",
+      "B": "Abiogenesis",
+      "C": "The Endosymbiotic Hypothesis",
+      "D": "The Gaia Hypothesis"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q84",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 84,
+    "question": "How did Earth eventually escape from the \"Snowball Earth\" glaciations?",
+    "options": {
+      "A": "The Sun suddenly became much hotter.",
+      "B": "Volcanoes continued to release CO2, which built up in the atmosphere over millions of years, creating a massive greenhouse effect.",
+      "C": "An asteroid impact melted all the ice.",
+      "D": "Photosynthesis stopped, allowing methane to build up again."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q85",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 85,
+    "question": "How did life likely survive the sterilizing impacts of the Late Heavy Bombardment?",
+    "options": {
+      "A": "By temporarily leaving Earth on ejected rocks and returning later.",
+      "B": "Life had not yet evolved, so there was nothing to survive.",
+      "C": "By hiding under thick global ice sheets.",
+      "D": "By retreating deep into the Earth's crust or seeking refuge in deep-sea hydrothermal vent systems, which were insulated from surface impacts."
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q86",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 86,
+    "question": "The first animal eukaryote was likely a single-celled organism that closely resembled cells found in what primitive multicellular animal?",
+    "options": {
+      "A": "Jellyfish",
+      "B": "Sponges",
+      "C": "Worms",
+      "D": "Algae"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q87",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 87,
+    "question": "What is the \"sulfidic ocean\" hypothesis, and how does it explain the long delay in the evolution of complex life after the first rise of oxygen?",
+    "options": {
+      "A": "The oceans became too salty for life to evolve.",
+      "B": "The oceans became acidic, dissolving all early organisms.",
+      "C": "Oxygen in the atmosphere weathered pyrite, washing sulfate into the oceans. Bacteria converted this to hydrogen sulfide, which made the deep ocean toxic and locked up essential metals like copper, stalling evolution.",
+      "D": "The oceans were filled with sulfur-based life forms that outcompeted everything else."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q88",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 88,
+    "question": "The Ediacaran fauna are enigmatic. What is one of the main reasons their relationship to modern animals is so heavily debated?",
+    "options": {
+      "A": "They were clearly reptiles, but appeared too early in the fossil record.",
+      "B": "They had a unique \"quilted\" body plan, lacked evidence of guts or skeletons, and are preserved in coarse sandstone, which is unusual for soft-bodied organisms.",
+      "C": "All Ediacaran fossils were proven to be forgeries.",
+      "D": "They were microscopic, making them difficult to study."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q89",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 89,
+    "question": "Why would the evolution of the ozone layer be a critical step for the expansion of life into shallower waters?",
+    "options": {
+      "A": "It warmed the shallow water to a comfortable temperature.",
+      "B": "It blocked harmful ultraviolet (UV) radiation, which is most intense in shallow water, making those food-rich environments more habitable.",
+      "C": "It provided a new source of oxygen for breathing.",
+      "D": "It turned the water from fresh to salt."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q90",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 90,
+    "question": "What is the significance of the carbon-12 signature found in 3.7-billion-year-old rocks in Isua, Greenland?",
+    "options": {
+      "A": "It proves that the rocks are made of diamond.",
+      "B": "It indicates a volcanic origin.",
+      "C": "Photosynthetic life preferentially uses the lighter carbon-12 isotope, so an enrichment of this isotope is considered potential evidence for very early life.",
+      "D": "It shows that the rocks have been contaminated by modern carbon."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q91",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 91,
+    "question": "After a \"Snowball Earth\" event, why did massive limestone (\"cap carbonate\") layers form directly on top of glacial deposits?",
+    "options": {
+      "A": "The melting glaciers dropped carbonate rocks they had been carrying.",
+      "B": "The intense, post-snowball greenhouse effect led to hyper-hurricanes and torrential acid rain, which rapidly weathered continents, washing calcium ions into the oceans where they combined with immense amounts of CO2 to form carbonates.",
+      "C": "Life forms that survived the snowball evolved to have carbonate shells and all died at once.",
+      "D": "The weight of the ice compressed the underlying rock into limestone."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q92",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 92,
+    "question": "What is the link between the fragmentation of the supercontinent Rodinia and the later \"Snowball Earth\" events?",
+    "options": {
+      "A": "The fragmentation created one single continent at the south pole.",
+      "B": "The resulting smaller continents clustered around the warm, wet equator, leading to increased rainfall and silicate weathering, which drew down atmospheric CO2 and caused global cooling.",
+      "C": "The breakup caused massive volcanic eruptions that blocked out the sun.",
+      "D": "There is no link between the two events."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q93",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 93,
+    "question": "How does the concept of \"all Earth's systems are related\" explain the end of the Snowball Earth?",
+    "options": {
+      "A": "The biosphere adapted to the cold and melted the ice from within.",
+      "B": "The hydrosphere (frozen ocean) stopped interacting with the atmosphere, allowing the geosphere (volcanoes) to slowly change the atmosphere (build up CO2) until it melted the hydrosphere.",
+      "C": "The atmosphere spontaneously generated heat to melt the ice.",
+      "D": "The geosphere stopped moving (plate tectonics ceased), which caused the ice to melt."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q94",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 94,
+    "question": "Oxygen was highly toxic to the earliest life forms because they had evolved in an:",
+    "options": {
+      "A": "Oxygen-rich world",
+      "B": "Oxygen-free world",
+      "C": "Extremely hot world",
+      "D": "Extremely cold world"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q95",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 95,
+    "question": "What is the \"positive feedback loop\" that could theoretically lock Earth into a permanent Snowball state?",
+    "options": {
+      "A": "Ice is dark and absorbs sunlight, melting more ice.",
+      "B": "Ice is highly reflective (high albedo); more ice reflects more sunlight, leading to more cooling and more ice formation.",
+      "C": "Volcanic eruptions create ash clouds that melt glaciers.",
+      "D": "The freezing of the oceans releases greenhouse gases."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q96",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 96,
+    "question": "Why is the distinction between prokaryotes and eukaryotes more profound than the distinction between plants and animals?",
+    "options": {
+      "A": "Plants and animals are both eukaryotes, sharing the same fundamental complex cell structure, whereas the prokaryote/eukaryote divide represents a much more fundamental difference in cellular organization and evolutionary history.",
+      "B": "Prokaryotes are more evolutionarily advanced than both plants and animals.",
+      "C": "Plants and animals do not share any common ancestors.",
+      "D": "The distinction is not more profound; it is less important."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q97",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 97,
+    "question": "What is the fundamental flaw in using the ALH 84001 meteorite as definitive proof of life on Mars?",
+    "options": {
+      "A": "The meteorite was proven to have originated from Earth.",
+      "B": "All the \"fossil-like\" structures and chemical signatures found within it can also be explained by non-biological (inorganic) processes.",
+      "C": "The meteorite was heavily contaminated by modern microbes after it landed in Antarctica.",
+      "D": "The structures found were too large to be fossilized bacteria."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q98",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 98,
+    "question": "The first evidence of multicellularity with differentiated cells is the fossil Bangiomorpha, which is a type of:",
+    "options": {
+      "A": "Fungus",
+      "B": "Animal",
+      "C": "Red alga",
+      "D": "Sponge"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q99",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 99,
+    "question": "How did the end of the final \"Snowball Earth\" event help to \"release the deadlock on evolution\"?",
+    "options": {
+      "A": "The melting ice released ancient viruses that caused rapid mutations.",
+      "B": "The massive influx of nutrients from weathering led to a bloom of photosynthetic algae, a further rise in oxygen, and an end to the sulfidic ocean, making key metals available for complex biological processes.",
+      "C": "The cold temperatures of the ice age preserved DNA perfectly.",
+      "D": "The entire planet became a shallow ocean, which is the only place life can evolve."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta10_q100",
+    "file": "Hafta 10 Konuları",
+    "status": null,
+    "question_number": 100,
+    "question": "The geological period that immediately precedes the Cambrian, named after the unique soft-bodied fauna found in Australia, is the:",
+    "options": {
+      "A": "Devonian",
+      "B": "Ordovician",
+      "C": "Ediacaran",
+      "D": "Precambrian"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  }
+]

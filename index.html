@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medu Quiz Uygulaması</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div id="main-menu">
+            <h1>Medu Quiz Uygulaması</h1>
+            <p>Quiz yapmak istediğiniz seçenekleri belirleyin:</p>
+
+            <div class="options-grid">
+                <div class="selection-box">
+                    <h2>Konular</h2>
+                    <label><input type="checkbox" class="file-checkbox" value="Hafta-9"> 9. Hafta</label>
+                    <label><input type="checkbox" class="file-checkbox" value="Hafta-10"> 10. Hafta</label>
+                    <label><input type="checkbox" class="file-checkbox" value="Hafta-11"> 11. Hafta</label>
+                    <label><input type="checkbox" class="file-checkbox" value="Hafta-12"> 12. Hafta</label>
+                    <label><input type="checkbox" class="file-checkbox" value="Hafta-13"> 13. Hafta</label>
+                </div>
+
+                <div class="selection-box">
+                    <h2>Soru Aralığı</h2>
+                    <label><input type="radio" name="question-range" value="1-25"> Basit (1-25)</label>
+                    <label><input type="radio" name="question-range" value="26-50"> Orta (26-50)</label>
+                    <label><input type="radio" name="question-range" value="51-75"> Zor (51-75)</label>
+                    <label><input type="radio" name="question-range" value="76+"> Karışık (76+)</label>
+                    <label><input type="radio" name="question-range" value="all" checked> Tümü</label>
+                </div>
+            </div>
+
+            <div class="selection-box full-width">
+                <h2>Quiz Modu</h2>
+                <label><input type="radio" name="quiz-mode" value="once" checked> 1- Rastgele - Tüm sorular sadece bir kez sorulacak</label>
+                <label><input type="radio" name="quiz-mode" value="repeatWrong"> 2- Rastgele - Tüm sorular 1 defa (yanlış yapılanlar tekrar sorulacak)</label>
+                <label><input type="radio" name="quiz-mode" value="infinite"> 3- Rastgele - Sonsuz Döngü</label>
+            </div>
+
+            <button id="start-quiz-btn" class="main-action-btn">Quize Başla</button>
+            <button id="review-wrong-btn" class="secondary-action-btn" style="display: none;">Yanlış Yapılanları Tekrar Çöz</button>
+
+            <div id="wrong-answers-summary" class="wrong-summary" style="display: none;">
+                <h3>Yanlış Yapılan Sorular (<span id="wrong-count">0</span>)</h3>
+                <button id="clear-wrong-btn" class="clear-button">Temizle</button>
+                <ul id="wrong-answers-list"></ul>
+            </div>
+        </div>
+
+        <div id="quiz-area" style="display: none;">
+            <div id="question-counter">Soru: <span id="current-q"></span> / <span id="total-q"></span></div>
+            <div id="question-text"></div>
+            <div id="options-container"></div>
+            <div id="feedback"></div>
+            <div id="explanation" style="display: none;"></div>
+            <button id="next-question-btn" style="display: none;">Sonraki Soru</button>
+            <button id="back-to-menu-btn">Ana Menüye Dön</button>
+        </div>
+
+        <div id="end-screen" style="display: none;">
+            <h2>Quiz Tamamlandı!</h2>
+            <p id="final-score"></p>
+            <button id="restart-from-end-btn">Yeni Quize Başla</button>
+            <button id="back-to-menu-from-end-btn">Ana Menüye Dön</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

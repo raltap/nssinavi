@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "hafta11_q1",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 1,
+    "question": "The sudden appearance of a vast number of animal phyla with hard parts in a relatively short geological period is known as the:",
+    "options": {
+      "A": "Ediacaran Diversification",
+      "B": "Great Oxygenation Event",
+      "C": "Cambrian Explosion",
+      "D": "Ordovician Radiation"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q2",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 2,
+    "question": "Which of the following is the most characteristic and well-known fossil from the Cambrian period?",
+    "options": {
+      "A": "Ammonite",
+      "B": "Dinosaur",
+      "C": "Trilobite",
+      "D": "Shark"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q3",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 3,
+    "question": "What is the primary evolutionary advantage of having hard parts like shells or skeletons?",
+    "options": {
+      "A": "To absorb sunlight",
+      "B": "To aid in flotation",
+      "C": "Protection from predators and UV radiation",
+      "D": "To store water"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q4",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 4,
+    "question": "The Burgess Shale fossil site in British Columbia is world-famous for what reason?",
+    "options": {
+      "A": "It contains the oldest dinosaur fossils.",
+      "B": "It shows exceptional preservation of soft-bodied Cambrian animals.",
+      "C": "It is the site of the largest mass extinction.",
+      "D": "It contains the first evidence of human ancestors."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q5",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 5,
+    "question": "According to the \"Light Switch Theory\" by Andrew Parker, what was the key evolutionary innovation that triggered the Cambrian Explosion?",
+    "options": {
+      "A": "The evolution of lungs",
+      "B": "The evolution of vision (the eye)",
+      "C": "The ability to move onto land",
+      "D": "The development of photosynthesis"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q6",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 6,
+    "question": "Which of the following is NOT one of the \"Big Five\" mass extinctions in Earth's history?",
+    "options": {
+      "A": "Late Permian",
+      "B": "Late Devonian",
+      "C": "Late Cambrian",
+      "D": "Cretaceous-Paleogene"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q7",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 7,
+    "question": "What is \"biomineralization\"?",
+    "options": {
+      "A": "The decay of organic matter into minerals.",
+      "B": "The process by which organisms create hard parts like shells, bones, and teeth from minerals.",
+      "C": "The study of living minerals.",
+      "D": "The interaction between life and the environment."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q8",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 8,
+    "question": "Trilobites had what type of eyes?",
+    "options": {
+      "A": "Simple eyes with a single lens",
+      "B": "Compound eyes with many lenses",
+      "C": "They had no eyes",
+      "D": "Eyespots that could only detect light and dark"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q9",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 9,
+    "question": "The geological time of \"abundant life,\" which began with the Cambrian, is called the:",
+    "options": {
+      "A": "Precambrian Eon",
+      "B": "Phanerozoic Eon",
+      "C": "Hadean Eon",
+      "D": "Mesozoic Era"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q10",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 10,
+    "question": "The fossil Treptichnus pedum is significant because it marks the base of the Cambrian and shows what kind of animal behavior?",
+    "options": {
+      "A": "Flying",
+      "B": "Swimming",
+      "C": "Burrowing in sediment",
+      "D": "Building reefs"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q11",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 11,
+    "question": "What is the crucial difference between background extinction and a mass extinction?",
+    "options": {
+      "A": "Background extinction happens on land, mass extinction in the sea.",
+      "B": "Background extinction is the slow, steady extinction of species, while mass extinction is the rapid, global destruction of a vast number of species.",
+      "C": "Background extinction only affects plants.",
+      "D": "There is no difference."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q12",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 12,
+    "question": "The theory that biodiversity is highest when continents are most fragmented and lowest when they form a supercontinent was proposed by:",
+    "options": {
+      "A": "Charles Darwin",
+      "B": "Raup and Sepkoski",
+      "C": "Valentine and Moores",
+      "D": "Charles Walcott"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q13",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 13,
+    "question": "Which of the \"Big Five\" mass extinctions was the largest, wiping out up to 95% of all species?",
+    "options": {
+      "A": "Late Ordovician",
+      "B": "Cretaceous-Paleogene",
+      "C": "Late Triassic",
+      "D": "Late Permian"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q14",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 14,
+    "question": "The lenses of a trilobite's eye were uniquely made of what mineral?",
+    "options": {
+      "A": "Silica",
+      "B": "Calcium phosphate",
+      "C": "Calcium carbonate (calcite)",
+      "D": "Diamond"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q15",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 15,
+    "question": "The period of \"evolutionary experimentation\" in the Cambrian refers to a time when:",
+    "options": {
+      "A": "All life forms were identical.",
+      "B": "Genetic rules for body plans were less fixed, allowing for the appearance of many bizarre and unusual creatures.",
+      "C": "The first scientific experiments on evolution were conducted.",
+      "D": "Life was experimenting with moving onto land."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q16",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 16,
+    "question": "Which of the following is NOT a criterion for defining a mass extinction?",
+    "options": {
+      "A": "Severity (a high percentage of species lost)",
+      "B": "Affecting only a single, isolated ecosystem",
+      "C": "Extent (global, across a wide range of ecologies)",
+      "D": "Timing (geologically short and sudden)"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q17",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 17,
+    "question": "What is the name of the paleontologist who discovered the Burgess Shale in 1909?",
+    "options": {
+      "A": "Andrew Parker",
+      "B": "Charles Doolittle Walcott",
+      "C": "Harry Whittington",
+      "D": "Jack Sepkoski"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q18",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 18,
+    "question": "The fossil Cloudina from the Ediacaran period is important because it shows early evidence of what?",
+    "options": {
+      "A": "The first vertebrate",
+      "B": "The first land plant",
+      "C": "Biomineralization (forming a hard shell)",
+      "D": "The evolution of the eye"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q19",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 19,
+    "question": "What is the proposed 26-million-year periodicity for mass extinctions called?",
+    "options": {
+      "A": "The Walcott Cycle",
+      "B": "The Raup-Sepkoski Cycle",
+      "C": "The Milankovitch Cycle",
+      "D": "The Supercontinent Cycle"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q20",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 20,
+    "question": "Which group of animals, including sponges and jellyfish, are the only ones positively identified from the Precambrian?",
+    "options": {
+      "A": "Arthropoda and Mollusca",
+      "B": "Chordata and Bryozoa",
+      "C": "Porifera and Cnidaria",
+      "D": "Echinodermata and Brachiopods"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q21",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 21,
+    "question": "A simple eye structure that consists of photoreceptive cells in a depression, like in a planarian, is called an:",
+    "options": {
+      "A": "Eye spot",
+      "B": "Pinhole camera eye",
+      "C": "Compound eye",
+      "D": "Vertebrate eye"
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q22",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 22,
+    "question": "What is the most dramatic and widely-discussed cause of mass extinctions?",
+    "options": {
+      "A": "Biological competition",
+      "B": "Sea-level change",
+      "C": "Extraterrestrial impact",
+      "D": "Gradual climate change"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q23",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 23,
+    "question": "The strange Cambrian creature Opabinia is notable for what feature?",
+    "options": {
+      "A": "It had the first known shell.",
+      "B": "It was a very early vertebrate.",
+      "C": "It had five eyes and a frontal nozzle.",
+      "D": "It was the largest animal of its time."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q24",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 24,
+    "question": "The geologic periods (Cambrian, Ordovician, etc.) are grouped into broader eras. Which era immediately follows the Paleozoic?",
+    "options": {
+      "A": "Cenozoic",
+      "B": "Precambrian",
+      "C": "Mesozoic",
+      "D": "Hadean"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q25",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 25,
+    "question": "The Oort cloud, a theorized source of periodic comet showers, is located where?",
+    "options": {
+      "A": "Between Mars and Jupiter",
+      "B": "In the outer reaches of the solar system",
+      "C": "In the center of the Milky Way galaxy",
+      "D": "Orbiting the Earth"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q26",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 26,
+    "question": "How does the formation of a supercontinent like Pangaea lead to a decrease in global biodiversity?",
+    "options": {
+      "A": "It creates more diverse climates, leading to extinctions.",
+      "B": "It brings previously isolated species into direct competition, eliminates shallow coastal habitats, and creates harsh continental interiors.",
+      "C": "It causes the sea level to rise, flooding all the land.",
+      "D": "It triggers an ice age that freezes most of the planet."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q27",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 27,
+    "question": "What is the main difference between holochroal and schizochroal eyes in trilobites?",
+    "options": {
+      "A": "Holochroal eyes had a single lens, while schizochroal eyes had many.",
+      "B": "Holochroal eyes were made of calcite, while schizochroal eyes were soft.",
+      "C": "Holochroal eyes had many small lenses packed together, while schizochroal eyes had fewer, larger, and more complex lenses.",
+      "D": "Holochroal eyes were for seeing in the dark, schizochroal for bright light."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q28",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 28,
+    "question": "Explain the concept of an \"evolutionary arms race\" as it applies to the Cambrian Explosion.",
+    "options": {
+      "A": "Organisms competed by growing larger limbs for fighting.",
+      "B": "The evolution of a new offensive trait in predators (like vision) would drive the evolution of new defensive traits in prey (like hard shells), and vice versa.",
+      "C": "All animals evolved at the same rate to maintain balance.",
+      "D": "It refers to competition for territory between members of the same species."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q29",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 29,
+    "question": "Why is the preservation of the Burgess Shale fauna considered so extraordinary?",
+    "options": {
+      "A": "It preserved the hard shells of trilobites with microscopic detail.",
+      "B": "A very high percentage (60-70%) of the fauna was soft-bodied, which are organisms that rarely fossilize.",
+      "C": "The fossils are the oldest ever found on Earth.",
+      "D": "The fossils were found perfectly arranged in dioramas."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q30",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 30,
+    "question": "What is the \"Nemesis\" hypothesis, and how does it attempt to explain the 26-million-year extinction cycle?",
+    "options": {
+      "A": "It proposes a large undiscovered planet in our solar system (Planet Nine) causes extinctions.",
+      "B": "It suggests the Sun has a distant, undiscovered companion star whose orbit periodically disturbs the Oort cloud, sending comets toward Earth.",
+      "C": "It claims that our solar system's movement through the galactic plane causes the cycle.",
+      "D": "It is the idea that a black hole periodically passes through our solar system."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q31",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 31,
+    "question": "What is the significance of finding evidence of predatory boreholes in the Ediacaran fossil Cloudina?",
+    "options": {
+      "A": "It proves Cloudina was a plant.",
+      "B": "It indicates that predation, a major driver of evolution, existed before the Cambrian Explosion began.",
+      "C": "It shows that Ediacaran fauna were peaceful herbivores.",
+      "D": "It is evidence of a disease, not predation."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q32",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 32,
+    "question": "Why would a shell be an advantage for an organism living in a shallow marine environment, specifically in relation to the sun?",
+    "options": {
+      "A": "It helps the organism absorb more sunlight for energy.",
+      "B": "It offers protection against damaging ultraviolet (UV) radiation.",
+      "C": "It makes the organism more visible to mates.",
+      "D": "It helps the organism stay warm."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q33",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 33,
+    "question": "The term \"evolutionary experimentation\" is used to describe the Cambrian because the genetic rules (Hox genes) that govern body plans may have been less constrained. What does this imply about the organisms from that period?",
+    "options": {
+      "A": "All organisms were genetically identical.",
+      "B": "It allowed for the development and survival of bizarre body plans that do not fit into modern phyla.",
+      "C": "Genetic mutations did not occur during the Cambrian.",
+      "D": "Evolution occurred more slowly than at any other time."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q34",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 34,
+    "question": "Raup and Sepkoski identified a 26-million-year extinction cycle but could not link it to any Earth-based geological or climatological cycles. This led them to propose what general cause?",
+    "options": {
+      "A": "An extraterrestrial or astronomical cause.",
+      "B": "A repeating biological cause.",
+      "C": "A predictable cycle of volcanic eruptions.",
+      "D": "The data was flawed and there is no cycle."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q35",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 35,
+    "question": "The transition from the Precambrian to the Cambrian is marked by a \"golden spike\" in Newfoundland. What type of fossil evidence defines this boundary?",
+    "options": {
+      "A": "The last appearance of the Ediacaran fauna.",
+      "B": "The first appearance of the trace fossil Treptichnus pedum, indicating active interaction with the environment.",
+      "C": "The first appearance of trilobites.",
+      "D": "The first appearance of vertebrates."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q36",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 36,
+    "question": "The evolution of the eye progressed through several stages. What was the key advantage of a \"pinhole camera\" eye, like that of a nautilus, over a simple \"cup\" eyespot?",
+    "options": {
+      "A": "It was the first eye to detect color.",
+      "B": "It could produce a true, albeit simple, image, rather than just detecting the direction and intensity of light.",
+      "C": "It was the first eye to be covered by a protective lens.",
+      "D": "It allowed the organism to see in complete darkness."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q37",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 37,
+    "question": "How does the Milky Way Theory explain the 26-million-year extinction cycle?",
+    "options": {
+      "A": "Our solar system's orbit around the galaxy takes 26 million years.",
+      "B": "It suggests our solar system oscillates up and down through the dense galactic plane, where gravitational disturbances or increased cosmic rays could trigger extinctions.",
+      "C": "The Milky Way's black hole sends out waves of energy every 26 million years.",
+      "D": "This theory was disproven and is not a valid explanation."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q38",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 38,
+    "question": "In order for a mass extinction to be classified as \"major,\" what percentage of species must be lost?",
+    "options": {
+      "A": "20-30 percent",
+      "B": "50 percent",
+      "C": "60-70 percent",
+      "D": "80-95 percent"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q39",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 39,
+    "question": "What is the primary difference between brachiopods and clams (molluscs), which they superficially resemble?",
+    "options": {
+      "A": "Brachiopods are not related to clams; they belong to a different phylum and have a different body plan and symmetry.",
+      "B": "Brachiopods are freshwater animals, while clams are marine.",
+      "C": "Clams have hard shells, while brachiopods do not.",
+      "D": "Brachiopods are predators, while clams are filter feeders."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q40",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 40,
+    "question": "How did early geologists first realize that dramatic events had occurred between geological periods like the Permian and the Triassic?",
+    "options": {
+      "A": "They found a layer of ash separating the rock layers worldwide.",
+      "B": "They noticed that the fossil assemblages (the types of creatures) were substantially different from one period to the next.",
+      "C": "The rocks showed evidence of massive global earthquakes.",
+      "D": "The continental configurations were completely different."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q41",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 41,
+    "question": "What does the fivefold symmetry of an echinoderm (like a starfish) represent?",
+    "options": {
+      "A": "A random occurrence with no genetic basis.",
+      "B": "A fundamental genetic rule (controlled by Hox genes) for that particular phylum.",
+      "C": "An adaptation for living in deep water.",
+      "D": "The number of arms it uses for feeding."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q42",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 42,
+    "question": "The Cretaceous-Paleogene (K-P) event is the most famous mass extinction. What major group of animals went extinct at this time?",
+    "options": {
+      "A": "Trilobites",
+      "B": "Non-avian dinosaurs",
+      "C": "The Ediacaran fauna",
+      "D": "The first mammals"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q43",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 43,
+    "question": "Why would an animal with a skeleton, muscles, and joints have a greater ability to interact with its environment?",
+    "options": {
+      "A": "The skeleton provides a rigid framework for muscles to pull against, allowing for controlled and powerful movement via levers (limbs).",
+      "B": "The skeleton stores food for the animal.",
+      "C": "The skeleton makes the animal heavier, so it stays in one place.",
+      "D": "The skeleton is a sensory organ."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q44",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 44,
+    "question": "The idea that we are currently in the midst of a \"sixth mass extinction\" is primarily based on what observation?",
+    "options": {
+      "A": "The climate is changing.",
+      "B": "The current rate of species loss, driven by human activity, is unprecedentedly high compared to the background extinction rate.",
+      "C": "A new supercontinent is forming.",
+      "D": "A large asteroid is predicted to hit Earth soon."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q45",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 45,
+    "question": "What is the likely feeding strategy of most early Cambrian trilobites?",
+    "options": {
+      "A": "They were apex predators, hunting large fish.",
+      "B": "They were photosynthetic, like plants.",
+      "C": "They were deposit feeders, moving across the seafloor and consuming organic material in the sediment.",
+      "D": "They were filter feeders, capturing particles from the water column."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q46",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 46,
+    "question": "What is Problematica in paleontology?",
+    "options": {
+      "A": "The difficulty in finding any fossils.",
+      "B": "A term for strange and bizarre fossils, often from the Cambrian, that do not seem to fit into any known modern animal group.",
+      "C": "The name for the first animal ever discovered.",
+      "D": "The challenge of accurately dating rocks."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q47",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 47,
+    "question": "What does the presence of a \"sun visor\" or eye shade on a Devonian trilobite strongly suggest about its lifestyle?",
+    "options": {
+      "A": "It lived in the deep, dark ocean.",
+      "B": "It was blind.",
+      "C": "It was active during the day (diurnal) in brighter sunlight conditions.",
+      "D": "It was a nocturnal animal."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q48",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 48,
+    "question": "Which of the following is NOT a proposed cause of mass extinctions?",
+    "options": {
+      "A": "Extraterrestrial impacts",
+      "B": "A long period of evolutionary stasis and stability",
+      "C": "Earth-based causes like massive volcanism and plate tectonics",
+      "D": "Biological causes like widespread competition"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q49",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 49,
+    "question": "How did the theory of plate tectonics provide a framework for understanding the cycles of biodiversity observed by Valentine and Moores?",
+    "options": {
+      "A": "It showed that biodiversity is always constant.",
+      "B": "It provided the mechanism (continental drift) for the fragmentation and amalgamation of continents, which they had linked to rises and falls in biodiversity.",
+      "C": "It proved that the continents have never moved.",
+      "D": "It explained that all life originated from a single continent."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q50",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 50,
+    "question": "By the end of the Cambrian period, what was the status of the evolution of animal body plans (phyla)?",
+    "options": {
+      "A": "Only a few simple phyla, like sponges, had evolved.",
+      "B": "The majority of all basic body types, or phyla, that we know of today had already evolved.",
+      "C": "No new phyla had appeared since the Ediacaran period.",
+      "D": "The first phylum had just begun to evolve."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q51",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 51,
+    "question": "Critically evaluate Andrew Parker's \"Light Switch Theory.\" Why would the evolution of vision be a more potent driver for the Cambrian Explosion than the evolution of another sense, like chemical detection (smell)?",
+    "options": {
+      "A": "Chemical detection is only useful in water.",
+      "B": "Vision is a long-range sense that fundamentally changes the nature of predator-prey interactions from chance encounters to active pursuit and evasion, creating a much stronger and more rapid evolutionary arms race.",
+      "C": "The first animals had no sense of smell.",
+      "D": "Vision is a simpler sense to evolve and therefore had a greater impact."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q52",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 52,
+    "question": "The Cambrian is described as a period of \"evolutionary experimentation\" where genetic rules were less fixed. How does the existence of bizarre echinoderms like the asymmetrical Helicoplacus, which violates the phylum's modern rule of fivefold symmetry, support this idea?",
+    "options": {
+      "A": "It proves that Helicoplacus was not an echinoderm.",
+      "B": "It suggests that the fundamental body plan (controlled by Hox genes) for what it meant to be an \"echinoderm\" was still flexible, allowing for viable forms that would not be possible under the more constrained genetic rules of later periods.",
+      "C": "It shows that all echinoderms were once asymmetrical.",
+      "D": "It is simply a deformed starfish fossil."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q53",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 53,
+    "question": "The Raup-Sepkoski 26-million-year periodicity is a controversial idea. What is the single biggest weakness in the hypothesis that a companion star, Nemesis, is responsible?",
+    "options": {
+      "A": "Such a distant and weakly-bound companion star would have a highly unstable orbit, likely to be perturbed and stripped away by passing stars over billions of years, making a precise 26-million-year cycle unlikely.",
+      "B": "The Sun is not a star.",
+      "C": "Binary star systems do not exist in our galaxy.",
+      "D": "26 million years is too short a time period for an orbit."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q54",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 54,
+    "question": "If a major mass extinction event is defined by its global extent, short duration, and high severity, how do the long-term biodiversity declines associated with supercontinent formation (e.g., Pangaea) differ from a true mass extinction event like the Late Permian?",
+    "options": {
+      "A": "There is no difference; they are the same phenomenon.",
+      "B": "Supercontinent-related declines are slower, more drawn-out \"extinction pulses\" driven by habitat loss and competition over millions of years, whereas the great mass extinctions represent catastrophic, rapid collapses of the biosphere, likely caused by a combination of acute triggers.",
+      "C": "Supercontinent formation causes an increase in biodiversity.",
+      "D": "Mass extinctions are local events, while supercontinent extinctions are global."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q55",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 55,
+    "question": "The Burgess Shale fauna and the \"small shelly fauna\" that appeared earlier represent two different windows into the Cambrian Explosion. What do their different modes of preservation (soft-body vs. hard-part) tell us about the unfolding of this event?",
+    "options": {
+      "A": "It suggests that biomineralization (small shellies) was an early development, but a vast diversity of soft-bodied life, which is normally invisible in the fossil record, existed concurrently.",
+      "B": "It proves that only small, shelled animals existed at the beginning of the Cambrian.",
+      "C": "It shows that all soft-bodied animals went extinct before the Burgess Shale was deposited.",
+      "D": "It indicates that biomineralization was a failed experiment."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q56",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 56,
+    "question": "Some scientists argue that the Ediacaran fauna do not belong to any modern animal kingdom and propose a separate kingdom called \"Vendozoa.\" What is the strongest piece of evidence AGAINST this idea?",
+    "options": {
+      "A": "Their strange, \"quilted\" appearance.",
+      "B": "The fact that some Ediacaran fossils, like Kimberella, show evidence of features (a proboscis, bilateral symmetry) that link them more closely to early molluscs or other bilaterian animals.",
+      "C": "Their lack of preserved hard parts.",
+      "D": "They were found on all continents."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q57",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 57,
+    "question": "How does the theory of the solar system's oscillation through the galactic plane provide a potential mechanism for a periodic extinction cycle without requiring a hypothetical companion star?",
+    "options": {
+      "A": "The oscillation has no effect on the solar system.",
+      "B": "During passage through the dense galactic plane, increased gravitational perturbations could disturb the Oort cloud, or increased exposure to high-energy cosmic rays could damage the biosphere and climate.",
+      "C": "The galactic plane is a region of intense heat that boils the oceans.",
+      "D": "This oscillation causes Earth's magnetic field to reverse, triggering extinctions."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q58",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 58,
+    "question": "The \"golden spike\" for the base of the Cambrian is a trace fossil, not a body fossil. What is the profound evolutionary implication of defining the start of the \"age of abundant life\" with evidence of behavior rather than an animal's body?",
+    "options": {
+      "A": "It implies that behavior is not important for evolution.",
+      "B": "It signifies that the key evolutionary shift was not just the existence of new animals, but the emergence of new, complex ways of interacting with the environment (like burrowing), which fundamentally changed the ecosystem.",
+      "C": "It was an arbitrary choice with no deeper meaning.",
+      "D": "It suggests that we have not yet found any body fossils from the base of the Cambrian."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q59",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 59,
+    "question": "Why would the evolution of a double-lens structure in the schizochroal eyes of some trilobites be a significant optical advancement?",
+    "options": {
+      "A": "It made their eyes heavier.",
+      "B": "It was a major flaw that made them blind.",
+      "C": "Similar to achromatic lenses in modern cameras, using two lenses with different refractive indices could correct for spherical aberration, allowing for a much sharper, less distorted image.",
+      "D": "It allowed them to have two sets of eyes."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q60",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 60,
+    "question": "If the \"Big Five\" mass extinctions are the peaks of destructive events, what does the \"background extinction rate\" represent?",
+    "options": {
+      "A": "The rate at which new species evolve.",
+      "B": "The normal, continuous, low-level rate of species turnover in the biosphere due to standard evolutionary and ecological pressures.",
+      "C": "The extinction of plants only.",
+      "D": "A period with no extinctions at all."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q61",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 61,
+    "question": "The fossil record of biodiversity appears to correlate with cycles of continental fragmentation and amalgamation. What is the primary cause-and-effect relationship proposed by Valentine and Moores?",
+    "options": {
+      "A": "High biodiversity causes continents to fragment.",
+      "B": "Continental fragmentation drives biodiversity by creating more isolated environments and diverse climatic zones, which promotes speciation.",
+      "C": "Low biodiversity causes supercontinents to form.",
+      "D": "There is no relationship; it is a coincidence."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q62",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 62,
+    "question": "The Cambrian period saw the emergence of nearly all modern animal phyla. What does this suggest about the fundamental \"body plans\" of animals?",
+    "options": {
+      "A": "New body plans are constantly evolving today at the same rate.",
+      "B": "The basic architectural body plans for animal life were largely established during this explosive period and have been modified and refined ever since, rather than being fundamentally reinvented.",
+      "C": "The Cambrian body plans were inferior and were all replaced by later, better designs.",
+      "D": "All animal body plans are identical."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q63",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 63,
+    "question": "What is the most likely reason that trilobites, a hyper-successful group that survived for over 250 million years, ultimately went extinct during the Late Permian mass extinction?",
+    "options": {
+      "A": "They were outcompeted by the newly evolved dinosaurs.",
+      "B": "They could not adapt to the formation of the supercontinent Pangaea and the associated massive loss of shallow marine habitats.",
+      "C": "A disease specifically targeted trilobites.",
+      "D": "They were over-hunted by early vertebrates."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q64",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 64,
+    "question": "The \"Problematica\" of the Burgess Shale (creatures like Opabinia and Anomalocaris) initially baffled paleontologists. What was the major conceptual shift in the 1970s and 80s that changed how they were viewed?",
+    "options": {
+      "A": "The realization that they were all early forms of fish.",
+      "B": "The idea that instead of trying to force them into modern phyla, they should be recognized as representing extinct lineages and experiments in body plans from a time of great evolutionary diversification.",
+      "C": "The discovery that they were not animals, but plants.",
+      "D": "Proof that they were all fraudulent fossils."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q65",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 65,
+    "question": "Considering the various causes of mass extinction (impacts, volcanism, climate change), why is it most likely that major events like the Late Permian extinction were caused by a combination of factors?",
+    "options": {
+      "A": "A single cause is not dramatic enough to cause a mass extinction.",
+      "B": "The complexity of the global ecosystem means that a single stressor is unlikely to cause a 95% collapse. More likely, a combination of cascading environmental failures (e.g., massive volcanism causing warming, which in turn causes ocean anoxia) is required.",
+      "C": "The fossil record shows evidence for every possible cause happening at once.",
+      "D": "It is simpler to assume multiple causes than to find a single one."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q66",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 66,
+    "question": "Why is the \"short and sudden\" timing criterion for a mass extinction (less than a million years) considered sudden in geological terms but incredibly long in human terms?",
+    "options": {
+      "A": "It illustrates the immense scale of \"deep time,\" where events spanning hundreds of thousands of years are compressed into a geological instant compared to Earth's 4.54-billion-year history.",
+      "B": "Human history is longer than a million years.",
+      "C": "The methods for dating rocks are only accurate to within a million years.",
+      "D": "\"Sudden\" is just a relative term with no scientific meaning."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q67",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 67,
+    "question": "How did the discovery of soft-bodied fossils in the Burgess Shale change our overall picture of Cambrian biodiversity?",
+    "options": {
+      "A": "It showed that the Cambrian was only populated by a few types of shelled animals.",
+      "B": "It revealed that the biodiversity recorded by hard-part fossils was only a fraction of the true diversity, and that the Cambrian ecosystem was far more complex and bizarre than previously imagined.",
+      "C": "It proved that no shelled animals existed in the Cambrian.",
+      "D": "It had no impact on our understanding."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q68",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 68,
+    "question": "Why might the evolution of active burrowing, as seen with Treptichnus pedum, be considered as revolutionary for the ecosystem as the evolution of shells?",
+    "options": {
+      "A": "It is not considered revolutionary.",
+      "B": "It fundamentally changed the nature of the seafloor, creating new habitats, mixing sediment layers (bioturbation), and providing a new way to escape surface predators or access buried food.",
+      "C": "It allowed animals to move onto land.",
+      "D": "It was a new form of photosynthesis."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q69",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 69,
+    "question": "If the 26-million-year extinction cycle is real and is caused by our solar system's passage through the galactic plane, and the last passage was about a million years ago, what does this imply for the near future of life on Earth?",
+    "options": {
+      "A": "We are due for a major impact event immediately.",
+      "B": "We are currently in the safest part of the cycle, furthest from the galactic plane.",
+      "C": "The cycle has stopped and will not happen again.",
+      "D": "We are about halfway through the cycle, moving toward the next period of increased risk, which is still millions of years away."
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q70",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 70,
+    "question": "What is the key difference in the ecological role between the first creatures to show biomineralization (Cloudina) and the later trilobites?",
+    "options": {
+      "A": "Cloudina were passive and stationary, while trilobites were active deposit feeders that moved through and processed their environment.",
+      "B": "Cloudina were predators, while trilobites were photosynthetic.",
+      "C": "Cloudina lived on land, while trilobites lived in the sea.",
+      "D": "There was no difference in their ecological roles."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q71",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 71,
+    "question": "The Cambrian Explosion is defined by the rapid appearance of different phyla (body plans). This represents what level of evolutionary diversification?",
+    "options": {
+      "A": "Microevolution (changes within a species).",
+      "B": "Speciation (the formation of new species).",
+      "C": "Macroevolution (the origin of major new body plans and higher taxonomic groups).",
+      "D": "Genetic drift."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q72",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 72,
+    "question": "What is the logical flaw in using the existence of modern marsupials in Australia as evidence that continental fragmentation always leads to higher biodiversity?",
+    "options": {
+      "A": "While it's a perfect example of evolution in isolation, it's a single case and doesn't prove the global rule; the global trend is a statistical correlation observed over the entire Phanerozoic.",
+      "B": "Marsupials are not a diverse group.",
+      "C": "Australia was never isolated.",
+      "D": "The premise is correct; it is absolute proof of the rule."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q73",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 73,
+    "question": "The theory of a periodic \"ticking time bomb\" of mass extinctions remains debated. What is the primary difficulty in statistically proving such a cycle from the fossil record?",
+    "options": {
+      "A": "The fossil record is perfectly complete, making statistics unnecessary.",
+      "B": "The fossil record is inherently incomplete (the \"Pull of the Recent,\" preservation biases), which can create apparent patterns or mask real ones, making it difficult to get a perfectly clean signal.",
+      "C": "We have not named enough species to do a statistical analysis.",
+      "D": "The \"Big Five\" extinctions do not fit a 26-million-year pattern perfectly."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q74",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 74,
+    "question": "How do the Deuterostomia, a phylum that emerged in the Cambrian, connect the Cambrian Explosion to the existence of humans?",
+    "options": {
+      "A": "They don't; humans are not Deuterostomes.",
+      "B": "The Deuterostomia phylum includes the chordates, which in turn include the vertebrates, the group to which humans belong.",
+      "C": "The Deuterostomia were the direct predators of early human ancestors.",
+      "D": "The first human fossils were found in Cambrian rocks."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q75",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 75,
+    "question": "Why is it significant that the majority of Ediacaran creatures were soft-bodied, while the subsequent Cambrian fauna are famous for their hard parts?",
+    "options": {
+      "A": "It shows that evolution was \"going backwards.\"",
+      "B": "It marks a fundamental shift in the dominant mode of animal construction, likely driven by new environmental or ecological pressures like predation, which made soft bodies a major disadvantage.",
+      "C": "It is a coincidence with no evolutionary meaning.",
+      "D": "It proves that the Ediacaran and Cambrian fauna were not related."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q76",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 76,
+    "question": "The sudden appearance of a vast number of animal phyla with hard parts in a relatively short geological period is known as the:",
+    "options": {
+      "A": "Ediacaran Diversification",
+      "B": "Great Oxygenation Event",
+      "C": "Cambrian Explosion",
+      "D": "Ordovician Radiation"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q77",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 77,
+    "question": "What is the crucial difference between background extinction and a mass extinction?",
+    "options": {
+      "A": "Background extinction happens on land, mass extinction in the sea.",
+      "B": "Background extinction is the slow, steady extinction of species, while mass extinction is the rapid, global destruction of a vast number of species.",
+      "C": "Background extinction only affects plants.",
+      "D": "There is no difference."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q78",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 78,
+    "question": "How does the formation of a supercontinent like Pangaea generally affect global biodiversity?",
+    "options": {
+      "A": "It creates more diverse climates, leading to extinctions.",
+      "B": "It brings previously isolated species into direct competition, eliminates shallow coastal habitats, and creates harsh continental interiors.",
+      "C": "It causes the sea level to rise, flooding all the land.",
+      "D": "It triggers an ice age that freezes most of the planet."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q79",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 79,
+    "question": "According to the \"Light Switch Theory\" by Andrew Parker, what was the key evolutionary innovation that triggered the Cambrian Explosion?",
+    "options": {
+      "A": "The evolution of lungs",
+      "B": "The evolution of vision (the eye)",
+      "C": "The ability to move onto land",
+      "D": "The development of photosynthesis"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q80",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 80,
+    "question": "Which of the \"Big Five\" mass extinctions was the largest, wiping out up to 95% of all species?",
+    "options": {
+      "A": "Late Ordovician",
+      "B": "Cretaceous-Paleogene",
+      "C": "Late Triassic",
+      "D": "Late Permian"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q81",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 81,
+    "question": "Explain the concept of an \"evolutionary arms race\" as it applies to the Cambrian Explosion.",
+    "options": {
+      "A": "Organisms competed by growing larger limbs for fighting.",
+      "B": "The evolution of a new offensive trait in predators (like vision) would drive the evolution of new defensive traits in prey (like hard shells), and vice versa.",
+      "C": "All animals evolved at the same rate to maintain balance.",
+      "D": "It refers to competition for territory between members of the same species."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q82",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 82,
+    "question": "The Burgess Shale fossil site in British Columbia is world-famous for what reason?",
+    "options": {
+      "A": "It contains the oldest dinosaur fossils.",
+      "B": "It shows exceptional preservation of soft-bodied Cambrian animals.",
+      "C": "It is the site of the largest mass extinction.",
+      "D": "It contains the first evidence of human ancestors."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q83",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 83,
+    "question": "What is the \"Nemesis\" hypothesis, and how does it attempt to explain the 26-million-year extinction cycle?",
+    "options": {
+      "A": "It proposes a large undiscovered planet in our solar system (Planet Nine) causes extinctions.",
+      "B": "It suggests the Sun has a distant, undiscovered companion star whose orbit periodically disturbs the Oort cloud, sending comets toward Earth.",
+      "C": "It claims that our solar system's movement through the galactic plane causes the cycle.",
+      "D": "It is the idea that a black hole periodically passes through our solar system."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q84",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 84,
+    "question": "Which of the following is NOT one of the \"Big Five\" mass extinctions in Earth's history?",
+    "options": {
+      "A": "Late Permian",
+      "B": "Late Devonian",
+      "C": "Late Cambrian",
+      "D": "Cretaceous-Paleogene"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q85",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 85,
+    "question": "What is the primary evolutionary advantage of having hard parts like shells or skeletons?",
+    "options": {
+      "A": "To absorb sunlight",
+      "B": "To aid in flotation",
+      "C": "Protection from predators and UV radiation",
+      "D": "To store water"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q86",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 86,
+    "question": "The period of \"evolutionary experimentation\" in the Cambrian refers to a time when:",
+    "options": {
+      "A": "All life forms were identical.",
+      "B": "Genetic rules for body plans were less fixed, allowing for the appearance of many bizarre and unusual creatures.",
+      "C": "The first scientific experiments on evolution were conducted.",
+      "D": "Life was experimenting with moving onto land."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q87",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 87,
+    "question": "How did the theory of plate tectonics provide a framework for understanding the cycles of biodiversity observed by Valentine and Moores?",
+    "options": {
+      "A": "It showed that biodiversity is always constant.",
+      "B": "It provided the mechanism (continental drift) for the fragmentation and amalgamation of continents, which they had linked to rises and falls in biodiversity.",
+      "C": "It proved that the continents have never moved.",
+      "D": "It explained that all life originated from a single continent."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q88",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 88,
+    "question": "The lenses of a trilobite's eye were uniquely made of what mineral?",
+    "options": {
+      "A": "Silica",
+      "B": "Calcium phosphate",
+      "C": "Calcium carbonate (calcite)",
+      "D": "Diamond"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q89",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 89,
+    "question": "By the end of the Cambrian period, what was the status of the evolution of animal body plans (phyla)?",
+    "options": {
+      "A": "Only a few simple phyla, like sponges, had evolved.",
+      "B": "The majority of all basic body types, or phyla, that we know of today had already evolved.",
+      "C": "No new phyla had appeared since the Ediacaran period.",
+      "D": "The first phylum had just begun to evolve."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q90",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 90,
+    "question": "What is the most dramatic and widely-discussed cause of mass extinctions?",
+    "options": {
+      "A": "Biological competition",
+      "B": "Sea-level change",
+      "C": "Extraterrestrial impact",
+      "D": "Gradual climate change"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q91",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 91,
+    "question": "Why would the evolution of a double-lens structure in the schizochroal eyes of some trilobites be a significant optical advancement?",
+    "options": {
+      "A": "It made their eyes heavier.",
+      "B": "It was a major flaw that made them blind.",
+      "C": "Similar to achromatic lenses in modern cameras, using two lenses with different refractive indices could correct for spherical aberration, allowing for a much sharper, less distorted image.",
+      "D": "It allowed them to have two sets of eyes."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q92",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 92,
+    "question": "Which of the following is NOT a criterion for defining a mass extinction?",
+    "options": {
+      "A": "Severity (a high percentage of species lost)",
+      "B": "Affecting only a single, isolated ecosystem",
+      "C": "Extent (global, across a wide range of ecologies)",
+      "D": "Timing (geologically short and sudden)"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q93",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 93,
+    "question": "How did early geologists first realize that dramatic events had occurred between geological periods like the Permian and the Triassic?",
+    "options": {
+      "A": "They found a layer of ash separating the rock layers worldwide.",
+      "B": "They noticed that the fossil assemblages (the types of creatures) were substantially different from one period to the next.",
+      "C": "The rocks showed evidence of massive global earthquakes.",
+      "D": "The continental configurations were completely different."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q94",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 94,
+    "question": "The strange Cambrian creature Opabinia is notable for what feature?",
+    "options": {
+      "A": "It had the first known shell.",
+      "B": "It was a very early vertebrate.",
+      "C": "It had five eyes and a frontal nozzle.",
+      "D": "It was the largest animal of its time."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q95",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 95,
+    "question": "How does the Milky Way Theory explain the 26-million-year extinction cycle?",
+    "options": {
+      "A": "Our solar system's orbit around the galaxy takes 26 million years.",
+      "B": "It suggests our solar system oscillates up and down through the dense galactic plane, where gravitational disturbances or increased cosmic rays could trigger extinctions.",
+      "C": "The Milky Way's black hole sends out waves of energy every 26 million years.",
+      "D": "This theory was disproven and is not a valid explanation."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q96",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 96,
+    "question": "The fossil Treptichnus pedum is significant because it marks the base of the Cambrian and shows what kind of animal behavior?",
+    "options": {
+      "A": "Flying",
+      "B": "Swimming",
+      "C": "Burrowing in sediment",
+      "D": "Building reefs"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q97",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 97,
+    "question": "What is biomineralization?",
+    "options": {
+      "A": "The decay of organic matter into minerals.",
+      "B": "The process by which organisms create hard parts like shells, bones, and teeth from minerals.",
+      "C": "The study of living minerals.",
+      "D": "The interaction between life and the environment."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q98",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 98,
+    "question": "The theory that biodiversity is highest when continents are most fragmented and lowest when they form a supercontinent was proposed by:",
+    "options": {
+      "A": "Charles Darwin",
+      "B": "Raup and Sepkoski",
+      "C": "Valentine and Moores",
+      "D": "Charles Walcott"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q99",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 99,
+    "question": "What is the proposed 26-million-year periodicity for mass extinctions called?",
+    "options": {
+      "A": "The Walcott Cycle",
+      "B": "The Raup-Sepkoski Cycle",
+      "C": "The Milankovitch Cycle",
+      "D": "The Supercontinent Cycle"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta11_q100",
+    "file": "Hafta 11 Konuları",
+    "status": null,
+    "question_number": 100,
+    "question": "Which of the following is the most characteristic and well-known fossil from the Cambrian period?",
+    "options": {
+      "A": "Ammonite",
+      "B": "Dinosaur",
+      "C": "Trilobite",
+      "D": "Shark"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  }
+]

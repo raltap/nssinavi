@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "hafta13_q1",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 1,
+    "question": "What is the Cenozoic era, which began 66 million years ago, commonly known as?",
+    "options": {
+      "A": "The Age of Reptiles",
+      "B": "The Age of Mammals",
+      "C": "The Age of Fishes",
+      "D": "The Age of Invertebrates"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q2",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 2,
+    "question": "Mammals evolved from which group of \"mammal-like reptiles,\" exemplified by creatures like Dimetrodon?",
+    "options": {
+      "A": "Dinosaurs",
+      "B": "Synapsids",
+      "C": "Pterosaurs",
+      "D": "Marine Reptiles"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q3",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 3,
+    "question": "Which of the following is NOT a defining characteristic of most mammals?",
+    "options": {
+      "A": "Having hair or fur",
+      "B": "Producing milk (mammary glands)",
+      "C": "Being cold-blooded",
+      "D": "Having three middle ear bones"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q4",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 4,
+    "question": "The famous hominin fossil \"Lucy,\" discovered in 1974, belongs to which species?",
+    "options": {
+      "A": "Homo habilis",
+      "B": "Australopithecus afarensis",
+      "C": "Homo erectus",
+      "D": "Neanderthalensis"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q5",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 5,
+    "question": "What was the most important discovery about Lucy's anatomy?",
+    "options": {
+      "A": "She had a large, human-like brain.",
+      "B": "Her skeleton showed she was bipedal and walked upright.",
+      "C": "She was the first hominin found with tools.",
+      "D": "She had feathers."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q6",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 6,
+    "question": "Which hominin species is known as \"Handy Man\" because of its association with the creation of more sophisticated stone tools?",
+    "options": {
+      "A": "Australopithecus garhi",
+      "B": "Homo habilis",
+      "C": "Homo sapiens",
+      "D": "Paranthropus boisei"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q7",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 7,
+    "question": "The formation of which geological feature is believed to be the trigger for the most recent ice age?",
+    "options": {
+      "A": "The Himalayan Mountains",
+      "B": "The Mid-Atlantic Ridge",
+      "C": "The Grand Canyon",
+      "D": "The Isthmus of Panama"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q8",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 8,
+    "question": "Periodic changes in Earth's orbit, tilt, and wobble that influence long-term climate patterns and ice ages are called:",
+    "options": {
+      "A": "Tectonic Cycles",
+      "B": "Milankovitch Cycles",
+      "C": "The Carbon Cycle",
+      "D": "The Supercontinent Cycle"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q9",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 9,
+    "question": "During the Mesozoic Era, why were most mammals small and nocturnal?",
+    "options": {
+      "A": "It was too cold for large mammals to survive.",
+      "B": "They were avoiding predation and competition from dinosaurs, which dominated most ecological niches.",
+      "C": "There was not enough oxygen in the atmosphere.",
+      "D": "They could only find food at night."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q10",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 10,
+    "question": "What is a key anatomical difference between apes and monkeys?",
+    "options": {
+      "A": "Monkeys have larger brains.",
+      "B": "Apes do not have tails.",
+      "C": "Apes have prehensile tails.",
+      "D": "Monkeys have forward-facing eyes, but apes do not."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q11",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 11,
+    "question": "The \"Piltdown Man\" fossil was a famous hoax that combined the cranium of a modern human with the jaw of what animal?",
+    "options": {
+      "A": "A chimpanzee",
+      "B": "A gorilla",
+      "C": "An orangutan",
+      "D": "A baboon"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q12",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 12,
+    "question": "The 3.5 million-year-old Laetoli footprints provide the earliest direct evidence of what key hominin trait?",
+    "options": {
+      "A": "Tool use",
+      "B": "The use of fire",
+      "C": "Bipedalism (walking upright)",
+      "D": "The construction of shelters"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q13",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 13,
+    "question": "Which hominin was the first known species to migrate out of Africa?",
+    "options": {
+      "A": "Homo habilis",
+      "B": "Homo erectus",
+      "C": "Australopithecus afarensis",
+      "D": "Homo sapiens"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q14",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 14,
+    "question": "The earliest known ancestor of primates, a small shrew-like creature, was named:",
+    "options": {
+      "A": "Purgatorius",
+      "B": "Plesiadapis",
+      "C": "Ida",
+      "D": "Aegyptopithecus"
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q15",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 15,
+    "question": "The position of the foramen magnum (the hole where the spine connects to the skull) is a key indicator of:",
+    "options": {
+      "A": "Diet",
+      "B": "Brain size",
+      "C": "Posture and bipedalism",
+      "D": "Age"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q16",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 16,
+    "question": "Woolly mammoths, saber-toothed cats (Smilodon), and giant ground sloths are all examples of:",
+    "options": {
+      "A": "Mesozoic reptiles",
+      "B": "Pleistocene megafauna",
+      "C": "Cenozoic marine mammals",
+      "D": "Early primates"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q17",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 17,
+    "question": "Which of these is NOT a key trait of primates?",
+    "options": {
+      "A": "Forward-facing eyes for stereoscopic vision",
+      "B": "Claws instead of nails",
+      "C": "Grasping hands and feet",
+      "D": "Relatively large brains for body size"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q18",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 18,
+    "question": "The three main groups of living mammals are placentals, marsupials, and:",
+    "options": {
+      "A": "Monotremes",
+      "B": "Synapsids",
+      "C": "Therapsids",
+      "D": "Hominins"
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q19",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 19,
+    "question": "The fossil Ambulocetus is famously known as the:",
+    "options": {
+      "A": "Flying monkey",
+      "B": "Saber-toothed squirrel",
+      "C": "Walking whale",
+      "D": "Bipedal bat"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q20",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 20,
+    "question": "The rapid diversification of mammals into many new forms after the extinction of the dinosaurs is called:",
+    "options": {
+      "A": "Genetic drift",
+      "B": "A mass extinction",
+      "C": "Adaptive radiation",
+      "D": "Punctuated equilibrium"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q21",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 21,
+    "question": "What is the proposed modern geological period that accounts for the impact of Homo sapiens on the planet?",
+    "options": {
+      "A": "The Holocene",
+      "B": "The Anthropocene",
+      "C": "The Pleistocene",
+      "D": "The Cenozoic"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q22",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 22,
+    "question": "The cave paintings at Lascaux and Chauvet in France are examples of what significant development in human evolution?",
+    "options": {
+      "A": "The first use of tools",
+      "B": "The control of fire",
+      "C": "The emergence of symbolic thought and art",
+      "D": "The beginning of agriculture"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q23",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 23,
+    "question": "The two major branches of primates are the Haplorhines (monkeys, apes, humans) and the:",
+    "options": {
+      "A": "Hominins",
+      "B": "Strepsirrhines (lemurs, lorises)",
+      "C": "Anthropoids",
+      "D": "Prosimians"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q24",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 24,
+    "question": "In the future, about 5 billion years from now, our Sun will leave its stable phase and become a:",
+    "options": {
+      "A": "White Dwarf",
+      "B": "Black Hole",
+      "C": "Neutron Star",
+      "D": "Red Giant"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q25",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 25,
+    "question": "The first member of our own genus, Homo, was:",
+    "options": {
+      "A": "Homo erectus",
+      "B": "Homo habilis",
+      "C": "Homo neanderthalensis",
+      "D": "Homo sapiens"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q26",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 26,
+    "question": "How did the extinction of the dinosaurs at the end of the Cretaceous period facilitate the \"Mammalian Explosion\"?",
+    "options": {
+      "A": "It increased the amount of oxygen in the atmosphere.",
+      "B": "The extinction event vacated a vast number of ecological niches, creating opportunities for the surviving mammals to rapidly diversify and fill these empty roles.",
+      "C": "It caused a global warming trend that was favorable to mammals.",
+      "D": "The impact that killed the dinosaurs also caused mutations that created new mammal species."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q27",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 27,
+    "question": "What is the \"brain first\" hypothesis of human evolution, and how did the discovery of Lucy overturn it?",
+    "options": {
+      "A": "The theory held that a large brain was the first defining human trait to evolve. Lucy's skeleton proved this wrong by showing a small, ape-sized brain combined with a fully bipedal body.",
+      "B": "The theory held that bipedalism came first. Lucy's large brain proved this wrong.",
+      "C": "The theory held that tool use came first. Lucy proved this wrong by having no hands.",
+      "D": "The theory held that humans evolved in Europe. Lucy's discovery in Africa proved this wrong."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q28",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 28,
+    "question": "How does the formation of the Isthmus of Panama, a tectonic event, link to the Milankovitch cycles, which are orbital?",
+    "options": {
+      "A": "The formation of the Isthmus initiated a cooling trend by altering ocean currents. This pre-conditioned the Northern Hemisphere for glaciation, which was then paced by the weaker, periodic orbital cycles.",
+      "B": "Milankovitch cycles caused the Isthmus of Panama to form.",
+      "C": "The Isthmus of Panama has no connection to the ice age.",
+      "D": "The Isthmus of Panama stopped the Milankovitch cycles from affecting climate."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q29",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 29,
+    "question": "What is the main conceptual difference in primate evolution? It is not about becoming stronger or faster, but about:",
+    "options": {
+      "A": "Developing thicker fur for warmth.",
+      "B": "Becoming better swimmers.",
+      "C": "Replacing instinct with perception, learning, and complex social relationships.",
+      "D": "Growing larger teeth for defense."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q30",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 30,
+    "question": "Explain the \"Sahara pump\" theory as a mechanism for hominin dispersal.",
+    "options": {
+      "A": "It suggests hominins used pumps to get water from the Sahara.",
+      "B": "It proposes that periodic shifts in climate turned the Sahara into a habitable grassland, creating a \"corridor\" that allowed hominins like Homo erectus to migrate out of Africa. During dry periods, this corridor closed.",
+      "C": "It is the idea that wind patterns from the Sahara pushed early hominins toward Asia.",
+      "D": "It describes a volcanic eruption in the Sahara that forced migration."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q31",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 31,
+    "question": "The fossil site Sima de los Huesos in Spain is significant for showing early evidence of what complex, symbolic behavior in Homo heidelbergensis?",
+    "options": {
+      "A": "The first use of fire.",
+      "B": "The first cave paintings.",
+      "C": "The deliberate placement of the dead in a deep cave shaft, possibly representing the earliest form of burial or funeral rite.",
+      "D": "The construction of stone buildings."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q32",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 32,
+    "question": "What is the \"Human Revolution\" theory, and what evidence challenges it?",
+    "options": {
+      "A": "The theory that humans evolved from apes; it is challenged by the fossil record.",
+      "B": "The theory that a single genetic mutation around 50,000 years ago suddenly \"switched on\" consciousness and art. It is challenged by the discovery of older (70,000+ years) abstract art and evidence of Neanderthal symbolic behavior.",
+      "C": "The theory that all humans originated in Africa; it is challenged by fossils found in Asia.",
+      "D": "The theory that bipedalism was a sudden revolution; it is challenged by the Laetoli footprints."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q33",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 33,
+    "question": "Contrast the general lifestyles and diets of Australopithecus and Homo habilis.",
+    "options": {
+      "A": "They were identical in every way.",
+      "B": "Australopithecus was likely more adapted to eating fruits and plants, while H. habilis had teeth adapted for shearing meat and was an effective scavenger who made more advanced tools.",
+      "C": "H. habilis was a peaceful herbivore, while Australopithecus was the \"killer ape.\"",
+      "D": "Australopithecus lived in trees, while H. habilis lived exclusively in caves."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q34",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 34,
+    "question": "Why was the Eocene period considered a \"forest world,\" and how might this environment have limited mammalian radiation?",
+    "options": {
+      "A": "The Eocene was a global ice age that limited forests.",
+      "B": "The Earth was much warmer, and dense forests covered most of the planet, which may have reduced the variety of open ecological niches (like grasslands) available for mammals to exploit.",
+      "C": "The \"forest world\" was an ideal environment for mammal radiation.",
+      "D": "The forests were too dangerous due to surviving dinosaurs."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q35",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 35,
+    "question": "The transition from synapsid reptile to true mammal involved the transformation of jaw bones into what new structure?",
+    "options": {
+      "A": "The teeth",
+      "B": "The bones of the middle ear",
+      "C": "The ribs",
+      "D": "The kneecap"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q36",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 36,
+    "question": "Compare the key characteristics of the three main mammal groups: monotremes, marsupials, and placentals.",
+    "options": {
+      "A": "All three lay eggs.",
+      "B": "Monotremes lay eggs; marsupials have a short gestation and raise altricial young in a pouch; placentals have a long gestation and give birth to more developed (precocial) young.",
+      "C": "Marsupials are the only group with mammary glands.",
+      "D": "Placentals are the only group found in Australia."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q37",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 37,
+    "question": "Why is primate evolution defined more by perception and cognition than by strength?",
+    "options": {
+      "A": "Because primates are the weakest of all mammals.",
+      "B": "Key adaptations like stereoscopic vision, fine motor control with grasping hands, and large brains for social learning provided a greater selective advantage in their arboreal and later social environments than pure physical power.",
+      "C": "This is an incorrect statement; strength is the most important trait.",
+      "D": "Because primates never had to deal with predators."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q38",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 38,
+    "question": "What evidence suggests that Neanderthals were not the brutish, unintelligent creatures they are often portrayed as?",
+    "options": {
+      "A": "They were physically weaker than modern humans.",
+      "B": "There is no such evidence; they were simple brutes.",
+      "C": "They made jewelry, used pigments (make-up), buried their dead, cared for the elderly/injured, and may have created art and music.",
+      "D": "They survived the extinction of the dinosaurs."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q39",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 39,
+    "question": "What is the main driver of the \"adaptive radiation\" of mammals after the dinosaur extinction?",
+    "options": {
+      "A": "A sudden increase in global temperatures.",
+      "B": "The sudden availability of empty ecological niches.",
+      "C": "A random genetic mutation that made all mammals larger.",
+      "D": "The migration of all mammals to a single continent."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q40",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 40,
+    "question": "How does Raymond Dart's \"killer ape\" theory for Australopithecus contrast with the modern view of their ecological role?",
+    "options": {
+      "A": "Dart's theory of them as violent hunters is now largely dismissed; paleontological evidence suggests they were more likely prey than predator, and at best, opportunistic scavengers.",
+      "B": "Dart's theory is now widely accepted as fact.",
+      "C": "The modern view is that they were peaceful herbivores who never scavenged.",
+      "D": "There is no modern view on their ecological role."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q41",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 41,
+    "question": "Explain the key differences between New World monkeys and Old World monkeys.",
+    "options": {
+      "A": "New World monkeys are from Africa/Asia with narrow noses; Old World monkeys are from the Americas with flat noses.",
+      "B": "New World monkeys are from the Americas, often have flat noses and prehensile tails; Old World monkeys are from Africa/Asia, have narrow noses, and no prehensile tails.",
+      "C": "There are no differences between them.",
+      "D": "Old World monkeys are the ancestors of New World monkeys."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q42",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 42,
+    "question": "What is the significance of \"precise tooth occlusion\" in early mammals like Morganucodon?",
+    "options": {
+      "A": "It allowed them to have more teeth.",
+      "B": "It allowed their upper and lower teeth to fit together perfectly, leading to much more efficient chewing and energy extraction from food.",
+      "C": "It was a defensive mechanism.",
+      "D": "It indicates that they ate only soft foods."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q43",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 43,
+    "question": "The transition from Pakicetus to Basilosaurus illustrates the evolution of whales. What is the major anatomical trend seen in this sequence?",
+    "options": {
+      "A": "The development of wings for flight.",
+      "B": "A shift from a four-legged, semi-aquatic animal to a fully aquatic one with the loss of hind limbs, the shifting of nostrils to a blowhole, and the development of flukes.",
+      "C": "The growth of a thick, furry coat for living in arctic waters.",
+      "D": "A reduction in body size over time."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q44",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 44,
+    "question": "The extinction of the megafauna around 10,000-15,000 years ago was not one of the \"Big Five\" mass extinctions. Why not?",
+    "options": {
+      "A": "It was a true mass extinction, larger than the one that killed the dinosaurs.",
+      "B": "While significant, it primarily targeted large terrestrial animals and did not cause the catastrophic, biosphere-wide collapse across all ecologies seen in the Big Five.",
+      "C": "It only happened in Africa.",
+      "D": "No species actually went extinct."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q45",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 45,
+    "question": "What is the conceptual insight behind primate evolution being about \"replacing reaction with relationship\"?",
+    "options": {
+      "A": "It means primates react to stimuli without thinking.",
+      "B": "It highlights the shift from purely instinctual, reflexive behaviors to complex social bonds, learning, and cognition as the primary survival strategy.",
+      "C": "It refers to the chemical reactions in the brain.",
+      "D": "It has no conceptual meaning."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q46",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 46,
+    "question": "How does the platypus's mix of traits (lays eggs like a reptile, produces milk like a mammal) make it a \"living transition form\"?",
+    "options": {
+      "A": "It shows a mosaic of features from different vertebrate classes, reflecting the gradual accumulation of mammalian traits.",
+      "B": "It is half-bird and half-mammal.",
+      "C": "It is not a mammal.",
+      "D": "It is the ancestor of all mammals."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q47",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 47,
+    "question": "What is the key difference between the Strepsirrhini (lemur) and Haplorhini (human) branches of the primate tree regarding their dominant sense?",
+    "options": {
+      "A": "Strepsirrhini are dominated by vision, while Haplorhini are dominated by smell.",
+      "B": "The Haplorhini line shows a major evolutionary shift from a reliance on smell (olfaction) to a reliance on vision.",
+      "C": "Both are dominated by hearing.",
+      "D": "Neither group has a dominant sense."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q48",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 48,
+    "question": "If Homo ergaster had sweat glands and a hairless body, what advantage would this provide in the savanna environment?",
+    "options": {
+      "A": "It would provide better camouflage.",
+      "B": "It would allow for much more efficient cooling (thermoregulation), enabling them to be active and travel long distances during the day without overheating.",
+      "C": "It would offer protection from predators.",
+      "D": "It would have no advantage and would be a major drawback."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q49",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 49,
+    "question": "Why do placental mammals dominate the globe today compared to marsupials and monotremes?",
+    "options": {
+      "A": "Because they are better at laying eggs.",
+      "B": "Because of a longer gestation period that leads to more developed offspring at birth and more flexible ecological strategies.",
+      "C": "Because they are only found on the largest continents.",
+      "D": "They do not dominate; marsupials are more numerous."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q50",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 50,
+    "question": "What is the significance of the shift from a more horizontal spine in quadrupeds to a vertical, S-curved spine in hominins?",
+    "options": {
+      "A": "It allowed for faster running on four legs.",
+      "B": "It was an adaptation to support the body's weight in a bipedal stance and act as a shock absorber while walking.",
+      "C": "It was a disadvantage that led to back problems.",
+      "D": "It allowed for a larger rib cage."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q51",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 51,
+    "question": "Synthesize the evolutionary narrative from Lucy's bipedalism to the larger brain of Homo habilis. How does the concept of \"freeing the hands\" serve as the causal link between these two major adaptations?",
+    "options": {
+      "A": "Bipedalism was a consequence of having a large brain.",
+      "B": "The shift to bipedalism (seen in Lucy) freed the hands from locomotion. This allowed for the development and use of tools (seen with A. garhi), which in turn created a selective pressure for better toolmakers, favoring the evolution of larger, more complex brains (seen in H. habilis).",
+      "C": "Larger brains were needed to balance on two legs.",
+      "D": "Tool use and bipedalism are unrelated evolutionary events."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q52",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 52,
+    "question": "Critique the \"Human Revolution\" theory. Why would the gradual accumulation of cultural artifacts (like the 70,000-year-old abstract designs and Neanderthal jewelry) present a significant challenge to the idea of a sudden, single-gene mutation for consciousness?",
+    "options": {
+      "A": "It strongly supports the \"Human Revolution\" theory.",
+      "B": "The theory is about bipedalism, not art.",
+      "C": "These earlier and non-sapiens examples of symbolic behavior suggest that the capacity for culture and self-awareness was not an instantaneous \"on-switch\" but developed incrementally over a long period, undermining the \"revolution\" concept.",
+      "D": "These older artifacts are not considered symbolic."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q53",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 53,
+    "question": "Compare the evolutionary pressures of the Eocene \"forest world\" with the Pliocene/Pleistocene savanna. How might these different environments have selected for different traits in early primates versus later hominins?",
+    "options": {
+      "A": "The forest selected for running, while the savanna selected for climbing.",
+      "B": "The dense, three-dimensional forest of the Eocene selected for arboreal traits like grasping hands and stereoscopic vision. The open savanna of the Pliocene selected for different traits, such as efficient long-distance bipedalism.",
+      "C": "Both environments selected for the exact same traits.",
+      "D": "The forest was a safer environment, so no new traits were selected for."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q54",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 54,
+    "question": "The Piltdown Man hoax derailed paleoanthropology for 40 years. What is the most important methodological lesson that science learned from this event?",
+    "options": {
+      "A": "That amateur archaeologists should never be trusted.",
+      "B": "That a single fossil, especially one that perfectly fits preconceived theories, should be treated with extreme skepticism and subjected to rigorous, independent verification by multiple methods before being accepted as a cornerstone of a scientific field.",
+      "C": "That British fossils are more important than African fossils.",
+      "D": "That large brains are not an important human trait."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q55",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 55,
+    "question": "Explain the climatic feedback loop initiated by the formation of the Isthmus of Panama. How did a change in ocean circulation lead to a change in the atmosphere and cryosphere?",
+    "options": {
+      "A": "The Isthmus formation had no effect.",
+      "B": "It blocked warm water, immediately freezing the planet.",
+      "C": "It re-routed warm, salty Atlantic water (hydrosphere) northward. This increased evaporation and put more moisture into the atmosphere, which then fell as snow at high latitudes, leading to the growth of ice sheets (cryosphere).",
+      "D": "It caused all the world's ice to melt."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q56",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 56,
+    "question": "What is the central irony of the mammal story during the Mesozoic?",
+    "options": {
+      "A": "That they were the dominant animals of the era.",
+      "B": "That the very group destined to take over the world spent 150 million years—the vast majority of their history—as small, marginal creatures living in the shadow of the dinosaurs.",
+      "C": "That they all went extinct along with the dinosaurs.",
+      "D": "That they did not evolve at all during this time."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q57",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 57,
+    "question": "The transition from the reptile jaw to the mammal ear is a classic example of exaptation. How did the function of the articular and quadrate bones change during this transition?",
+    "options": {
+      "A": "They remained as jaw bones but became smaller.",
+      "B": "They were originally part of the jaw joint in synapsids but were later co-opted and repurposed in mammals to become the malleus and incus, bones that transmit sound in the middle ear.",
+      "C": "They disappeared completely from the skeleton.",
+      "D": "They became the new teeth in mammals."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q58",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 58,
+    "question": "Why are the discoveries at Sima de los Huesos (the \"pit of bones\") so contentious and important for understanding the origins of symbolic thought?",
+    "options": {
+      "A": "They represent the oldest known Homo sapiens fossils.",
+      "B": "The deliberate deposition of 28 individuals in a deep cave shaft, along with a single, finely made hand axe, strongly suggests a ritualistic or symbolic purpose, pushing back the origins of such behavior to Homo heidelbergensis, long before the \"Human Revolution.\"",
+      "C": "It is evidence of a mass cannibalism event.",
+      "D": "The fossils were found to be from a species of bear, not hominin."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q59",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 59,
+    "question": "Milankovitch cycles have been operating for billions of years. Why did they only trigger major Northern Hemisphere ice ages within the last 2.5 million years?",
+    "options": {
+      "A": "The cycles started only 2.5 million years ago.",
+      "B": "The orbital changes were much more extreme in the last 2.5 million years.",
+      "C": "Because the Earth's climate system first had to reach a cool \"threshold\" state, likely due to tectonic factors like the Isthmus of Panama and lower overall CO2 levels. Once pre-conditioned, the subtle Milankovitch cycles were able to push the climate in and out of glacial periods.",
+      "D": "Milankovitch cycles are not related to ice ages."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q60",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 60,
+    "question": "If Homo habilis was primarily a scavenger, not a hunter, how does this change our perception of early human evolution?",
+    "options": {
+      "A": "It suggests early hominins were more aggressive and dominant than previously thought.",
+      "B": "It reframes the \"man the hunter\" narrative, suggesting that the initial advantage of a larger brain and tools was not for heroic big-game hunting, but for the clever, opportunistic strategy of scavenging marrow and leftovers from the kills of more powerful predators.",
+      "C": "It implies that early hominins were herbivores.",
+      "D": "It has no effect on our perception."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q61",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 61,
+    "question": "The evolutionary trend from Australopithecus to Homo habilis to Homo erectus shows a clear correlation between three things: increasing brain size, increasing body height, and increasing sophistication of tools. What does this correlation suggest?",
+    "options": {
+      "A": "It is purely a coincidence.",
+      "B": "It suggests a positive feedback loop where each factor influences the others: better tools allow for better nutrition (more meat/marrow), which supports a larger, more energetically expensive body and brain, which in turn allows for the creation of even better tools.",
+      "C": "It suggests that as hominins got taller, their brains had to get bigger to control the body.",
+      "D": "It suggests that making tools requires being tall."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q62",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 62,
+    "question": "The platypus lays eggs and has a reptile-like shoulder girdle, but it is classified as a mammal. What definitive mammalian traits does it possess?",
+    "options": {
+      "A": "It has scales and is cold-blooded.",
+      "B": "It has hair/fur and produces milk for its young (albeit from a \"milk field,\" not nipples).",
+      "C": "It has a beak like a bird.",
+      "D": "It does not possess any mammalian traits."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q63",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 63,
+    "question": "What is the significance of the shift from the mostly nocturnal, smell-oriented world of early primate-like mammals to the vision-dominated world of true primates?",
+    "options": {
+      "A": "It indicates a shift from a ground-dwelling to a tree-dwelling (arboreal) lifestyle, where depth perception and hand-eye coordination for navigating branches became more important for survival than a sensitive nose.",
+      "B": "It indicates a shift to a burrowing lifestyle.",
+      "C": "It means that the Earth became much brighter.",
+      "D": "It shows that early primates were hunted by predators with no smell."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q64",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 64,
+    "question": "The extinction of the megafauna was selective, primarily targeting large animals. Why might many African megafauna like elephants and giraffes have survived this extinction event?",
+    "options": {
+      "A": "The African climate did not change.",
+      "B": "There were no humans in Africa.",
+      "C": "African megafauna had a long history of co-evolving with modern humans, allowing them to develop behavioral adaptations to the new super-predator, whereas megafauna in the Americas and Eurasia were naive and vulnerable.",
+      "D": "African megafauna were smaller and better at hiding."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q65",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 65,
+    "question": "How does cladistic analysis, which groups organisms by shared derived traits, change the traditional Linnaean classification of humans and great apes?",
+    "options": {
+      "A": "It separates humans from all other animals completely.",
+      "B": "It shows that genetically, humans are so similar to great apes that we must be included within the same family (Hominidae), challenging the idea of human uniqueness.",
+      "C": "It proves that humans are not primates.",
+      "D": "It has no effect on classification."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q66",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 66,
+    "question": "What is the key environmental difference between the Eocene (50 mya) and the Pleistocene (2 mya)?",
+    "options": {
+      "A": "The Eocene was a warm, tropical \"forest world,\" while the Pleistocene was a cooler \"ice age\" world with savannas and glaciers.",
+      "B": "The Eocene was an ice age, while the Pleistocene was a warm period.",
+      "C": "There were no continents in the Eocene.",
+      "D": "Dinosaurs lived in the Eocene but not the Pleistocene."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q67",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 67,
+    "question": "The ability of mammals to have differentiated teeth (incisors, canines, molars) provides what major ecological advantage over reptiles with uniform teeth?",
+    "options": {
+      "A": "It allows them to have more sets of teeth throughout their lives.",
+      "B": "Differentiated teeth allow for much more specialized and efficient processing of a wide variety of foods (slicing, puncturing, grinding), enabling mammals to adapt to a greater range of diets and environments.",
+      "C": "It makes their bite more powerful.",
+      "D": "It has no particular advantage."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q68",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 68,
+    "question": "The \"killer ape\" theory is unsupported, but the evidence for butchering marrow from bones by A. garhi is strong. Reconcile these two ideas.",
+    "options": {
+      "A": "A. garhi was not a \"killer ape\" that hunted large animals but an opportunistic scavenger that was intelligent enough to use tools to access a rich food source (marrow) that other carnivores could not.",
+      "B": "The \"killer ape\" theory is correct, and A. garhi hunted mammoths.",
+      "C": "A. garhi only ate plants, and the butchered bones were from a different species.",
+      "D": "The two ideas cannot be reconciled."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q69",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 69,
+    "question": "Why would the development of sweat glands and a hairless body in Homo ergaster be a prerequisite for the evolution of a larger, more complex brain?",
+    "options": {
+      "A": "It would have no effect on brain evolution.",
+      "B": "A hairless, sweating body is a superior thermoregulatory system for a hot environment. It would have prevented the large, heat-generating brain from fatally overheating during strenuous activity like long-distance walking or running.",
+      "C": "A hairless body made them faster, allowing them to escape predators and live long enough to evolve a big brain.",
+      "D": "It allowed for better absorption of Vitamin D, which is essential for brain growth."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q70",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 70,
+    "question": "The shift from Old World monkeys to apes involved the loss of the tail and the development of flexible shoulders. What new form of locomotion did this enable?",
+    "options": {
+      "A": "Bipedal walking",
+      "B": "Fast running on the ground",
+      "C": "Brachiation (swinging through trees with the arms)",
+      "D": "Burrowing"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q71",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 71,
+    "question": "If primate evolution is a story of increasing social intelligence, what is the ultimate expression of this trend in the hominin lineage?",
+    "options": {
+      "A": "The ability to run fast.",
+      "B": "The development of thick fur.",
+      "C": "The emergence of culture, language, and symbolic thought, which allow for the complex transfer of learned information between individuals and across generations.",
+      "D": "The ability to use simple tools."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q72",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 72,
+    "question": "The Messel Pit fossils are so well-preserved because the lake bottom was anoxic. What does \"anoxic\" mean, and why does it aid preservation?",
+    "options": {
+      "A": "Anoxic means \"full of oxygen,\" which preserves fossils.",
+      "B": "Anoxic means \"lacking oxygen.\" This environment prevents the activity of aerobic bacteria that would normally cause a dead organism to decay, allowing for the preservation of soft tissues.",
+      "C": "Anoxic means \"very deep,\" so the pressure fossilized the animals.",
+      "D": "Anoxic means \"acidic,\" which turned the animals to stone."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q73",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 73,
+    "question": "What is the most likely reason for the sudden end of the \"Golden Age of Apes\" 7-8 million years ago?",
+    "options": {
+      "A": "A targeted disease that affected only apes.",
+      "B": "Global climate change, leading to the shrinking of forests and the expansion of savannas, which reduced the available habitat for many arboreal ape species.",
+      "C": "Competition from the first hominins.",
+      "D": "They were hunted to extinction by large carnivores."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q74",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 74,
+    "question": "In the distant future, when the Sun becomes a red giant, it will expand. What is the likely fate of Earth?",
+    "options": {
+      "A": "It will be pushed into a more distant, colder orbit.",
+      "B": "Its orbit will be unaffected.",
+      "C": "It will be scorched, and eventually engulfed and vaporized by the expanding Sun.",
+      "D": "It will become a gas giant planet."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q75",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 75,
+    "question": "The evolution from Homo habilis to Homo erectus represents a major shift in both physical stature and technological capability. This demonstrates that human evolution is not just about the brain but also about the co-evolution of:",
+    "options": {
+      "A": "Brain and brawn.",
+      "B": "Culture, anatomy, and technology.",
+      "C": "Humans and the environment.",
+      "D": "Hunting and gathering."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q76",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 76,
+    "question": "Mammals evolved from which group of \"mammal-like reptiles\"?",
+    "options": {
+      "A": "Dinosaurs",
+      "B": "Pterosaurs",
+      "C": "Synapsids",
+      "D": "Archosaurs"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q77",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 77,
+    "question": "What was the most revolutionary discovery about Lucy?",
+    "options": {
+      "A": "She had a large, human-like brain.",
+      "B": "She was bipedal and walked upright.",
+      "C": "She used complex tools.",
+      "D": "She was the first human ancestor to leave Africa."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q78",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 78,
+    "question": "During the Mesozoic Era, why were most mammals small and nocturnal?",
+    "options": {
+      "A": "The climate was too cold for large mammals.",
+      "B": "The major ecological niches were already occupied by dinosaurs.",
+      "C": "There was not enough food to support large mammals.",
+      "D": "Mammals had not yet evolved fur."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q79",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 79,
+    "question": "Which hominin species is nicknamed \"Handy Man\" due to its association with the first widespread and more advanced stone tools?",
+    "options": {
+      "A": "Australopithecus afarensis",
+      "B": "Homo habilis",
+      "C": "Homo sapiens",
+      "D": "Paranthropus boisei"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q80",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 80,
+    "question": "The cycles of glacial advances and retreats within an ice age are explained by periodic changes in Earth's orbit, known as:",
+    "options": {
+      "A": "Milankovitch cycles",
+      "B": "The Supercontinent cycle",
+      "C": "The Rock cycle",
+      "D": "Plate Tectonics"
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q81",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 81,
+    "question": "What is the \"brain first\" hypothesis of human evolution, and how did the discovery of Lucy overturn it?",
+    "options": {
+      "A": "The theory held that a large brain was the first defining human trait to evolve. Lucy's skeleton proved this wrong by showing a small, ape-sized brain combined with a fully bipedal body.",
+      "B": "The theory held that bipedalism came first. Lucy's large brain proved this wrong.",
+      "C": "The theory held that tool use came first. Lucy proved this wrong by having no hands.",
+      "D": "The theory held that humans evolved in Europe. Lucy's discovery in Africa proved this wrong."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q82",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 82,
+    "question": "How did the formation of the Isthmus of Panama lead to the onset of the Northern Hemisphere ice ages?",
+    "options": {
+      "A": "It blocked the cold Arctic current from flowing south.",
+      "B": "By separating the Atlantic and Pacific, it redirected the warm Gulf Stream current northward, increasing moisture and snowfall over northern continents, which helped build glaciers.",
+      "C": "The volcanic activity that created it blocked out the sun.",
+      "D": "It allowed animals to migrate from South to North America, increasing CO2 levels."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q83",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 83,
+    "question": "The \"Piltdown Man\" fossil, which had a large cranium and an ape-like jaw, was later revealed to be:",
+    "options": {
+      "A": "The true missing link",
+      "B": "A new species of ape",
+      "C": "An early Neanderthal",
+      "D": "A complete hoax"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q84",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 84,
+    "question": "The rapid diversification of mammals into many new forms after the extinction of the dinosaurs is called:",
+    "options": {
+      "A": "Genetic drift",
+      "B": "A mass extinction",
+      "C": "Adaptive radiation",
+      "D": "Punctuated equilibrium"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q85",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 85,
+    "question": "What is a key anatomical difference between apes and most monkeys?",
+    "options": {
+      "A": "Apes have tails, monkeys do not.",
+      "B": "Apes do not have tails, monkeys do.",
+      "C": "Apes are exclusively found in Africa.",
+      "D": "Monkeys have larger brains than apes."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q86",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 86,
+    "question": "The \"Sahara pump\" theory as a mechanism for hominin dispersal proposes that:",
+    "options": {
+      "A": "Hominins used pumps to get water from the Sahara.",
+      "B": "Alternating wet and dry periods created \"green corridors\" that allowed hominins like Homo erectus to migrate out of Africa.",
+      "C": "Wind patterns from the Sahara pushed early hominins toward Asia.",
+      "D": "A volcanic eruption in the Sahara forced migration."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q87",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 87,
+    "question": "What evidence suggests that Neanderthals were not the brutish, unintelligent creatures they are often portrayed as?",
+    "options": {
+      "A": "They were physically weaker than modern humans.",
+      "B": "There is no such evidence; they were simple brutes.",
+      "C": "They made jewelry, used pigments, buried their dead, and cared for the elderly/injured.",
+      "D": "They survived the extinction of the dinosaurs."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q88",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 88,
+    "question": "What is the main conceptual difference in primate evolution? It is not about becoming stronger or faster, but about:",
+    "options": {
+      "A": "Developing thicker fur for warmth.",
+      "B": "Becoming better swimmers.",
+      "C": "Replacing instinct with perception, learning, and complex social relationships.",
+      "D": "Growing larger teeth for defense."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q89",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 89,
+    "question": "Which of these is NOT a key trait of primates?",
+    "options": {
+      "A": "Forward-facing eyes for stereoscopic vision",
+      "B": "Claws instead of nails",
+      "C": "Grasping hands and feet",
+      "D": "Relatively large brains for body size"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q90",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 90,
+    "question": "The transition from synapsid reptile to true mammal involved the transformation of jaw bones into what new structure?",
+    "options": {
+      "A": "The teeth",
+      "B": "The bones of the middle ear",
+      "C": "The ribs",
+      "D": "The kneecap"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q91",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 91,
+    "question": "Woolly mammoths, saber-toothed cats (Smilodon), and giant ground sloths are all examples of:",
+    "options": {
+      "A": "Mesozoic reptiles",
+      "B": "Pleistocene megafauna",
+      "C": "Cenozoic marine mammals",
+      "D": "Early primates"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q92",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 92,
+    "question": "What is the significance of the shift from a more horizontal spine in quadrupeds to a vertical, S-curved spine in hominins?",
+    "options": {
+      "A": "It allowed for faster running on four legs.",
+      "B": "It was an adaptation to support the body's weight in a bipedal stance and act as a shock absorber while walking.",
+      "C": "It was a disadvantage that led to back problems.",
+      "D": "It allowed for a larger rib cage."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q93",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 93,
+    "question": "The cave paintings at Lascaux and Chauvet in France are examples of what significant development in human evolution?",
+    "options": {
+      "A": "The first use of tools",
+      "B": "The control of fire",
+      "C": "The emergence of symbolic thought and art",
+      "D": "The beginning of agriculture"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q94",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 94,
+    "question": "How did the extinction of the dinosaurs at the end of the Cretaceous period facilitate the \"Mammalian Explosion\"?",
+    "options": {
+      "A": "It increased the amount of oxygen in the atmosphere.",
+      "B": "The extinction event vacated a vast number of ecological niches, creating opportunities for the surviving mammals to rapidly diversify.",
+      "C": "It caused a global warming trend that was favorable to mammals.",
+      "D": "The impact that killed the dinosaurs also caused mutations that created new mammal species."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q95",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 95,
+    "question": "The \"Human Revolution\" theory is challenged by:",
+    "options": {
+      "A": "The discovery of bipedalism in Lucy.",
+      "B": "The discovery of older abstract art and evidence of Neanderthal symbolic behavior.",
+      "C": "The fact that humans migrated out of Africa.",
+      "D": "The small brain size of Homo habilis."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q96",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 96,
+    "question": "Which hominin was the first known species to migrate out of Africa?",
+    "options": {
+      "A": "Homo habilis",
+      "B": "Homo erectus",
+      "C": "Australopithecus afarensis",
+      "D": "Homo sapiens"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q97",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 97,
+    "question": "The transition from Pakicetus to Basilosaurus illustrates the evolution of what modern mammal group?",
+    "options": {
+      "A": "Bats",
+      "B": "Elephants",
+      "C": "Whales",
+      "D": "Horses"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q98",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 98,
+    "question": "In the future, about 250 million years from now, geologists predict that the continents will:",
+    "options": {
+      "A": "Have drifted into deep space.",
+      "B": "Have eroded away completely.",
+      "C": "Have reassembled into a new supercontinent.",
+      "D": "Have stopped moving entirely."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q99",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 99,
+    "question": "The platypus is a monotreme, a group of mammals that is unique for what reason?",
+    "options": {
+      "A": "They are warm-blooded.",
+      "B": "They produce milk.",
+      "C": "They lay eggs.",
+      "D": "They have hair."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta13_q100",
+    "file": "Hafta 13 Konuları",
+    "status": null,
+    "question_number": 100,
+    "question": "The position of the foramen magnum at the base of the skull is a key indicator of:",
+    "options": {
+      "A": "Diet",
+      "B": "Brain size",
+      "C": "Posture and bipedalism",
+      "D": "Age"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  }
+]

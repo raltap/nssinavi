@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "hafta9_q1",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 1,
+    "question": "Earth's crust is composed of which two primary types?",
+    "options": {
+      "A": "Igneous and Sedimentary",
+      "B": "Oceanic and Continental",
+      "C": "Mafic and Felsic",
+      "D": "Lithosphere and Asthenosphere"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q2",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 2,
+    "question": "Which type of crust is thinner, denser, and primarily made of basalt?",
+    "options": {
+      "A": "Continental crust",
+      "B": "Ancient crust",
+      "C": "Oceanic crust",
+      "D": "Tectonic crust"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q3",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 3,
+    "question": "Alfred Wegener's famous hypothesis, proposed in the early 20th century, is known as:",
+    "options": {
+      "A": "Plate Tectonics",
+      "B": "Seafloor Spreading",
+      "C": "The Rock Cycle",
+      "D": "Continental Drift"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q4",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 4,
+    "question": "According to Wegener, the continents were once joined together in a supercontinent called:",
+    "options": {
+      "A": "Rodinia",
+      "B": "Ur",
+      "C": "Gondwana",
+      "D": "Pangaea"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q5",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 5,
+    "question": "What geological feature occurs at a divergent plate boundary where two oceanic plates are moving apart?",
+    "options": {
+      "A": "A deep ocean trench",
+      "B": "A volcanic island arc",
+      "C": "A mid-ocean ridge",
+      "D": "A transform fault"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q6",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 6,
+    "question": "The process where one tectonic plate slides beneath another is called:",
+    "options": {
+      "A": "Rifting",
+      "B": "Subduction",
+      "C": "Spreading",
+      "D": "Accretion"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q7",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 7,
+    "question": "Earth's protective magnetic field, which shields the planet from solar wind, is also known as the:",
+    "options": {
+      "A": "Atmosphere",
+      "B": "Ionosphere",
+      "C": "Magnetosphere",
+      "D": "Ozone Layer"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q8",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 8,
+    "question": "In which layer of the atmosphere does all weather take place?",
+    "options": {
+      "A": "Stratosphere",
+      "B": "Mesosphere",
+      "C": "Troposphere",
+      "D": "Thermosphere"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q9",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 9,
+    "question": "The ozone layer is a critical part of which atmospheric layer?",
+    "options": {
+      "A": "Stratosphere",
+      "B": "Exosphere",
+      "C": "Troposphere",
+      "D": "Ionosphere"
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q10",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 10,
+    "question": "The \"Greenhouse Effect\" is the process where certain gases in the atmosphere trap what kind of radiation?",
+    "options": {
+      "A": "Ultraviolet (UV) radiation",
+      "B": "Visible light",
+      "C": "X-rays",
+      "D": "Long-wave (infrared) radiation"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q11",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 11,
+    "question": "Besides volcanoes, what is the other major theorized source for the water in Earth's oceans?",
+    "options": {
+      "A": "The Moon",
+      "B": "Asteroids",
+      "C": "Comets",
+      "D": "Mars"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q12",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 12,
+    "question": "The \"jigsaw fit\" of which two continents was one of Wegener's primary pieces of evidence for continental drift?",
+    "options": {
+      "A": "North America and Asia",
+      "B": "Australia and Antarctica",
+      "C": "South America and Africa",
+      "D": "Europe and North America"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q13",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 13,
+    "question": "What is the name of the weak, flowing layer of the upper mantle that tectonic plates ride upon?",
+    "options": {
+      "A": "Lithosphere",
+      "B": "Asthenosphere",
+      "C": "Inner Core",
+      "D": "Crust"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q14",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 14,
+    "question": "When two continental plates collide, what major geological feature is formed?",
+    "options": {
+      "A": "A rift valley",
+      "B": "A mid-ocean ridge",
+      "C": "A large mountain range (like the Himalayas)",
+      "D": "A deep sea trench"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q15",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 15,
+    "question": "The San Andreas Fault is a classic example of which type of plate boundary?",
+    "options": {
+      "A": "Convergent",
+      "B": "Divergent",
+      "C": "Transform",
+      "D": "Subduction"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q16",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 16,
+    "question": "Continental crust is primarily composed of which less dense, felsic rock?",
+    "options": {
+      "A": "Basalt",
+      "B": "Granite",
+      "C": "Limestone",
+      "D": "Peridotite"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q17",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 17,
+    "question": "What is the name for the process where new oceanic crust is formed at mid-ocean ridges and destroyed at trenches?",
+    "options": {
+      "A": "Continental Drift",
+      "B": "Seafloor Spreading",
+      "C": "Subduction",
+      "D": "Magmatic Differentiation"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q18",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 18,
+    "question": "Earth's first atmosphere, composed of hydrogen and helium, was lost to space due to what?",
+    "options": {
+      "A": "It was absorbed by the ocean.",
+      "B": "A strong solar wind, before the magnetosphere was fully formed.",
+      "C": "It was used by early life forms.",
+      "D": "It froze and fell to the surface."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q19",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 19,
+    "question": "What is the primary source of Earth's second atmosphere?",
+    "options": {
+      "A": "Comets",
+      "B": "Photosynthesis",
+      "C": "Planetary degassing from volcanoes",
+      "D": "Asteroid impacts"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q20",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 20,
+    "question": "The 4.4-billion-year-old zircon crystals found in Australia provide evidence for what?",
+    "options": {
+      "A": "The age of the first life",
+      "B": "The existence of an early, solid crust",
+      "C": "The first \"Snowball Earth\"",
+      "D": "The timing of the Moon's formation"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q21",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 21,
+    "question": "What is the primary characteristic of a divergent plate boundary?",
+    "options": {
+      "A": "Plates slide past each other.",
+      "B": "Plates move toward each other.",
+      "C": "Plates move away from each other.",
+      "D": "One plate remains stationary while another moves under it."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q22",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 22,
+    "question": "What spectacular visual phenomenon is created when charged particles from the solar wind interact with Earth's magnetic field near the poles?",
+    "options": {
+      "A": "Rainbows",
+      "B": "Lightning",
+      "C": "Auroras (Borealis/Australis)",
+      "D": "Hurricanes"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q23",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 23,
+    "question": "The oldest oceanic crust is no more than about 180 million years old. Why?",
+    "options": {
+      "A": "The oceans formed only 180 million years ago.",
+      "B": "Older crust is continuously destroyed at subduction zones.",
+      "C": "Older crust is buried under too much sediment to be dated.",
+      "D": "The dating methods are not accurate for older rocks."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q24",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 24,
+    "question": "Which is NOT a piece of evidence used by Alfred Wegener to support his Continental Drift hypothesis?",
+    "options": {
+      "A": "Fossil distribution",
+      "B": "The \"jigsaw fit\" of continents",
+      "C": "Magnetic stripes on the seafloor",
+      "D": "Matching rock types across oceans"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q25",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 25,
+    "question": "What happens to the temperature in the troposphere as altitude increases?",
+    "options": {
+      "A": "It increases.",
+      "B": "It stays the same.",
+      "C": "It decreases.",
+      "D": "It fluctuates wildly."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q26",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 26,
+    "question": "What was the main reason Alfred Wegener's Continental Drift theory was rejected by the scientific community for many years?",
+    "options": {
+      "A": "The fossil evidence was proven to be incorrect.",
+      "B": "The fit of the continents was shown to be a coincidence.",
+      "C": "He could not propose a plausible physical mechanism for how continents could move.",
+      "D": "Radiometric dating proved the continents had never moved."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q27",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 27,
+    "question": "How do the symmetrical patterns of magnetic reversals recorded in the ocean floor on either side of a mid-ocean ridge support the theory of seafloor spreading?",
+    "options": {
+      "A": "They show that Earth's magnetic field is constant.",
+      "B": "They act as a recording of Earth's magnetic field history as new crust forms at the ridge and moves away in opposite directions, creating a mirror image.",
+      "C": "They prove that the continents plow through the ocean crust.",
+      "D": "They indicate that the ocean floor is all the same age."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q28",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 28,
+    "question": "Why are the oldest rocks on Earth found on continents rather than in the oceans?",
+    "options": {
+      "A": "Continents are geologically inactive.",
+      "B": "Continental crust, being less dense and more buoyant, resists subduction and destruction, allowing it to accumulate and age over billions of years.",
+      "C": "The oceans are much younger than the continents.",
+      "D": "Erosion destroys oceanic rocks faster than continental rocks."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q29",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 29,
+    "question": "Explain the process of \"magmatic differentiation\" and its role in building continents.",
+    "options": {
+      "A": "It's the process of basalt magma cooling to form more basalt, building up the continents.",
+      "B": "It's when a magma body partially melts and cools, allowing lighter, felsic (granitic) materials to separate and rise, forming buoyant crust that resists subduction.",
+      "C": "It describes how sediments are turned into rock to form continents.",
+      "D": "It is the mixing of oceanic and continental crust at a transform boundary."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q30",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 30,
+    "question": "What is the key difference in geological outcomes between an oceanic-continental convergent boundary and a continental-continental convergent boundary?",
+    "options": {
+      "A": "Both create large mountain ranges like the Himalayas.",
+      "B": "O-C boundaries create rift valleys, while C-C boundaries create volcanoes.",
+      "C": "O-C boundaries result in subduction and a continental volcanic arc, while C-C boundaries result in a collision and widespread crustal thickening to form high mountains.",
+      "D": "O-C boundaries are sites of seafloor spreading, while C-C boundaries are not."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q31",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 31,
+    "question": "How did the initial all-basaltic crust of the early Earth evolve into the two distinct crust types we see today?",
+    "options": {
+      "A": "The basaltic crust split into two layers, with the bottom layer becoming continental.",
+      "B": "Half of the basaltic crust was replaced by material from asteroids, which formed the continents.",
+      "C": "Through plate tectonics, the subduction and partial melting of the original basaltic crust generated less dense, felsic magmas that accumulated over time as continents.",
+      "D": "The Earth cooled, and the lighter materials simply floated to the top to form continents."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q32",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 32,
+    "question": "Why does the temperature in the stratosphere increase with altitude, which is the opposite of the trend in the troposphere?",
+    "options": {
+      "A": "It is closer to the sun's direct energy.",
+      "B": "It contains a high concentration of heat-trapping greenhouse gases.",
+      "C": "The absorption of incoming ultraviolet (UV) radiation by the ozone layer heats this region from the top down.",
+      "D": "There is less air pressure, which causes heating."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q33",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 33,
+    "question": "What is the relationship between the lithosphere and the asthenosphere in the theory of plate tectonics?",
+    "options": {
+      "A": "They are two names for the same layer.",
+      "B": "The lithosphere is a hot, flowing layer that the rigid asthenosphere floats on.",
+      "C": "The lithosphere is the rigid, brittle outer layer (the plate) that moves over the weaker, flowing asthenosphere.",
+      "D": "The lithosphere is the core, and the asthenosphere is the crust."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q34",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 34,
+    "question": "If Earth had not developed a liquid outer core, what critical protective feature would be absent?",
+    "options": {
+      "A": "The ozone layer",
+      "B": "The atmosphere",
+      "C": "The global magnetic field (magnetosphere)",
+      "D": "The oceans"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q35",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 35,
+    "question": "The first \"seeds\" of continents were likely what kind of feature?",
+    "options": {
+      "A": "Large, flat sedimentary basins",
+      "B": "Mafic basaltic islands formed from early subduction",
+      "C": "Pieces of the Moon that crashed on Earth",
+      "D": "Massive shield volcanoes like Olympus Mons on Mars"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q36",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 36,
+    "question": "How can the age of the ocean floor be used to determine the rate of seafloor spreading?",
+    "options": {
+      "A": "It cannot be used to determine the rate.",
+      "B": "By measuring the distance of a magnetic stripe of a known age from the mid-ocean ridge, one can calculate the speed at which it has moved (Rate = Distance / Time).",
+      "C": "The older the floor, the slower the spreading rate.",
+      "D": "All parts of the ocean floor are the same age, indicating a constant rate."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q37",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 37,
+    "question": "What is the difference between \"felsic\" and \"mafic\" rocks?",
+    "options": {
+      "A": "Felsic rocks are dark and dense; mafic rocks are light and less dense.",
+      "B": "Felsic rocks (like granite) are rich in lighter elements like silicon and aluminum; mafic rocks (like basalt) are rich in denser elements like magnesium and iron.",
+      "C": "Felsic rocks are volcanic; mafic rocks are sedimentary.",
+      "D": "There is no difference; the terms are interchangeable."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q38",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 38,
+    "question": "What is the theorized process that turned the Earth's initially freshwater oceans salty?",
+    "options": {
+      "A": "The constant evaporation of water, concentrating the salt that was always present.",
+      "B": "Salt was added to the oceans by a massive comet impact.",
+      "C": "The continuous erosion of rocks and minerals from the continents, carried into the sea by rivers over billions of years.",
+      "D": "Salt is produced by marine organisms as a waste product."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q39",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 39,
+    "question": "Why are deep earthquakes characteristic of convergent boundaries (subduction zones) but not divergent or transform boundaries?",
+    "options": {
+      "A": "Only convergent boundaries are deep enough for earthquakes to occur.",
+      "B": "At divergent and transform boundaries, the crust is hot and ductile, preventing deep, brittle fractures. At subduction zones, a cold, rigid slab is being forced deep into the mantle, allowing for fractures at great depths.",
+      "C": "The magma at divergent boundaries lubricates the plates, preventing earthquakes.",
+      "D": "Transform boundaries only produce volcanic eruptions."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q40",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 40,
+    "question": "How did detailed mapping of the seafloor in the mid-20th century reveal a paradox in the location of the ocean's deepest parts?",
+    "options": {
+      "A": "It showed that the deepest parts were not in the center, as expected, but were in deep trenches located near the edges of continents.",
+      "B": "It showed the ocean was actually uniformly shallow.",
+      "C": "It found that the middle of the ocean was the deepest part.",
+      "D": "It revealed that there were no mountain ranges under the sea."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q41",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 41,
+    "question": "What is the connection between the greenhouse effect and solar radiation?",
+    "options": {
+      "A": "The greenhouse effect blocks all solar radiation from reaching Earth.",
+      "B": "The greenhouse effect allows short-wave solar radiation to pass through and warm the Earth, but traps the outgoing long-wave (infrared) radiation emitted by the surface.",
+      "C": "The greenhouse effect is caused by an increase in solar radiation.",
+      "D": "Solar radiation destroys greenhouse gases."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q42",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 42,
+    "question": "The supercontinent Rodinia formed and broke apart before Pangaea. This is evidence of what long-term geological process?",
+    "options": {
+      "A": "The rock cycle",
+      "B": "The water cycle",
+      "C": "The supercontinent cycle, where continents repeatedly amalgamate and rift apart.",
+      "D": "The constant expansion of the Earth."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q43",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 43,
+    "question": "What distinguishes stratospheric \"good\" ozone from tropospheric \"bad\" ozone?",
+    "options": {
+      "A": "They are chemically different molecules.",
+      "B": "Their role depends on their location: \"good\" ozone in the stratosphere blocks harmful UV rays, while \"bad\" ozone at ground level is a toxic pollutant.",
+      "C": "\"Good\" ozone is produced naturally, while \"bad\" ozone is only made by humans.",
+      "D": "There is no difference."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q44",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 44,
+    "question": "If two oceanic plates converge, which one will be subducted and why?",
+    "options": {
+      "A": "The younger, warmer plate will subduct because it is less buoyant.",
+      "B": "They will both subduct.",
+      "C": "The older, cooler, and therefore denser plate will subduct beneath the younger, more buoyant plate.",
+      "D": "Neither will subduct; they will form a mountain range."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q45",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 45,
+    "question": "What is the significance of the 3.8-billion-year-old sedimentary rocks found in Greenland?",
+    "options": {
+      "A": "They are the oldest known evidence of life.",
+      "B": "They are the oldest known continental rocks.",
+      "C": "Since sedimentary rocks form by the deposition of sediments in water, they represent some of the oldest direct evidence for liquid water on Earth's surface.",
+      "D": "They prove that Greenland was once located at the South Pole."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q46",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 46,
+    "question": "How does the composition of Earth's current atmosphere (mostly nitrogen and oxygen) contrast with the primordial atmosphere of the solar nebula?",
+    "options": {
+      "A": "They are identical.",
+      "B": "The primordial atmosphere was rich in carbon dioxide and water, while today's is not.",
+      "C": "The primordial atmosphere was composed of hydrogen and helium, the most abundant elements in the universe, whereas today's atmosphere is the result of billions of years of planetary processing.",
+      "D": "The primordial atmosphere was 100% oxygen."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q47",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 47,
+    "question": "While the \"jigsaw fit\" is a compelling piece of evidence, why is the fit between continents like South America and Africa even better when the continental shelves are included?",
+    "options": {
+      "A": "It is not a better fit; it is worse.",
+      "B": "The continental shelves represent the true edges of the continental blocks, as coastlines change due to erosion and sea-level fluctuations.",
+      "C": "The shelves contain magnetic data that locks the continents together.",
+      "D": "The shelves were the last parts of the continent to form."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q48",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 48,
+    "question": "If a major continent begins to rift apart, what is the sequence of geological features that will form over time?",
+    "options": {
+      "A": "A mountain range, then a deep trench.",
+      "B": "A rift valley on land, which then widens and floods to become a linear sea (like the Red Sea), and eventually a full ocean with a mid-ocean ridge.",
+      "C": "A transform fault, followed by a series of volcanic islands.",
+      "D": "The continent will simply crumble into the ocean."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q49",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 49,
+    "question": "Why is the concept of \"partial melting\" essential for the creation of new magma at subduction zones?",
+    "options": {
+      "A": "The entire subducting plate melts completely to form magma.",
+      "B": "Water driven from the subducting slab lowers the melting point of the overlying mantle wedge, causing only some of its minerals to melt, which creates magma of a different composition than the original mantle rock.",
+      "C": "Partial melting only happens at the Earth's core.",
+      "D": "It prevents any magma from forming at all."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q50",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 50,
+    "question": "What is the fundamental flaw in the idea that the continents \"plow\" through the oceanic crust, as Wegener first imagined?",
+    "options": {
+      "A": "The continents are too soft to push through the hard oceanic crust.",
+      "B": "Plate tectonics shows that continents and oceans are often part of the same rigid plate and move together, with action concentrated at their boundaries.",
+      "C": "The oceanic crust is too thick for continents to move through.",
+      "D": "The continents do not move at all."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q51",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 51,
+    "question": "A future space probe discovers a rocky exoplanet with a solid surface, active volcanism, and an atmosphere. However, it has no global magnetic field. What can you infer about the planet's interior structure and the long-term prospects for its atmosphere?",
+    "options": {
+      "A": "The planet must have a very large, molten core. The atmosphere will be stable.",
+      "B": "The planet likely lacks a rotating, liquid metallic outer core, meaning it cannot generate a protective magnetosphere. Its atmosphere is therefore vulnerable to being stripped away by stellar winds over geological time.",
+      "C": "The lack of a magnetic field implies there is no volcanic activity.",
+      "D": "The planet's interior must be completely solid, and its atmosphere will become thicker over time."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q52",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 52,
+    "question": "The formation of the supercontinent Pangaea led to a massive drop in biodiversity. Based on the principles of plate tectonics and biogeography, what is the most likely reason for this?",
+    "options": {
+      "A": "The formation of Pangaea created a single, stable global climate, reducing the number of niches.",
+      "B": "It brought previously isolated species into direct competition for resources, eliminated vast areas of shallow coastal seas (a major habitat), and created a harsh, dry continental interior.",
+      "C": "A massive asteroid struck as Pangaea was forming, causing the drop in diversity.",
+      "D": "The process of amalgamation was so violent it physically crushed most life forms."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q53",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 53,
+    "question": "Geologists find a sequence of rocks showing deep-sea sediments, followed by an accretionary wedge, and then a thick layer of andesitic volcanic rock. This sequence is a classic signature of what past tectonic environment?",
+    "options": {
+      "A": "A continental rift zone.",
+      "B": "A stable continental interior.",
+      "C": "An ancient oceanic-continental subduction zone.",
+      "D": "A mid-ocean ridge."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q54",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 54,
+    "question": "If the process of magmatic differentiation at subduction zones did not produce felsic, buoyant magma, how would the geological evolution of Earth have been different?",
+    "options": {
+      "A": "It would be identical to how it is today.",
+      "B": "Earth would be a \"water world\" because large, stable continental landmasses would have failed to form, as the recycled crustal material would be dense enough to be subducted again.",
+      "C": "The oceans would be much smaller because continents would be larger.",
+      "D": "There would be no plate tectonics."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q55",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 55,
+    "question": "The heat that drives mantle convection and plate tectonics comes from two main sources: primordial heat from Earth's formation and radiogenic heat. If Earth had formed with far fewer radioactive elements, how might plate tectonics be different today?",
+    "options": {
+      "A": "Plate tectonics would be much faster due to less internal heat.",
+      "B": "It would have no effect on plate tectonics.",
+      "C": "The Earth's interior would have cooled much faster, and plate tectonics might have slowed down or ceased altogether, resulting in a geologically \"dead\" planet.",
+      "D": "It would cause more transform faults and fewer subduction zones."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q56",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 56,
+    "question": "Explain the paradox that the deepest parts of the oceans are near continents, while the shallowest parts are in the middle of oceans. How does plate tectonics resolve this?",
+    "options": {
+      "A": "The paradox is false; oceans are deepest in the middle.",
+      "B": "Plate tectonics resolves this by showing that the shallowest parts are the thermally buoyant, young mid-ocean ridges, while the deepest parts are the old, cold, and dense oceanic crust being pulled down into the mantle at subduction trenches, which lie adjacent to continental margins.",
+      "C": "Erosion from the continents fills in the deep ocean centers, making them shallower.",
+      "D": "The weight of the continents pushes the adjacent seafloor down."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q57",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 57,
+    "question": "If CFCs are released into the troposphere, how do they cause damage to the ozone layer in the stratosphere above it?",
+    "options": {
+      "A": "They react with ozone in the troposphere, which then floats up.",
+      "B": "They are stable and not washed out by rain, allowing them to slowly diffuse up into the stratosphere, where they are broken down by UV radiation, releasing chlorine atoms that catalytically destroy ozone molecules.",
+      "C": "They physically punch holes through the troposphere to reach the stratosphere.",
+      "D": "CFCs do not damage the ozone layer; it is a natural cycle."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q58",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 58,
+    "question": "The existence of 4.4-billion-year-old zircon crystals, which must have formed in a parent rock, suggests that some form of crust existed very early. How does this challenge the simple model of a long-lasting, completely molten \"magma ocean\"?",
+    "options": {
+      "A": "It suggests that at least parts of the Earth's surface must have cooled and solidified much earlier than previously thought to form a crust from which these crystals could be derived.",
+      "B": "It proves the magma ocean never existed.",
+      "C": "It indicates that the zircons came from space.",
+      "D": "It shows that the magma ocean was much cooler than predicted."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q59",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 59,
+    "question": "Why do continental-continental collisions, like the one forming the Himalayas, produce mountains that are much taller than continental volcanic arcs like the Andes?",
+    "options": {
+      "A": "The Andes are older and have eroded more.",
+      "B": "The collision of two buoyant continental plates results in massive crustal folding, faulting, and thickening with very little subduction, effectively doubling the crustal height, whereas an Andean-style margin consumes one plate and has a limit to its volcanic buildup.",
+      "C": "The rock in the Himalayas is less dense and can therefore grow taller.",
+      "D": "The rate of collision is much faster in the Himalayas."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q60",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 60,
+    "question": "\"Stratospheric ozone is good, but tropospheric ozone is bad.\" This statement highlights that the environmental impact of a chemical compound can depend heavily on its ________.",
+    "options": {
+      "A": "Color",
+      "B": "Temperature",
+      "C": "Origin (natural vs. man-made)",
+      "D": "Location in a planetary system"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q61",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 61,
+    "question": "The first continent, Ur, formed about 3 billion years ago, and its fragments are now found on several modern continents. What does this imply about the history of plate tectonics?",
+    "options": {
+      "A": "Plate tectonics only began when Pangaea broke apart.",
+      "B": "The continents have been stationary since Ur formed.",
+      "C": "Plate tectonics has been active for at least 3 billion years, rifting and reassembling continental fragments over immense timescales.",
+      "D": "Ur was the last supercontinent to ever exist."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q62",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 62,
+    "question": "The Greenhouse Effect is often discussed negatively. Is this effect, in itself, a \"bad\" thing for Earth? Explain.",
+    "options": {
+      "A": "Yes, it is always bad and is caused only by pollution.",
+      "B": "No, the natural greenhouse effect is essential for life. Without it, Earth's average temperature would be well below freezing, and the planet would be a ball of ice. The problem arises from an anthropogenically enhanced greenhouse effect.",
+      "C": "It has no effect on Earth's temperature.",
+      "D": "It is only a problem in the summer."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q63",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 63,
+    "question": "How can the fossil of a shallow-water marine reptile like Mesosaurus be found in both South America and Africa, yet nowhere else, and be used as evidence for continental drift?",
+    "options": {
+      "A": "The reptile swam across the entire Atlantic Ocean.",
+      "B": "The reptile evolved independently in both places (convergent evolution).",
+      "C": "It is a hoax; the fossils are not identical.",
+      "D": "The presence of a non-ocean-crossing reptile on both continents strongly implies that the continents were joined when the reptile was alive."
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q64",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 64,
+    "question": "What is the fundamental flaw in the hypothesis that Earth's oceans originated solely from volcanic outgassing?",
+    "options": {
+      "A": "Volcanoes do not release water vapor.",
+      "B": "Isotopic analysis of Earth's water (specifically the deuterium-to-hydrogen ratio) does not perfectly match the water from volcanic gases alone, suggesting a mixture with another source, likely comets.",
+      "C": "There weren't enough volcanoes on early Earth.",
+      "D": "The water from volcanoes is too acidic to form oceans."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q65",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 65,
+    "question": "If you find a rock that is mafic, fine-grained, and has a pillow-like structure, where did it most likely form?",
+    "options": {
+      "A": "In a continental-continental collision zone.",
+      "B": "Erupted under water at a mid-ocean ridge.",
+      "C": "In a desert sand dune.",
+      "D": "From a slow-cooling magma chamber deep underground."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q66",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 66,
+    "question": "What is the ultimate driving force for the movement of tectonic plates?",
+    "options": {
+      "A": "The gravitational pull of the Moon and Sun.",
+      "B": "The spinning of the Earth on its axis.",
+      "C": "Convection currents in the hot, flowing mantle, driven by the planet's internal heat.",
+      "D": "Wind and ocean currents pushing on the continents."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q67",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 67,
+    "question": "Why is the term \"plate tectonics\" a more comprehensive and accurate description of Earth's dynamics than \"continental drift\"?",
+    "options": {
+      "A": "Because \"continental drift\" incorrectly implies that only the continents move and that they do so by plowing through the oceanic crust, whereas \"plate tectonics\" correctly describes the movement of entire rigid lithospheric plates.",
+      "B": "\"Plate tectonics\" only refers to earthquakes, not moving continents.",
+      "C": "They mean the exact same thing.",
+      "D": "\"Continental drift\" is the more modern and accurate term."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q68",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 68,
+    "question": "The release of water from a subducting oceanic plate causes \"flux melting\" in the overlying mantle wedge. What does this mean?",
+    "options": {
+      "A": "The water itself is the magma.",
+      "B": "The water physically raises the temperature of the mantle.",
+      "C": "The addition of water lowers the melting point of the mantle rocks, causing them to melt at a lower temperature than they otherwise would.",
+      "D": "The water carries dissolved rock with it to the surface."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q69",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 69,
+    "question": "Imagine a volcanic island arc and a continental volcanic arc are heading toward each other. What will eventually happen when they meet?",
+    "options": {
+      "A": "The island arc will subduct under the continent.",
+      "B": "The continent will subduct under the island arc.",
+      "C": "The island arc will be \"accreted\" or scraped off and attached to the edge of the continent, as it is too buoyant to be fully subducted, leading to complex coastal mountain ranges.",
+      "D": "They will both stop moving."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q70",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 70,
+    "question": "Why would a planet with a thick atmosphere of only Nitrogen and Oxygen not have a strong greenhouse effect?",
+    "options": {
+      "A": "Because N2 and O2 are simple diatomic molecules that are largely transparent to outgoing infrared radiation and do not effectively trap heat.",
+      "B": "Because that planet would be too far from its star.",
+      "C": "A nitrogen/oxygen atmosphere would have the strongest possible greenhouse effect.",
+      "D": "Nitrogen and oxygen block incoming sunlight."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q71",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 71,
+    "question": "How does the composition of the atmosphere directly affect the hydrosphere (oceans)?",
+    "options": {
+      "A": "It has no effect.",
+      "B": "Gases from the atmosphere, such as CO2, can dissolve in ocean water, forming acids (like carbonic acid) that can alter the ocean's chemistry and pH.",
+      "C": "The atmosphere only affects the temperature of the ocean, not its chemistry.",
+      "D": "The hydrosphere determines the composition of the atmosphere, but not the other way around."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q72",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 72,
+    "question": "What is the logical flaw in explaining away Wegener's evidence of tropical fossils in Antarctica simply by postulating a warmer global climate?",
+    "options": {
+      "A": "A warmer climate cannot explain how a single species could exist at both poles simultaneously.",
+      "B": "While a warmer global climate is possible, the combination of evidence (tropical fossils in Antarctica, glacial evidence in India) is more simply explained by the continents themselves moving through different climate zones.",
+      "C": "The fossils were not from tropical species.",
+      "D": "Antarctica has always been cold."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q73",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 73,
+    "question": "Could the process of seafloor spreading continue forever without the process of subduction? Explain.",
+    "options": {
+      "A": "Yes, the Earth would just keep getting bigger.",
+      "B": "No. Without subduction to destroy old crust, the continuous creation of new crust at divergent boundaries would force the Earth to expand, which is not observed. Subduction is the necessary recycling part of the cycle.",
+      "C": "Seafloor spreading and subduction are unrelated processes.",
+      "D": "Yes, the old crust would simply pile up on the continents."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q74",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 74,
+    "question": "The transition from a mafic (basaltic) magma to a more felsic (granitic) magma via magmatic differentiation is fundamentally a process of removing which elements?",
+    "options": {
+      "A": "Lighter elements like silicon and aluminum.",
+      "B": "Gaseous elements like oxygen and nitrogen.",
+      "C": "Heavier, higher-melting-point elements like iron and magnesium, which crystallize and settle out first.",
+      "D": "Radioactive elements."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q75",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 75,
+    "question": "What is the critical difference between the formation of mountains at a divergent boundary (mid-ocean ridges) and at a convergent boundary (Himalayas)?",
+    "options": {
+      "A": "Mid-ocean ridges are formed by compressional stress, while the Himalayas are formed by tensional stress.",
+      "B": "Mid-ocean ridges are thermally buoyant mountains formed by upwelling magma and tensional forces, while the Himalayas are massive mountains formed by compressional forces and crustal thickening.",
+      "C": "There is no difference; all underwater mountains are called ridges.",
+      "D": "Mid-ocean ridges are much taller than the Himalayas."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q76",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 76,
+    "question": "Which type of crust is thinner, denser, and primarily made of basalt?",
+    "options": {
+      "A": "Continental crust",
+      "B": "Ancient crust",
+      "C": "Oceanic crust",
+      "D": "Tectonic crust"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q77",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 77,
+    "question": "What geological feature is formed at a divergent plate boundary where new oceanic crust is created?",
+    "options": {
+      "A": "Deep ocean trenches",
+      "B": "Volcanic island arcs",
+      "C": "Mid-ocean ridges",
+      "D": "Large mountain ranges like the Himalayas"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q78",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 78,
+    "question": "What was the main reason Alfred Wegener's Continental Drift theory was rejected by the scientific community for many years?",
+    "options": {
+      "A": "The fossil evidence was proven to be incorrect.",
+      "B": "The fit of the continents was shown to be a coincidence.",
+      "C": "He could not propose a plausible physical mechanism for how continents could move.",
+      "D": "Radiometric dating proved the continents had never moved."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q79",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 79,
+    "question": "In which layer of the atmosphere does all weather take place?",
+    "options": {
+      "A": "Stratosphere",
+      "B": "Mesosphere",
+      "C": "Troposphere",
+      "D": "Thermosphere"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q80",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 80,
+    "question": "How do the symmetrical patterns of magnetic reversals recorded in the ocean floor on either side of a mid-ocean ridge support the theory of seafloor spreading?",
+    "options": {
+      "A": "They show that Earth's magnetic field is constant.",
+      "B": "They act as a recording of Earth's magnetic field history as new crust forms at the ridge and moves away in opposite directions, creating a mirror image.",
+      "C": "They prove that the continents plow through the ocean crust.",
+      "D": "They indicate that the ocean floor is all the same age."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q81",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 81,
+    "question": "If Earth had not developed a liquid outer core, what critical protective feature would be absent?",
+    "options": {
+      "A": "The ozone layer",
+      "B": "The atmosphere",
+      "C": "The global magnetic field (magnetosphere)",
+      "D": "The oceans"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q82",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 82,
+    "question": "Explain the process of \"magmatic differentiation\" and its role in building continents.",
+    "options": {
+      "A": "It's the process of basalt magma cooling to form more basalt, building up the continents.",
+      "B": "It's when a magma body partially melts and cools, allowing lighter, felsic (granitic) materials to separate and rise, forming buoyant crust that resists subduction.",
+      "C": "It describes how sediments are turned into rock to form continents.",
+      "D": "It is the mixing of oceanic and continental crust at a transform boundary."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q83",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 83,
+    "question": "The oldest oceanic crust is no more than about 180 million years old. Why?",
+    "options": {
+      "A": "The oceans formed only 180 million years ago.",
+      "B": "Older crust is continuously destroyed at subduction zones.",
+      "C": "Older crust is buried under too much sediment to be dated.",
+      "D": "The dating methods are not accurate for older rocks."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q84",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 84,
+    "question": "What is the name for the process where new oceanic crust is formed at mid-ocean ridges and destroyed at trenches?",
+    "options": {
+      "A": "Continental Drift",
+      "B": "Seafloor Spreading",
+      "C": "Subduction",
+      "D": "Magmatic Differentiation"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q85",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 85,
+    "question": "What is the relationship between the lithosphere and the asthenosphere in the theory of plate tectonics?",
+    "options": {
+      "A": "They are two names for the same layer.",
+      "B": "The lithosphere is a hot, flowing layer that the rigid asthenosphere floats on.",
+      "C": "The lithosphere is the rigid, brittle outer layer (the plate) that moves over the weaker, flowing asthenosphere.",
+      "D": "The lithosphere is the core, and the asthenosphere is the crust."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q86",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 86,
+    "question": "Why are the oldest rocks on Earth found on continents rather than in the oceans?",
+    "options": {
+      "A": "Continents are geologically inactive.",
+      "B": "Continental crust, being less dense and more buoyant, resists subduction and destruction, allowing it to accumulate and age over billions of years.",
+      "C": "The oceans are much younger than the continents.",
+      "D": "Erosion destroys oceanic rocks faster than continental rocks."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q87",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 87,
+    "question": "The Greenhouse Effect is often discussed negatively. Is this effect, in itself, a \"bad\" thing for Earth? Explain.",
+    "options": {
+      "A": "Yes, it is always bad and is caused only by pollution.",
+      "B": "No, the natural greenhouse effect is essential for life. Without it, Earth's average temperature would be well below freezing, and the planet would be a ball of ice. The problem arises from an anthropogenically enhanced greenhouse effect.",
+      "C": "It has no effect on Earth's temperature.",
+      "D": "It is only a problem in the summer."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q88",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 88,
+    "question": "The San Andreas Fault is a classic example of which type of plate boundary?",
+    "options": {
+      "A": "Convergent",
+      "B": "Divergent",
+      "C": "Transform",
+      "D": "Subduction"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q89",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 89,
+    "question": "Why do continental-continental collisions, like the one forming the Himalayas, produce mountains that are much taller than continental volcanic arcs like the Andes?",
+    "options": {
+      "A": "The Andes are older and have eroded more.",
+      "B": "The collision of two buoyant continental plates results in massive crustal folding, faulting, and thickening with very little subduction, effectively doubling the crustal height, whereas an Andean-style margin consumes one plate and has a limit to its volcanic buildup.",
+      "C": "The rock in the Himalayas is less dense and can therefore grow taller.",
+      "D": "The rate of collision is much faster in the Himalayas."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q90",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 90,
+    "question": "What is the ultimate driving force for the movement of tectonic plates?",
+    "options": {
+      "A": "The gravitational pull of the Moon and Sun.",
+      "B": "The spinning of the Earth on its axis.",
+      "C": "Convection currents in the hot, flowing mantle, driven by the planet's internal heat.",
+      "D": "Wind and ocean currents pushing on the continents."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q91",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 91,
+    "question": "Besides volcanoes, what is the other major theorized source for the water in Earth's oceans?",
+    "options": {
+      "A": "The Moon",
+      "B": "Asteroids",
+      "C": "Comets",
+      "D": "Mars"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q92",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 92,
+    "question": "How can the fossil of a shallow-water marine reptile like Mesosaurus be found in both South America and Africa, yet nowhere else, and be used as evidence for continental drift?",
+    "options": {
+      "A": "The reptile swam across the entire Atlantic Ocean.",
+      "B": "The reptile evolved independently in both places (convergent evolution).",
+      "C": "It is a hoax; the fossils are not identical.",
+      "D": "The presence of a non-ocean-crossing reptile on both continents strongly implies that the continents were joined when the reptile was alive."
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q93",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 93,
+    "question": "What is the primary source of Earth's second atmosphere?",
+    "options": {
+      "A": "Comets",
+      "B": "Photosynthesis",
+      "C": "Planetary degassing from volcanoes",
+      "D": "Asteroid impacts"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q94",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 94,
+    "question": "Why are deep earthquakes characteristic of convergent boundaries (subduction zones) but not divergent or transform boundaries?",
+    "options": {
+      "A": "Only convergent boundaries are deep enough for earthquakes to occur.",
+      "B": "At divergent and transform boundaries, the crust is hot and ductile, preventing deep, brittle fractures. At subduction zones, a cold, rigid slab is being forced deep into the mantle, allowing for fractures at great depths.",
+      "C": "The magma at divergent boundaries lubricates the plates, preventing earthquakes.",
+      "D": "Transform boundaries only produce volcanic eruptions."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q95",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 95,
+    "question": "Continental crust is primarily composed of which less dense, felsic rock?",
+    "options": {
+      "A": "Basalt",
+      "B": "Granite",
+      "C": "Limestone",
+      "D": "Peridotite"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q96",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 96,
+    "question": "If two oceanic plates converge, which one will be subducted and why?",
+    "options": {
+      "A": "The younger, warmer plate will subduct because it is less buoyant.",
+      "B": "They will both subduct.",
+      "C": "The older, cooler, and therefore denser plate will subduct beneath the younger, more buoyant plate.",
+      "D": "Neither will subduct; they will form a mountain range."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q97",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 97,
+    "question": "Could the process of seafloor spreading continue forever without the process of subduction? Explain.",
+    "options": {
+      "A": "Yes, the Earth would just keep getting bigger.",
+      "B": "No. Without subduction to destroy old crust, the continuous creation of new crust at divergent boundaries would force the Earth to expand, which is not observed. Subduction is the necessary recycling part of the cycle.",
+      "C": "Seafloor spreading and subduction are unrelated processes.",
+      "D": "Yes, the old crust would simply pile up on the continents."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q98",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 98,
+    "question": "The \"Greenhouse Effect\" is the process where certain gases in the atmosphere trap what kind of radiation?",
+    "options": {
+      "A": "Ultraviolet (UV) radiation",
+      "B": "Visible light",
+      "C": "X-rays",
+      "D": "Long-wave (infrared) radiation"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q99",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 99,
+    "question": "What is the connection between the greenhouse effect and solar radiation?",
+    "options": {
+      "A": "The greenhouse effect blocks all solar radiation from reaching Earth.",
+      "B": "The greenhouse effect allows short-wave solar radiation to pass through and warm the Earth, but traps the outgoing long-wave (infrared) radiation emitted by the surface.",
+      "C": "The greenhouse effect is caused by an increase in solar radiation.",
+      "D": "Solar radiation destroys greenhouse gases."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta9_q100",
+    "file": "Hafta 9 Konuları",
+    "status": null,
+    "question_number": 100,
+    "question": "What is the name of the weak, flowing layer of the upper mantle that tectonic plates ride upon?",
+    "options": {
+      "A": "Lithosphere",
+      "B": "Asthenosphere",
+      "C": "Inner Core",
+      "D": "Crust"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  }
+]

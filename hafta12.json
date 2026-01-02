@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "hafta12_q1",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 1,
+    "question": "The term \"tetrapod\" refers to animals that have (or ancestrally had) what feature?",
+    "options": {
+      "A": "A bony skeleton",
+      "B": "Four limbs",
+      "C": "A jaw",
+      "D": "Gills"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q2",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 2,
+    "question": "The famous fossil Archaeopteryx is considered a transitional form between which two major animal groups?",
+    "options": {
+      "A": "Fish and amphibians",
+      "B": "Reptiles and birds",
+      "C": "Amphibians and reptiles",
+      "D": "Mammals and birds"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q3",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 3,
+    "question": "Which theory of evolution proposes that life changes very slowly in small, continuous steps over millions of years?",
+    "options": {
+      "A": "Punctuated Equilibrium",
+      "B": "Phyletic Gradualism",
+      "C": "Natural Selection",
+      "D": "Genetic Drift"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q4",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 4,
+    "question": "The fossil record often shows the sudden appearance of new species. The Punctuated Equilibrium model explains this by suggesting:",
+    "options": {
+      "A": "The fossil record is complete and accurate.",
+      "B": "Evolution happens in rapid bursts that are unlikely to be fossilized.",
+      "C": "These species were created suddenly.",
+      "D": "All transitional fossils have been found."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q5",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 5,
+    "question": "What is a \"living fossil,\" such as the brachiopod Lingula?",
+    "options": {
+      "A": "A species that was thought to be extinct but was rediscovered.",
+      "B": "The first fossil ever discovered.",
+      "C": "A species that has existed for a very long time but has evolved very little.",
+      "D": "A fossil that is perfectly preserved with soft tissues intact."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q6",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 6,
+    "question": "The elusive transitional fossil paleontologists were searching for, a \"fish with some features of a tetrapod,\" is often called the:",
+    "options": {
+      "A": "Fishapod",
+      "B": "Tetrafish",
+      "C": "Four-finned fish",
+      "D": "Lobe-fin"
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q7",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 7,
+    "question": "Scientists believe that the ancestor of all tetrapods came from which group of fish?",
+    "options": {
+      "A": "Ray-finned fish",
+      "B": "Sharks",
+      "C": "Jawless fish",
+      "D": "Lobe-finned fish"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q8",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 8,
+    "question": "The Devonian tetrapod Ichthyostega, discovered in Greenland, was described as a \"fish on legs\" and had how many toes?",
+    "options": {
+      "A": "Three",
+      "B": "Five",
+      "C": "Seven",
+      "D": "Eight"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q9",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 9,
+    "question": "The discovery of Acanthostega was a surprise because it had what unusual feature?",
+    "options": {
+      "A": "It was over 20 feet long.",
+      "B": "It had feathers.",
+      "C": "It had eight digits on each limb.",
+      "D": "It had no head."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q10",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 10,
+    "question": "What is the current scientific view on why limbs with digits first evolved?",
+    "options": {
+      "A": "To drag fish out of shrinking ponds.",
+      "B": "To walk purposefully across land.",
+      "C": "To help aquatic tetrapods navigate swampy, plant-tangled environments.",
+      "D": "To defend against predators."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q11",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 11,
+    "question": "The Coelacanth, a lobe-finned fish once thought to be extinct, is an example of a:",
+    "options": {
+      "A": "True transitional form",
+      "B": "Lazarus Taxon",
+      "C": "Index fossil",
+      "D": "Super-predator"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q12",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 12,
+    "question": "The paleontologist Neil Shubin and his team discovered the famous fossil Tiktaalik on what island?",
+    "options": {
+      "A": "Greenland",
+      "B": "Madagascar",
+      "C": "The Galapagos Islands",
+      "D": "Ellesmere Island"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q13",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 13,
+    "question": "Tiktaalik is considered a true transitional form because it had:",
+    "options": {
+      "A": "Only fish-like features.",
+      "B": "Only tetrapod-like features.",
+      "C": "A mix of fish-like features (scales, fins, primitive jaw) and tetrapod-like features (flat head, neck, wrist bones).",
+      "D": "The body of a reptile and the head of a fish."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q14",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 14,
+    "question": "What does the term \"missing link\" refer to?",
+    "options": {
+      "A": "The incorrect idea that humans descended directly from chimpanzees.",
+      "B": "A transitional fossil that shows an evolutionary step between groups.",
+      "C": "A fossil that has been lost.",
+      "D": "The last common ancestor of all life."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q15",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 15,
+    "question": "A break in the sedimentary geologic record, representing a long period of missing time, is called an:",
+    "options": {
+      "A": "Unconformity",
+      "B": "Stratum",
+      "C": "Fault",
+      "D": "Fold"
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q16",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 16,
+    "question": "Archaeopteryx had bird-like feathers, but what was one of its key reptile-like features?",
+    "options": {
+      "A": "A beak with no teeth",
+      "B": "Hollow bones",
+      "C": "A bony tail and teeth",
+      "D": "Large wings"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q17",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 17,
+    "question": "Which fossil fish from the Late Devonian, a member of the Rhipidistia, already possessed a pattern of bones in its fins very similar to later tetrapods?",
+    "options": {
+      "A": "Coelacanth",
+      "B": "Eusthenopteron",
+      "C": "Panderichthys",
+      "D": "Acanthostega"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q18",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 18,
+    "question": "The limbs of Acanthostega were more like ________ than feet adapted for walking.",
+    "options": {
+      "A": "Wings",
+      "B": "Paddles",
+      "C": "Claws",
+      "D": "Hooves"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q19",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 19,
+    "question": "The discovery of tetrapod trackways in Poland predates Tiktaalik. How old are these tracks?",
+    "options": {
+      "A": "~365 million years old",
+      "B": "~375 million years old",
+      "C": "~385 million years old",
+      "D": "~395 million years old"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q20",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 20,
+    "question": "What is the classic tetrapod limb pattern?",
+    "options": {
+      "A": "One bone - one bone - many bones",
+      "B": "Two bones - one bone - two bones",
+      "C": "One bone - two bones - many bones (digits)",
+      "D": "Many small bones throughout the limb"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q21",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 21,
+    "question": "A species that is rediscovered after being thought extinct is named after which biblical figure?",
+    "options": {
+      "A": "Noah",
+      "B": "Moses",
+      "C": "David",
+      "D": "Lazarus"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q22",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 22,
+    "question": "The peppered moth changing color during the Industrial Revolution is a classic example of:",
+    "options": {
+      "A": "Phyletic gradualism",
+      "B": "Punctuated equilibrium",
+      "C": "A mass extinction",
+      "D": "The formation of a new species"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q23",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 23,
+    "question": "What feature did Tiktaalik have that other fish lacked, allowing it more head mobility?",
+    "options": {
+      "A": "A large tail fin",
+      "B": "A neck",
+      "C": "Strong jaws",
+      "D": "Large eyes"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q24",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 24,
+    "question": "The Zachełmie Quarry trackways were found in what type of environment?",
+    "options": {
+      "A": "A freshwater swamp",
+      "B": "A desert",
+      "C": "A marine, intertidal mudflat",
+      "D": "A deep ocean basin"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q25",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 25,
+    "question": "What is the name of the paleontologist who led the expedition that discovered Acanthostega?",
+    "options": {
+      "A": "Neil Shubin",
+      "B": "Erik Jarvik",
+      "C": "Jenny Clack",
+      "D": "Charles Darwin"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q26",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 26,
+    "question": "How does the case of the peppered moth illustrate the mechanism of punctuated equilibrium?",
+    "options": {
+      "A": "It shows a slow, gradual change in color over millions of years.",
+      "B": "A sudden environmental change (soot-covered trees) created a strong selective pressure, causing a rapid evolutionary shift in the population's traits in just a few decades.",
+      "C": "It proves that a species can never change.",
+      "D": "It is an example of a species forming a transitional fossil."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q27",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 27,
+    "question": "Why was the scientific community initially \"disquieted\" by the fossil Ichthyostega as a transitional form?",
+    "options": {
+      "A": "It was too fish-like, with no tetrapod features at all.",
+      "B": "It appeared too fully formed and well-adapted for land, looking more like a finished product than a creature in transition.",
+      "C": "The fossil was found in rocks that were far too young.",
+      "D": "It had feathers, which was not expected in an amphibian."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q28",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 28,
+    "question": "The discovery that Acanthostega had eight digits and paddle-like feet shattered a long-held assumption and led to a new hypothesis. What was this new hypothesis?",
+    "options": {
+      "A": "That all tetrapods were originally marine animals.",
+      "B": "That limbs and digits did not evolve for walking on land, but for navigating complex, swampy aquatic environments.",
+      "C": "That tetrapods evolved from insects, not fish.",
+      "D": "That five-toed limbs were an evolutionary mistake."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q29",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 29,
+    "question": "How did the rediscovery of the Coelacanth as a living species both excite and ultimately disappoint scientists looking for the \"missing link\"?",
+    "options": {
+      "A": "It excited them because a living lobe-fin was found, but it was disappointing because the deep-water species showed no signs of \"walking\" or other pre-adaptations for land life.",
+      "B": "It was exciting because it walked on land, but disappointing because it was a mammal.",
+      "C": "It was a hoax and not a real Coelacanth.",
+      "D": "It was exciting, but it went extinct again before it could be studied."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q30",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 30,
+    "question": "What is the fundamental difference between the evolutionary models of phyletic gradualism and punctuated equilibrium in how they interpret the \"gaps\" in the fossil record?",
+    "options": {
+      "A": "Gradualism sees the gaps as imperfections in the record, while punctuated equilibrium sees the gaps as real periods of stasis, with the transitions happening too quickly to be preserved.",
+      "B": "Both theories agree that the gaps are not real.",
+      "C": "Gradualism suggests the gaps are periods of rapid change, while punctuated equilibrium suggests they are periods of slow change.",
+      "D": "Punctuated equilibrium claims the fossil record is complete."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q31",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 31,
+    "question": "The search for Tiktaalik was a prime example of predictive paleontology. What key pieces of information led the team to search on Ellesmere Island?",
+    "options": {
+      "A": "They were looking for rocks of the right age (Middle Devonian) and the right type (river/delta deposits).",
+      "B": "An ancient map showed a drawing of the creature in that location.",
+      "C": "They were looking for a marine environment from the Cambrian period.",
+      "D": "Local legends described a \"fish with legs\" living on the island."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q32",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 32,
+    "question": "The discovery of tetrapod trackways in Poland from 395 million years ago is profoundly significant. What are the two main ways it challenges the story of Tiktaalik?",
+    "options": {
+      "A": "It suggests tetrapods are much younger and evolved in deserts.",
+      "B": "It proves Tiktaalik is a direct ancestor and lived in the ocean.",
+      "C": "It suggests tetrapods existed millions of years before Tiktaalik and may have evolved in marine environments, not just freshwater swamps.",
+      "D": "It shows that the first tetrapods could fly and lived on mountains."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q33",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 33,
+    "question": "Why is it incorrect to say that \"humans descended from chimpanzees\"?",
+    "options": {
+      "A": "Because humans and chimpanzees are not related.",
+      "B": "Because both lineages diverged from a common ancestor; one did not descend from the other.",
+      "C": "Because chimpanzees descended from humans.",
+      "D": "Because evolution is not a proven theory."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q34",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 34,
+    "question": "What does an unconformity representing 180 million years of missing strata imply for the fossil record?",
+    "options": {
+      "A": "It means no evolution occurred during that time.",
+      "B": "It is a complete record of that time period.",
+      "C": "It represents a massive gap in our knowledge, where entire lineages of animals could have evolved and disappeared without a trace.",
+      "D": "It indicates a period of rapid fossilization."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q35",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 35,
+    "question": "The Devonian ecosystem was reinterpreted from a \"hot, arid desert\" to include what other environment that would have favored the evolution of limbs?",
+    "options": {
+      "A": "Deep, open oceans",
+      "B": "High-altitude, frozen mountains",
+      "C": "Wet, swampy, plant-tangled river margins",
+      "D": "Vast, grassy plains"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q36",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 36,
+    "question": "Archaeopteryx is a mosaic of bird and reptile features. Which combination of features best describes this transitional state?",
+    "options": {
+      "A": "Beak and feathers (bird), but with teeth and a long bony tail (reptile).",
+      "B": "Scaly skin (reptile), but with a four-chambered heart (bird).",
+      "C": "Four limbs (reptile), but with warm blood (bird).",
+      "D": "Laying eggs (reptile), but with hollow bones (bird)."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q37",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 37,
+    "question": "What is the key structural feature of a lobe-finned fish that made it a good candidate for the ancestor of tetrapods?",
+    "options": {
+      "A": "Its streamlined, fast-swimming body.",
+      "B": "Its fin is joined to the body by a single bone, prefiguring the one-bone structure of a tetrapod limb.",
+      "C": "Its ability to breathe air through its skin.",
+      "D": "Its lack of scales."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q38",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 38,
+    "question": "Compare the limb structures of Ichthyostega and Acanthostega. What do their differences suggest about their lifestyles?",
+    "options": {
+      "A": "They were identical, suggesting the same lifestyle.",
+      "B": "Ichthyostega's more robust limbs suggest it may have been more capable of supporting weight, while Acanthostega's paddle-like limbs suggest it was more thoroughly aquatic.",
+      "C": "Acanthostega was clearly a land-dweller, while Ichthyostega was a swimmer.",
+      "D": "Ichthyostega had fins, while Acanthostega had legs."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q39",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 39,
+    "question": "What is the significance of the fact that the Devonian rocks on Ellesmere Island, now near the North Pole, were formed at the equator?",
+    "options": {
+      "A": "It demonstrates that the Earth's climate has cooled significantly.",
+      "B": "It is direct evidence of continental drift, showing that landmasses have moved great distances over geological time.",
+      "C": "It proves that tetrapods could survive in icy conditions.",
+      "D": "It suggests the Earth's axis has tilted dramatically."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q40",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 40,
+    "question": "How does the existence of a creature like Tiktaalik, with both gills and primitive lungs, reflect the environment in which it likely lived?",
+    "options": {
+      "A": "It lived in deep oceans where gills were primary, but could surface for air.",
+      "B": "It lived in shallow, possibly oxygen-poor, swampy waters where the ability to breathe air would be a major advantage.",
+      "C": "It was a land animal that had to return to water to breathe.",
+      "D": "It lived in a desert and used its lungs to conserve water."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q41",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 41,
+    "question": "Why is the discovery of Lazarus taxa, like the Dawn Redwood (Metasequoia), not considered evidence against the theory of evolution or extinction?",
+    "options": {
+      "A": "It proves extinction does not happen.",
+      "B": "It simply means our fossil record is incomplete, and some lineages can survive in isolated refuges for millions of years without being fossilized or discovered.",
+      "C": "These creatures were recreated by scientists in a lab.",
+      "D": "It is evidence of rapid, repeated evolution of the same form."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q42",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 42,
+    "question": "The evolution of limbs and digits was not a single event. What does the variable number of digits in early tetrapods like Acanthostega (8) and Ichthyostega (7) imply?",
+    "options": {
+      "A": "The five-digit pattern was established from the very beginning.",
+      "B": "There was an early period of \"experimentation\" with digit number before the five-digit pattern became stabilized in later tetrapods.",
+      "C": "More digits meant a better ability to walk on land.",
+      "D": "The fossils were misidentified, and they actually had five digits."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q43",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 43,
+    "question": "If a fossil is found with a pelvis attached to its backbone, a curved ribcage, and nostrils, it is almost certainly a:",
+    "options": {
+      "A": "Fish",
+      "B": "Arthropod",
+      "C": "Tetrapod",
+      "D": "Brachiopod"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q44",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 44,
+    "question": "The Zachełmie Quarry trackways in Poland are a spectacular find, but what is the primary limitation of this evidence?",
+    "options": {
+      "A": "The tracks are not well preserved.",
+      "B": "As trace fossils, they show the animal's behavior (walking), but we do not have the body of the animal that made them.",
+      "C": "The age of the rocks is highly uncertain.",
+      "D": "The tracks were later proven to be from a large arthropod."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q45",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 45,
+    "question": "What is the main conceptual difference between a \"transitional form\" and a \"missing link\"?",
+    "options": {
+      "A": "There is no difference; the terms are synonymous.",
+      "B": "\"Missing link\" is an outdated and often misleading term that implies a linear chain, while \"transitional form\" more accurately describes a fossil with a mix of ancestral and derived traits.",
+      "C": "A \"missing link\" is a fossil we are still looking for, while a \"transitional form\" is one we have found.",
+      "D": "\"Missing link\" applies to humans, while \"transitional form\" applies to other animals."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q46",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 46,
+    "question": "How might the proliferation of the first forests at the end of the Devonian have created the very ecosystem that favored the adaptations seen in early tetrapods?",
+    "options": {
+      "A": "The forests dried up all the water, forcing fish onto land.",
+      "B": "Falling leaves and wood would have created rich organic debris in shallow waters, forming a new, complex, food-rich swampy habitat.",
+      "C": "The forests provided a place for the first tetrapods to hide from dinosaurs.",
+      "D": "The trees consumed all the atmospheric CO2, causing an ice age."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q47",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 47,
+    "question": "Why was the discovery of a neck in Tiktaalik so significant?",
+    "options": {
+      "A": "It allowed the animal to swim faster.",
+      "B": "Most fish have a head fused to their shoulders; a neck allows for independent head movement, a crucial adaptation for a predator hunting in shallow water or at the water's edge.",
+      "C": "It proved that Tiktaalik was a reptile.",
+      "D": "The neck contained an extra set of gills."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q48",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 48,
+    "question": "In what geological period did the \"radiation and diversification of the bony fish\" primarily occur, setting the stage for the emergence of tetrapods?",
+    "options": {
+      "A": "Cambrian",
+      "B": "Silurian",
+      "C": "Devonian",
+      "D": "Permian"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q49",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 49,
+    "question": "The fossil record of tetrapod evolution from fish is an example of which scale of evolution?",
+    "options": {
+      "A": "Microevolution",
+      "B": "Macroevolution",
+      "C": "Artificial selection",
+      "D": "Genetic drift"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q50",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 50,
+    "question": "While Acanthostega's limbs were not good for walking, what feature of the skeleton provided a clue that it was indeed a tetrapod?",
+    "options": {
+      "A": "The presence of sharp teeth.",
+      "B": "The strong connection between its pelvis and its backbone.",
+      "C": "Its large, fish-like tail fin.",
+      "D": "The lack of a neck."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q51",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 51,
+    "question": "Synthesize the evidence from Eusthenopteron, Tiktaalik, and Acanthostega to argue that the transition to land was not a single event, but a mosaic process where tetrapod-like traits were acquired sequentially for aquatic purposes.",
+    "options": {
+      "A": "These fossils show a clear, linear progression from fish to land animal in a single step.",
+      "B": "Eusthenopteron had the basic bone plan, Tiktaalik evolved a mobile neck and wrist for shallow water push-ups, and Acanthostega developed digits for paddling in swamps, all demonstrating that key \"terrestrial\" traits were actually adaptations for a more complex aquatic life.",
+      "C": "All three fossils were fully terrestrial, proving the transition happened much earlier.",
+      "D": "This sequence of fossils is unrelated to the transition to land."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q52",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 52,
+    "question": "The Poland trackways (395 Mya) show a tetrapod walking in a marine intertidal zone, while Tiktaalik (375 Mya) lived in a freshwater swamp. What is the most profound implication of this chronological and environmental discrepancy?",
+    "options": {
+      "A": "It suggests that Tiktaalik is not on the main line to terrestrial vertebrates but is a late-surviving side branch of a much earlier tetrapod radiation that may have originated in a marine environment.",
+      "B": "It proves that Tiktaalik is a fraudulent fossil.",
+      "C": "It means that land animals evolved in the sea and then moved back to freshwater swamps.",
+      "D": "It has no implication, as the dates are likely wrong."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q53",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 53,
+    "question": "Critique the initial \"shrinking pond\" hypothesis for the evolution of limbs. Why is it now considered less likely than the \"swampy navigation\" hypothesis?",
+    "options": {
+      "A": "The \"shrinking pond\" hypothesis is still the most accepted theory.",
+      "B": "The reinterpretation of the Devonian ecosystem shows it was not just arid but also had widespread, stable wetlands. Furthermore, the limbs of early tetrapods like Acanthostega were poorly suited for efficient land travel but well-suited for moving through tangled vegetation in water.",
+      "C": "There is no fossil evidence of shrinking ponds in the Devonian.",
+      "D": "The first limbs were too weak to drag a fish across dry land."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q54",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 54,
+    "question": "If a new, perfectly preserved Devonian fossil was discovered that had the head of Tiktaalik but the body and fins of a ray-finned fish (lacking the lobe-fin bone structure), how would it be classified?",
+    "options": {
+      "A": "As a direct ancestor of tetrapods.",
+      "B": "As a fascinating example of convergent evolution, where two unrelated lineages independently evolve similar features (a flat head and neck) in response to similar environmental pressures (e.g., shallow-water ambush predation).",
+      "C": "As a member of the Tiktaalik species.",
+      "D": "As a type of lobe-finned fish."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q55",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 55,
+    "question": "How does the existence of both phyletic gradualism (seen in some microfossils) and punctuated equilibrium (seen in the peppered moth) demonstrate the complexity of evolutionary tempo and mode?",
+    "options": {
+      "A": "It proves that only one of these theories can be correct.",
+      "B": "It shows that evolution does not happen.",
+      "C": "It suggests that the rate and pattern of evolution are not governed by a single, universal law but can vary dramatically depending on the species, the strength of selective pressures, and the stability of the environment.",
+      "D": "It indicates that microfossils and moths follow different laws of physics."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q56",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 56,
+    "question": "The modern rediscovery of the Coelacanth was a major media event. From a purely scientific perspective, why might the discovery of a fossil like Tiktaalik be considered more valuable for understanding the water-to-land transition?",
+    "options": {
+      "A": "Tiktaalik is a more complete fossil.",
+      "B": "Because Tiktaalik is a true intermediate form with a mosaic of fish and tetrapod features, it provides direct evidence of the anatomical changes during the transition, whereas the living Coelacanth is a deep-water survivor that reveals little about the actual transition itself.",
+      "C": "The Coelacanth is not a real fish.",
+      "D": "Because Tiktaalik is much more famous."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q57",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 57,
+    "question": "If the Zachełmie Quarry trackmaker was indeed an 8-foot-long, salamander-like tetrapod from 395 million years ago, what does this imply about the diversification and size of the very first tetrapods?",
+    "options": {
+      "A": "It implies that tetrapods were a highly diversified and already large-bodied group much earlier than the \"fishapod\" stage represented by Tiktaalik, pushing the origin of the group even further back in time.",
+      "B": "It means that Tiktaalik was the ancestor of this creature.",
+      "C": "It suggests that the first tetrapods were all very small.",
+      "D": "It proves that salamanders are the oldest form of tetrapod."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q58",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 58,
+    "question": "The transition from a fin to a limb is a classic example of macroevolution. Why can't this type of change be explained by microevolution alone?",
+    "options": {
+      "A": "Microevolution refers to small-scale changes within a population's gene pool, whereas the fin-to-limb transition involves the origin of new body structures and a fundamental change in the body plan, which is the definition of macroevolution.",
+      "B": "Microevolution and macroevolution are the same thing.",
+      "C": "The change from fin to limb was a single mutation, which is microevolution.",
+      "D": "Macroevolution is a disproven concept."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q59",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 59,
+    "question": "Why is an unconformity—a period of non-fossilization—paradoxically useful to paleontologists who support the punctuated equilibrium model?",
+    "options": {
+      "A": "It provides a complete record of evolution.",
+      "B": "The gaps in the rock record neatly correspond to the long periods of stasis predicted by the theory, making the sudden appearance of a new species above the gap seem plausible.",
+      "C": "It disproves the existence of transitional fossils.",
+      "D": "It is not useful at all; paleontologists prefer complete rock sequences."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q60",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 60,
+    "question": "What is the key functional difference between the \"one bone\" attachment of a lobe-fin and the multiple fine bones (rays) of a ray-finned fish's fin?",
+    "options": {
+      "A": "The ray-fin is stronger and can support weight on land.",
+      "B": "The single, robust bone of the lobe-fin provides a stronger structural precursor for a weight-bearing limb, whereas the delicate rays are adapted for fine maneuvering in water.",
+      "C": "There is no functional difference.",
+      "D": "The lobe-fin is an adaptation for flying."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q61",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 61,
+    "question": "The discovery of Acanthostega's aquatic features (gills, tail fin, paddle-like limbs) led to a major re-evaluation of early tetrapod life. This shift in understanding is an example of:",
+    "options": {
+      "A": "A scientific law being overturned.",
+      "B": "A scientific hypothesis being modified and refined in the face of new, contradictory evidence.",
+      "C": "A fossil being proven fraudulent.",
+      "D": "The personal opinion of a single scientist changing."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q62",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 62,
+    "question": "If you were a paleontologist looking for a creature even more primitive than Tiktaalik (a \"pre-fishapod\"), what combination of features and rock type would you search for?",
+    "options": {
+      "A": "A fully formed amphibian in marine rocks from 400 Mya.",
+      "B": "A lobe-finned fish with a slightly flattened skull and early signs of a mobile neck, in freshwater deltaic deposits dated to around 380-390 Mya.",
+      "C": "A jawless fish with legs in Cambrian rocks.",
+      "D": "A reptile with fins in Jurassic rocks."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q63",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 63,
+    "question": "How does the concept of a \"branching point\" from a common ancestor resolve the controversy of the \"missing link\" between humans and chimps?",
+    "options": {
+      "A": "It proves that there is a direct, linear link.",
+      "B": "It clarifies that the goal is not to find a creature that is half-chimp/half-human, but to find fossils of early hominins after the split from the lineage that led to chimpanzees.",
+      "C": "It shows that chimpanzees are more evolved than humans.",
+      "D": "It demonstrates that transitional fossils do not exist for human evolution."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q64",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 64,
+    "question": "The evolution of the tetrapod limb for navigating swamps is an example of exaptation. What later function was this feature co-opted for?",
+    "options": {
+      "A": "Swimming in the deep ocean",
+      "B": "Locomotion on land",
+      "C": "Digging burrows",
+      "D": "Flying"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q65",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 65,
+    "question": "Why is it significant that the fossil record contains a series of transitional forms like Eusthenopteron -> Panderichthys -> Tiktaalik -> Acanthostega?",
+    "options": {
+      "A": "It shows that evolution is a purely random process with no direction.",
+      "B": "This sequence provides powerful, concrete evidence for macroevolution, demonstrating the gradual acquisition of new traits and the modification of existing structures over time.",
+      "C": "It proves that all fish were destined to become land animals.",
+      "D": "It indicates that these animals all lived at the same time."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q66",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 66,
+    "question": "Critically analyze the statement: \"Since we found a living Coelacanth and it doesn't walk, the lobe-finned fish could not have been the ancestor of tetrapods.\" What is the flaw in this argument?",
+    "options": {
+      "A": "The argument is correct; it disproves the theory.",
+      "B": "The flaw is assuming that a modern, deep-sea surviving species represents the anatomy and behavior of all ancestral members of its group, especially the shallow-water species that lived 380 million years ago in a different environment.",
+      "C": "The living Coelacanth is not a lobe-finned fish.",
+      "D": "All Coelacanths went extinct with the dinosaurs."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q67",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 67,
+    "question": "How does the incomplete nature of the fossil record support the punctuated equilibrium model over the gradualist model?",
+    "options": {
+      "A": "An incomplete record would make a slow, gradual change appear as a series of jumps, matching the predictions of punctuated equilibrium.",
+      "B": "It supports the gradualist model by showing slow changes.",
+      "C": "An incomplete record proves that evolution does not occur.",
+      "D": "The fossil record is actually complete."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q68",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 68,
+    "question": "The trackways in Poland were found in marine sediments. What does this imply about the physiological capabilities of the creature that made them?",
+    "options": {
+      "A": "It was a freshwater animal that could not survive in salt water.",
+      "B": "It was an animal that was at least tolerant of saltwater environments, challenging the idea that the transition to land was an exclusively freshwater phenomenon.",
+      "C": "It was a land animal that had returned to the sea.",
+      "D": "It was not an animal, but a geological feature."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q69",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 69,
+    "question": "Why is the presence of a pelvis attached to a backbone a critical adaptation for a terrestrial lifestyle?",
+    "options": {
+      "A": "It helps with swimming.",
+      "B": "It allows the hind limbs to support the body's weight and transfer propulsive force to the rest of the skeleton, something not required in the buoyant environment of water.",
+      "C": "It protects the head from injury.",
+      "D": "It is not a critical adaptation."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q70",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 70,
+    "question": "The evolution of the tetrapod limb is a story of modification, not invention. What does this mean?",
+    "options": {
+      "A": "The limbs appeared suddenly from nothing.",
+      "B": "The bones of the limb (humerus, radius, ulna, etc.) were already present in the fins of their lobe-finned fish ancestors and were modified over time for a new function.",
+      "C": "Evolution can only invent entirely new structures.",
+      "D": "The tetrapod limb has not been modified since it first appeared."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q71",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 71,
+    "question": "If Tiktaalik is a \"missing link,\" what two things does it link?",
+    "options": {
+      "A": "Reptiles and birds.",
+      "B": "Its fish-like ancestral group and its tetrapod-like descendant group.",
+      "C": "Jawless fish and jawed fish.",
+      "D": "The past and the future."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q72",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 72,
+    "question": "What does the very existence of a diverse range of early tetrapods (Ichthyostega, Acanthostega, the Poland trackmaker) in the Late Devonian suggest about the initial evolution of this group?",
+    "options": {
+      "A": "It was a single, linear event.",
+      "B": "It suggests an early and rapid adaptive radiation, with different forms exploring different aquatic niches, rather than a single \"march onto land.\"",
+      "C": "All early tetrapods were identical.",
+      "D": "Tetrapods evolved only once and never diversified."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q73",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 73,
+    "question": "Why is the discovery of any transitional fossil considered a powerful refutation of anti-evolutionary arguments?",
+    "options": {
+      "A": "It is not a refutation.",
+      "B": "Because anti-evolutionary arguments often claim there are \"no missing links,\" each transitional fossil found is a direct, physical contradiction of that claim and a successful prediction of evolutionary theory.",
+      "C": "Because it proves that all species are transitional.",
+      "D": "Because it shows that the fossil record is complete."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q74",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 74,
+    "question": "The term \"fishapod\" is a blend of \"fish\" and \"tetrapod.\" Why is this a fitting name for Tiktaalik?",
+    "options": {
+      "A": "Because it was a fish that preyed on tetrapods.",
+      "B": "Because it was a tetrapod that lived like a fish.",
+      "C": "Because its anatomy is a mosaic, displaying clear characteristics of both its fish ancestors (scales, fins) and the tetrapods that would follow (flat skull, neck, wrist).",
+      "D": "Because it was discovered by a team of both ichthyologists and paleontologists."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q75",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 75,
+    "question": "Jenny Clack's work in Greenland, which led to the rediscovery and re-evaluation of Acanthostega, was prompted by \"disquiet\" over the original interpretation of Ichthyostega. What does this process demonstrate about the nature of science?",
+    "options": {
+      "A": "That scientific conclusions are permanent and can never be changed.",
+      "B": "That science is a self-correcting process where skepticism, new evidence, and the re-evaluation of old evidence can lead to a more accurate understanding.",
+      "C": "That scientists argue and can never agree on anything.",
+      "D": "That once a discovery is made, it is never questioned again."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q76",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 76,
+    "question": "The term \"tetrapod\" refers to animals that have (or ancestrally had) what feature?",
+    "options": {
+      "A": "A bony skeleton",
+      "B": "Four limbs",
+      "C": "A jaw",
+      "D": "Gills"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q77",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 77,
+    "question": "What is a \"living fossil,\" such as the brachiopod Lingula?",
+    "options": {
+      "A": "A species that was thought to be extinct but was rediscovered.",
+      "B": "The first fossil ever discovered.",
+      "C": "A species that has existed for a very long time but has evolved very little.",
+      "D": "A fossil that is perfectly preserved with soft tissues intact."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q78",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 78,
+    "question": "How does the case of the peppered moth illustrate the mechanism of punctuated equilibrium?",
+    "options": {
+      "A": "It shows a slow, gradual change in color over millions of years.",
+      "B": "A sudden environmental change (soot-covered trees) created a strong selective pressure, causing a rapid evolutionary shift in the population's traits in just a few decades.",
+      "C": "It proves that a species can never change.",
+      "D": "It is an example of a species forming a transitional fossil."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q79",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 79,
+    "question": "The famous fossil Archaeopteryx is considered a transitional form between which two major animal groups?",
+    "options": {
+      "A": "Fish and amphibians",
+      "B": "Reptiles and birds",
+      "C": "Amphibians and reptiles",
+      "D": "Mammals and birds"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q80",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 80,
+    "question": "What is the current scientific view on why limbs with digits first evolved?",
+    "options": {
+      "A": "To drag fish out of shrinking ponds.",
+      "B": "To walk purposefully across land.",
+      "C": "To help aquatic tetrapods navigate swampy, plant-tangled environments.",
+      "D": "To defend against predators."
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q81",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 81,
+    "question": "Why was the scientific community initially \"disquieted\" by the fossil Ichthyostega as a transitional form?",
+    "options": {
+      "A": "It was too fish-like, with no tetrapod features at all.",
+      "B": "It appeared too fully formed and well-adapted for land, looking more like a finished product than a creature in transition.",
+      "C": "The fossil was found in rocks that were far too young.",
+      "D": "It had feathers, which was not expected in an amphibian."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q82",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 82,
+    "question": "The paleontologist Neil Shubin and his team discovered the famous fossil Tiktaalik on what island?",
+    "options": {
+      "A": "Greenland",
+      "B": "Madagascar",
+      "C": "The Galapagos Islands",
+      "D": "Ellesmere Island"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q83",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 83,
+    "question": "A break in the sedimentary geologic record, representing a long period of missing time, is called an:",
+    "options": {
+      "A": "Unconformity",
+      "B": "Stratum",
+      "C": "Fault",
+      "D": "Fold"
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q84",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 84,
+    "question": "Which theory of evolution proposes that life changes very slowly in small, continuous steps over millions of years?",
+    "options": {
+      "A": "Punctuated Equilibrium",
+      "B": "Phyletic Gradualism",
+      "C": "Natural Selection",
+      "D": "Genetic Drift"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q85",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 85,
+    "question": "How did the rediscovery of the Coelacanth as a living species both excite and ultimately disappoint scientists looking for the \"missing link\"?",
+    "options": {
+      "A": "It excited them because a living lobe-fin was found, but it was disappointing because the deep-water species showed no signs of \"walking\" or other pre-adaptations for land life.",
+      "B": "It was exciting because it walked on land, but disappointing because it was a mammal.",
+      "C": "It was a hoax and not a real Coelacanth.",
+      "D": "It was exciting, but it went extinct again before it could be studied."
+    },
+    "correct_answer": "A",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q86",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 86,
+    "question": "The discovery of tetrapod trackways in Poland predates Tiktaalik. How old are these tracks?",
+    "options": {
+      "A": "~365 million years old",
+      "B": "~375 million years old",
+      "C": "~385 million years old",
+      "D": "~395 million years old"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q87",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 87,
+    "question": "What is the key structural feature of a lobe-finned fish that made it a good candidate for the ancestor of tetrapods?",
+    "options": {
+      "A": "Its streamlined, fast-swimming body.",
+      "B": "Its fin is joined to the body by a single bone, prefiguring the one-bone structure of a tetrapod limb.",
+      "C": "Its ability to breathe air through its skin.",
+      "D": "Its lack of scales."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q88",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 88,
+    "question": "What does the term \"missing link\" refer to?",
+    "options": {
+      "A": "The incorrect idea that humans descended directly from chimpanzees.",
+      "B": "A transitional fossil that shows an evolutionary step between groups.",
+      "C": "A fossil that has been lost.",
+      "D": "The last common ancestor of all life."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q89",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 89,
+    "question": "The discovery that Acanthostega had eight digits and paddle-like feet shattered a long-held assumption and led to a new hypothesis. What was this new hypothesis?",
+    "options": {
+      "A": "That all tetrapods were originally marine animals.",
+      "B": "That limbs and digits did not evolve for walking on land, but for navigating complex, swampy aquatic environments.",
+      "C": "That tetrapods evolved from insects, not fish.",
+      "D": "That five-digit limbs were an evolutionary mistake."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q90",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 90,
+    "question": "Why is it incorrect to say that \"humans descended from chimpanzees\"?",
+    "options": {
+      "A": "Because humans and chimpanzees are not related.",
+      "B": "Because both lineages diverged from a common ancestor; one did not descend from the other.",
+      "C": "Because chimpanzees descended from humans.",
+      "D": "Because evolution is not a proven theory."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q91",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 91,
+    "question": "What feature did Tiktaalik have that other fish lacked, allowing it more head mobility?",
+    "options": {
+      "A": "A large tail fin",
+      "B": "A neck",
+      "C": "Strong jaws",
+      "D": "Large eyes"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q92",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 92,
+    "question": "The Zachełmie Quarry trackways in Poland are a spectacular find, but what is the primary limitation of this evidence?",
+    "options": {
+      "A": "The tracks are not well preserved.",
+      "B": "As trace fossils, they show the animal's behavior (walking), but we do not have the body of the animal that made them.",
+      "C": "The age of the rocks is highly uncertain.",
+      "D": "The tracks were later proven to be from a large arthropod."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q93",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 93,
+    "question": "What does the very existence of a diverse range of early tetrapods (Ichthyostega, Acanthostega, the Poland trackmaker) in the Late Devonian suggest about the initial evolution of this group?",
+    "options": {
+      "A": "It was a single, linear event.",
+      "B": "It suggests an early and rapid adaptive radiation, with different forms exploring different aquatic niches, rather than a single \"march onto land.\"",
+      "C": "All early tetrapods were identical.",
+      "D": "Tetrapods evolved only once and never diversified."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q94",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 94,
+    "question": "Archaeopteryx had bird-like feathers, but what was one of its key reptile-like features?",
+    "options": {
+      "A": "A beak with no teeth",
+      "B": "Hollow bones",
+      "C": "A bony tail and teeth",
+      "D": "Large wings"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q95",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 95,
+    "question": "How might the proliferation of the first forests at the end of the Devonian have created the very ecosystem that favored the adaptations seen in early tetrapods?",
+    "options": {
+      "A": "The forests dried up all the water, forcing fish onto land.",
+      "B": "Falling leaves and wood would have created rich organic debris in shallow waters, forming a new, complex, food-rich swampy habitat.",
+      "C": "The forests provided a place for the first tetrapods to hide from dinosaurs.",
+      "D": "The trees consumed all the atmospheric CO2, causing an ice age."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q96",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 96,
+    "question": "In what geological period did the \"radiation and diversification of the bony fish\" primarily occur, setting the stage for the emergence of tetrapods?",
+    "options": {
+      "A": "Cambrian",
+      "B": "Silurian",
+      "C": "Devonian",
+      "D": "Permian"
+    },
+    "correct_answer": "C",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q97",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 97,
+    "question": "The transition from a fin to a limb is a classic example of exaptation. What later function was this feature co-opted for?",
+    "options": {
+      "A": "Swimming in the deep ocean",
+      "B": "Locomotion on land",
+      "C": "Digging burrows",
+      "D": "Flying"
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q98",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 98,
+    "question": "Why is the presence of a pelvis attached to a backbone a critical adaptation for a terrestrial lifestyle?",
+    "options": {
+      "A": "It helps with swimming.",
+      "B": "It allows the hind limbs to support the body's weight and transfer propulsive force to the rest of the skeleton, something not required in the buoyant environment of water.",
+      "C": "It protects the head from injury.",
+      "D": "It is not a critical adaptation."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q99",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 99,
+    "question": "Why is the discovery of any transitional fossil considered a powerful refutation of anti-evolutionary arguments?",
+    "options": {
+      "A": "It is not a refutation.",
+      "B": "Because anti-evolutionary arguments often claim there are \"no missing links,\" each transitional fossil found is a direct, physical contradiction of that claim and a successful prediction of evolutionary theory.",
+      "C": "Because it proves that all species are transitional.",
+      "D": "Because it shows that the fossil record is complete."
+    },
+    "correct_answer": "B",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "id": "hafta12_q100",
+    "file": "Hafta 12 Konuları",
+    "status": null,
+    "question_number": 100,
+    "question": "Scientists believe that the ancestor of all tetrapods came from which group of fish?",
+    "options": {
+      "A": "Ray-finned fish",
+      "B": "Sharks",
+      "C": "Jawless fish",
+      "D": "Lobe-finned fish"
+    },
+    "correct_answer": "D",
+    "user_answer": null,
+    "explanation": null,
+    "source": null
+  }
+]
